@@ -1,0 +1,1475 @@
+id,price_val,price_cur,new_build,floor,ax_floors,area,rooms,heating,badges,lat,lon
+1151874,610000,AZN,True,10,16,240.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3835750529501,49.8743249841309
+1574714,120000,AZN,True,15,17,88.0,2,True,"Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3767183197981,49.8064541816711
+1304324,234000,AZN,True,9,18,156.0,3,True,"Gənclik m.,Respublika stadionu,Nərimanov r.",40.3993135507586,49.8510646820068
+1574835,113000,AZN,True,10,16,80.0,2,False,"Qara Qarayev m.,Nizami r.",40.4118813202123,49.9304748137139
+1556511,135000,AZN,False,3,5,70.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3777036488414,49.8089246114828
+1574827,95000,AZN,True,12,13,56.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4167089754055,49.9658677412922
+1574825,126000,AZN,False,2,9,92.0,3,True,"Memar Əcəmi m.,Binəqədi r.",40.4174253486244,49.8094956313262
+1449659,467000,AZN,True,10,16,185.0,4,True,"Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3778090772822,49.8118808301511
+1187918,395000,AZN,True,5,11,185.0,4,True,"Elmlər Akademiyası m.,Yasamal r.",40.3771695282177,49.8117426963868
+1542358,157000,AZN,True,9,17,70.0,2,True,"Elmlər Akademiyası m.,Yasamal r.",40.378294354071,49.8118553517848
+1554264,72000,AZN,True,11,15,35.0,1,False,"Neft Akademiyası,Bakı Musiqi Akademiyası,28 May m.,Milli Konservatoriya,Nəsimi r.",40.3790944440251,49.8462795857698
+1574819,71000,AZN,False,2,5,60.0,2,True,"Memar Əcəmi m.,Nəsimi r.",40.4106452934809,49.8155292707626
+1574811,85000,AZN,True,17,20,80.0,2,False,"Sabunçu r.,Bakıxanov q.",40.4249967110825,49.9502849578857
+1574809,60000,AZN,True,5,7,64.0,2,True,"Abşeron r.,Masazır q.",40.4904259615941,49.7498267271847
+1574805,59000,AZN,False,5,9,51.0,2,True,Yasamal r.,40.3939424469589,49.7963285677303
+1574803,190000,AZN,True,10,17,101.0,3,False,Yasamal r.,40.3848191995348,49.8158196540894
+1574801,58500,AZN,True,4,6,65.0,3,False,"Abşeron r.,Masazır q.",40.4729373532636,49.756458116394
+1574792,200000,AZN,False,1,5,100.0,4,True,"Elmlər Akademiyası m.,Yasamal r.",40.3774310697829,49.8105410667481
+1574791,165000,AZN,True,15,18,87.0,2,True,"Park Zorge,Nəsimi bazarı,Tibb Universiteti,Rusiya səfirliyi,Nəsimi r.",40.39243545118,49.8347854606618
+1525160,90000,AZN,True,4,16,64.0,2,False,"Sabunçu r.,Bakıxanov q.",40.4288946455769,49.957625593142
+1574787,135000,AZN,False,1,2,70.0,3,True,"Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.",40.377823380227,49.8081378074708
+1574785,133000,AZN,True,16,18,131.0,3,True,"Nizami r.,8-ci kilometr q.",40.4112259221497,49.9534392332404
+1574780,105000,AZN,True,12,18,70.0,2,True,"Bakı Asiya Universiteti,Nəsimi r.",40.3977186756626,49.8164458808594
+1574750,56000,AZN,False,2,5,36.0,1,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4189243436895,49.9424852938453
+1574770,150000,AZN,True,5,18,145.0,4,True,"Bakı Asiya Universiteti,Nəsimi r.",40.3974356822969,49.8187258076223
+1574764,250000,AZN,True,10,16,167.0,3,False,"Dövlət Statistika Komitəsi,M.Hüseynzadə parkı,Nizami m.,Yasamal r.,Yasamal q.",40.3831597245686,49.8260901531221
+1574759,68000,AZN,False,2,5,48.0,2,True,"Nəsimi m.,Binəqədi r.,6-cı mikrorayon q.",40.4204634901276,49.8288084121948
+1574758,38000,AZN,True,1,7,38.0,1,True,"Sabunçu r.,Bakıxanov q.",40.4233566562244,49.9486239330216
+1574757,240000,AZN,True,11,16,170.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.382801783809,49.8701836534118
+1574755,162000,AZN,True,4,16,86.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3831173962845,49.8719217248535
+1574753,1200000,AZN,True,5,17,280.0,5,True,"Sevil Qazıyeva parkı,Rusiya səfirliyi,Park Zorge,M.Hüseynzadə parkı,Nəsimi r.",40.3881948552605,49.8323075509893
+1574752,142500,AZN,True,14,16,95.0,3,False,"Binəqədi r.,9-cu mikrorayon q.",40.4170274040404,49.8079427775886
+1574751,163000,AZN,True,16,17,96.0,2,True,"Yasamal bazarı,Yasamal r.",40.3820477478556,49.8070247730208
+1479209,142000,AZN,True,14,19,90.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3886107188197,49.8701327929761
+1531809,149000,AZN,True,8,17,101.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3895666038722,49.7869213978523
+1482384,57000,AZN,False,2,2,47.0,2,True,"Nizami kinoteatrı,Qış parkı,Milli Konservatoriya,Bakı Musiqi Akademiyası,Malokan bağı,Sahil m.,Yasamal r.",40.3751124607814,49.8404384508037
+1565311,315000,AZN,True,4,16,126.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4066216157559,49.8720723695866
+1498941,176000,AZN,True,8,16,116.0,3,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4042290826115,49.8728160563381
+1565307,210000,AZN,True,13,17,100.0,3,False,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4014890125765,49.873673471992
+1574749,72000,AZN,False,4,5,60.0,3,True,"Nəsimi m.,Binəqədi r.,6-cı mikrorayon q.",40.4252071348551,49.825052667184
+1574748,104000,AZN,True,11,19,55.0,2,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3888130870047,49.8030815998787
+1574747,95000,AZN,True,2,17,68.0,2,False,"Həzi Aslanov m.,Xətai r.",40.371086448919,49.9531068273163
+1551926,128000,AZN,True,5,17,96.0,3,False,"Yasamal r.,Yasamal q.",40.3886669072556,49.7865517696167
+1574744,93000,AZN,True,10,19,50.0,2,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3855442968142,49.8035965840095
+1574741,110000,AZN,True,8,16,95.0,3,False,"Bakı Dövlət Universiteti,Yasamal r.",40.3741944214583,49.8049382561523
+1574739,128900,AZN,False,4,7,85.0,3,True,"Binəqədi r.,Xutor q.",40.4132740119794,49.8280425638749
+1574738,72000,AZN,False,4,5,60.0,3,True,"Nəsimi m.,Zərifə Əliyeva adına park,Binəqədi r.,6-cı mikrorayon q.",40.4247182779626,49.8247046324021
+1558590,95000,AZN,True,11,11,110.0,3,True,"Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4192388179259,49.8156843578745
+1558590,95000,AZN,True,11,11,110.0,3,True,"Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4192388179259,49.8156843578745
+1574735,104000,AZN,True,8,12,64.0,2,False,"Zərifə Əliyeva adına park,Nəsimi r.,4-cü mikrorayon q.",40.4199683028929,49.81849268086
+1574733,150000,AZN,True,3,17,67.0,2,False,"Elmlər Akademiyası m.,Bakı Dövlət Universiteti,Yasamal r.",40.3756983379968,49.8126010032716
+1543084,217000,AZN,True,5,14,136.0,4,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3921574908074,49.8027304740968
+1574729,230000,AZN,False,2,5,100.0,3,True,"Dövlət Statistika Komitəsi,M.Hüseynzadə parkı,İzmir parkı,Nizami m.,Yasamal r.,Yasamal q.",40.3841810157478,49.8252505125327
+1574726,133000,AZN,False,2,9,90.0,3,True,"Binəqədi r.,Binəqədi q.",40.4133980242524,49.827847480774
+1574724,215000,AZN,True,5,12,135.0,3,True,"Memar Əcəmi m.,Nəsimi r.,5-ci mikrorayon q.",40.4123081064702,49.8143819722157
+1574722,135000,AZN,True,14,15,118.0,3,True,"Nizami r.,8-ci kilometr q.",40.4086129721067,49.9596190988339
+1574719,115000,AZN,False,5,9,80.0,3,True,"Binəqədi r.,9-cu mikrorayon q.",40.42483336318,49.8143720626831
+1574718,97000,AZN,False,3,5,55.0,3,True,"20 Yanvar m.,Nəsimi r.,4-cü mikrorayon q.",40.4071976542387,49.8083192020484
+1565159,67000,AZN,False,6,9,60.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4179492312006,49.9619753961563
+1574716,73000,AZN,True,17,22,50.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3940171284203,49.7966698815021
+1574712,259000,AZN,True,18,19,145.0,4,True,"İnşaatçılar m.,Yasamal r.",40.3944274126915,49.8068189620972
+1574710,140000,AZN,True,3,20,117.0,3,True,"Nəsimi bazarı,Park Zorge,Tibb Universiteti,Yasamal r.,Yeni Yasamal q.",40.3939208028387,49.8360443115235
+1484805,187000,AZN,True,4,18,96.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3902927112201,49.8026561737061
+1574707,130000,AZN,True,11,11,130.0,3,False,Nizami r.,40.4058228867966,49.9617121430129
+1574705,265000,AZN,True,12,18,172.0,4,False,Nərimanov r.,40.3979687975959,49.8653299756713
+1574704,125000,AZN,True,4,17,76.0,2,True,"Qara Qarayev m.,Nizami r.",40.4142919156778,49.9349798296493
+1574701,96000,AZN,True,8,18,90.0,2,False,Yasamal r.,40.3952461983459,49.8070434661927
+1574699,130000,AZN,True,19,20,115.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3939453163064,49.7952425479889
+1574695,155000,AZN,True,14,18,102.0,3,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3797339094738,49.8720665641403
+1481435,88000,AZN,False,5,5,75.0,2,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4201928825013,49.8383004982862
+1565546,195000,AZN,True,13,14,167.0,4,True,"Nəsimi r.,4-cü mikrorayon q.",40.4132209399552,49.8251202282647
+1574678,86000,AZN,False,5,5,50.0,2,True,"Azərbaycan turizm institutu,Gənclik m.,Nərimanov r.",40.4013641490849,49.8601465308083
+1574676,62000,AZN,False,3,5,60.0,2,True,"Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4132077234453,49.81088840597
+1533613,312255,AZN,True,4,17,231.3,4,True,"Montin bazarı,Nərimanov r.",40.3928176875547,49.8745688796043
+1574671,80000,AZN,True,14,16,56.0,1,False,"Tibb Universiteti,Nəsimi r.",40.3977513584407,49.8277755317383
+1353271,205605,AZN,True,17,17,152.3,3,True,"Montin bazarı,Nərimanov r.",40.3928176875547,49.8745688796043
+1574670,120000,AZN,True,3,4,150.0,3,True,Xətai r.,40.377246043462,49.9054939656402
+1541324,145000,AZN,False,2,5,56.0,2,True,"Pedaqoji Universiteti,Neft Akademiyası,Səməd Vurğun parkı,28 May m.,Sahil bağı,Malokan bağı,Azadlıq meydanı,Sahil m.,Nəsimi r.",40.3761069707806,49.8499439940292
+1574668,89000,AZN,False,2,9,65.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3953890807957,49.7965342235565
+1574664,79000,AZN,False,1,5,45.0,3,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.4036595204092,49.9425431356776
+1574662,44500,AZN,False,5,5,35.0,1,True,"Memar Əcəmi m.,Nəsimi r.,5-ci mikrorayon q.",40.4104937747246,49.811866844458
+1574658,140000,AZN,True,7,16,81.0,3,False,"Azərbaycan turizm institutu,Nərimanov r.",40.3977866968192,49.8636072326351
+1543747,275000,AZN,True,7,18,97.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3782464291313,49.8742820687866
+1568666,105000,AZN,True,3,13,50.0,2,True,"Bakı Asiya Universiteti,Nəsimi r.",40.3996558444342,49.8177411442145
+1574657,85000,AZN,False,2,5,70.0,3,True,"Suraxanı r.,Əmircan q.",40.4206108142535,50.0015601356066
+1573029,77000,AZN,False,5,5,68.0,3,True,"Avtovağzal m.,Binəqədi r.",40.4242448607838,49.7972197328763
+1574654,120000,AZN,False,7,9,115.0,5,True,"Yasamal r.,Yeni Yasamal q.",40.3996197966795,49.7931839900146
+1574649,165000,AZN,False,5,9,85.0,4,True,"Binəqədi r.,8-ci mikrorayon q.",40.4140735056482,49.8389532313547
+1574648,1200000,AZN,True,15,22,305.0,5,True,"İncəsənət və Mədəniyyət Un.,Dövlət Statistika Komitəsi,Yasamal r.",40.3812069629898,49.8194674583497
+1574647,280000,AZN,True,13,18,110.0,3,True,Yasamal r.,40.3831789598032,49.8098605871201
+1571456,79000,AZN,True,6,18,54.0,2,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.3965388025354,49.9533738771416
+1574646,130000,AZN,True,14,19,100.0,3,False,"Binəqədi r.,7-ci mikrorayon q.",40.4262572098486,49.8533103190491
+1521789,88000,AZN,True,13,14,88.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4043742951249,49.8739559598632
+1574640,295000,AZN,True,6,18,237.7,4,False,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.3997276949676,49.8587445995887
+1574636,100000,AZN,True,11,18,77.0,2,True,"Şərq bazarı,28 May m.,Nərimanov r.",40.3840493212502,49.8501205444336
+1574632,55000,AZN,False,5,5,34.0,1,True,"Memarlıq və İnşaat Universiteti,Bakı Dövlət Universiteti,Elmlər Akademiyası m.,Yasamal r.",40.3700894924571,49.8100376129151
+1574629,135000,AZN,False,9,9,95.0,3,True,Yasamal r.,40.3893955106471,49.8155192466798
+1574628,118000,AZN,True,10,17,45.0,2,True,"Elmlər Akademiyası m.,Yasamal r.",40.3792596865724,49.8114131854194
+1412167,151000,AZN,True,13,17,73.0,2,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3756353929552,49.8152610046342
+1527506,240000,AZN,True,4,22,183.0,4,False,"Yasamal r.,Yasamal q.",40.3877208959734,49.8138858735885
+1527357,120000,AZN,True,15,16,64.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3855358742735,49.8069706449829
+1292820,470000,AZN,True,7,16,226.0,4,True,"Sirk,Azərbaycan Dillər Universiteti,Zabitlər parkı,Bakı Slavyan Universiteti,Qış parkı,Nəsimi r.",40.3817512417598,49.8393197593384
+1574612,134000,AZN,True,16,17,134.0,4,True,"Tibb Universiteti,Nəsimi r.",40.3989606100784,49.8326678809814
+1565511,169000,AZN,False,5,5,130.0,4,True,"Texniki Universiteti,Memarlıq və İnşaat Universiteti,Hüseyn Cavid parkı,Space TV,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3701058405512,49.8154449462891
+1574606,62000,AZN,False,3,5,58.0,2,True,"Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4124423095425,49.8077220695086
+1574598,80000,AZN,True,13,20,82.0,3,False,"Sabunçu r.,Bakıxanov q.",40.4132295431775,49.9646806932418
+1574597,93000,AZN,True,10,17,50.0,2,True,"Şərq bazarı,Təhsil Nazirliyi,Nərimanov r.",40.3897233228302,49.8568564949896
+1574595,140000,AZN,False,3,5,70.0,3,True,"Tibb Universiteti,Nəsimi r.",40.3955876983154,49.8327827453613
+1574587,98000,AZN,True,11,13,71.0,2,True,"Ukrayna dairəsi,Həzi Aslanov m.,Xətai r.",40.3763012129762,49.9517120786285
+1574589,650000,AZN,True,10,16,200.0,4,True,"Port Baku,Səməd Vurğun parkı,Cavanşir körpüsü,Səbail r.",40.3785485841766,49.859398957422
+1574586,83000,AZN,False,2,5,50.0,2,True,"Hüseyn Cavid parkı,Texniki Universiteti,Elmlər Akademiyası m.,Yasamal r.",40.3722654358927,49.8161200614991
+1574582,112000,AZN,True,10,14,50.0,2,True,Nəsimi r.,40.4052846611255,49.8223700143567
+1574581,125000,AZN,True,4,16,92.0,2,True,"Binəqədi r.,9-cu mikrorayon q.",40.421066658569,49.8147770465695
+1514530,77000,AZN,True,9,17,50.0,2,False,"Şərq bazarı,Nərimanov r.",40.388494063795,49.8576413806054
+1574563,187000,AZN,True,4,19,127.0,3,True,"20 Yanvar m.,Yasamal r.",40.3996194382164,49.8072536867017
+1574557,123000,AZN,True,3,18,63.0,2,True,"Tibb Universiteti,Neftçi bazası,Nəsimi r.",40.3983411922307,49.8355432090454
+1476525,255000,AZN,True,7,16,140.0,3,True,"Şəhidlər xiyabanı,Səbail r.",40.3567355642144,49.8226138829033
+1461679,360000,AZN,True,4,11,186.0,4,True,"Şah İsmayıl Xətai m.,Cavanşir körpüsü,Xətai r.",40.3819823893085,49.866917651062
+1478325,232000,AZN,True,11,14,115.0,3,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3816365770519,49.8771768553078
+1574554,133000,AZN,True,17,18,70.0,2,True,"Qara Qarayev m.,Nizami r.",40.4119718727585,49.9324258346399
+1574554,133000,AZN,True,17,18,70.0,2,True,"Qara Qarayev m.,Nizami r.",40.4119718727585,49.9324258346399
+1574553,108000,AZN,True,4,17,50.0,2,False,"Azadlıq Prospekti m.,Nəsimi r.",40.4258477692699,49.8474931538439
+1574550,97000,AZN,True,2,16,65.0,2,True,"Binəqədi r.,Biləcəri q.",40.4066019140086,49.8259174777815
+1574548,35000,AZN,False,5,5,36.0,1,True,"Xəzər r.,Mərdəkan q.",40.4963898523527,50.1289990811258
+1574544,85000,AZN,False,3,9,80.0,3,True,Xətai r.,40.3689767708232,49.9640109909567
+1574545,95000,AZN,True,11,17,100.0,3,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4014734813502,49.8082667187323
+1574538,306000,AZN,True,16,18,185.0,4,True,"Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.",40.377994851213,49.807571916641
+1574539,123000,AZN,True,7,16,65.0,2,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3845557353348,49.8742391534424
+1566702,97000,AZN,True,6,17,85.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3953504,49.79312795033
+1574536,65000,AZN,False,5,5,45.0,2,True,"Memar Əcəmi m.,Nəsimi r.",40.4175529382515,49.8170381948082
+1470301,69500,AZN,False,5,5,42.5,2,True,"Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.",40.411620480578,49.8168821975215
+1574533,125000,AZN,True,3,19,114.0,3,False,"Binəqədi r.,7-ci mikrorayon q.",40.4291782823208,49.8528671264648
+1574532,220000,AZN,True,16,17,131.0,3,True,"İnşaatçılar m.,Yasamal r.",40.3929075716985,49.8067760467529
+1541708,130000,AZN,False,5,9,105.0,4,True,"20 Yanvar m.,Memar Əcəmi m.,Nəsimi r.,3-cü mikrorayon q.",40.4065555144732,49.814126116333
+1574530,120000,AZN,True,10,14,70.0,2,True,Nərimanov r.,40.4101418183787,49.8689277110043
+1574517,155000,AZN,True,4,16,110.0,2,False,"Neftçi bazası,TQDK,Nərimanov r.",40.4023154516733,49.8381645627684
+1574516,84900,AZN,True,15,17,58.0,2,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.4101631043083,49.9432468414307
+1574512,87000,AZN,True,11,19,45.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3900492439946,49.7979239555421
+1574509,139500,AZN,True,9,17,100.0,2,False,"Bakmil m.,Nəriman Nərimanov m.,Nərimanov r.",40.4096681748454,49.872845525331
+1574504,155000,AZN,True,6,18,113.0,3,True,"Yasamal bazarı,Yasamal r.",40.3819515906415,49.8085701917369
+1562813,123000,AZN,True,4,16,90.0,2,True,"Tibb Universiteti,Nəsimi bazarı,Nərimanov r.",40.3974046841671,49.8361440876034
+1574495,220000,AZN,True,11,19,140.0,3,True,Yasamal r.,40.3955413920944,49.806165731421
+1574493,155000,AZN,True,16,17,98.0,2,False,"Bakı Asiya Universiteti,Nəsimi r.",40.397261744937,49.819034456112
+1574491,120000,AZN,False,4,5,75.0,3,True,"Yasamal bazarı,Yasamal r.,Yasamal q.",40.3817782130147,49.8069477081299
+1439868,166000,AZN,True,7,17,106.0,3,False,"Qara Qarayev m.,Nizami r.",40.4191646855103,49.9336919413632
+1566995,85000,AZN,True,10,17,55.0,1,True,"Nəsimi r.,4-cü mikrorayon q.",40.4116918869884,49.8049784675381
+1574484,110000,AZN,False,2,9,88.0,3,True,Yasamal r.,40.399552920863,49.8011181616608
+1483517,570000,AZN,True,6,17,190.0,4,False,"Hüseyn Cavid parkı,Elmlər Akademiyası m.,İncəsənət və Mədəniyyət Un.,Yasamal r.",40.3754841485743,49.8200798034668
+1460282,455000,AZN,True,14,17,185.0,4,True,"Elmlər Akademiyası m.,Yasamal r.",40.3792781781817,49.8129872413697
+1574480,214000,AZN,True,7,10,158.0,4,True,"Binəqədi r.,8-ci mikrorayon q.",40.4155872252738,49.8362588882446
+1365471,455000,AZN,True,7,22,170.0,4,True,"İncəsənət və Mədəniyyət Un.,Dövlət Statistika Komitəsi,Yasamal r.",40.3809437547055,49.8211526870728
+1544605,117000,AZN,True,2,10,90.0,3,True,"Abşeron r.,Masazır q.",40.4728305099045,49.756633679285
+1401886,395000,AZN,True,16,18,190.0,4,True,"Nəsimi bazarı,Nəsimi r.",40.3961172001,49.8420341548614
+1234231,145000,AZN,True,6,10,134.6,3,False,"Neapol dairəsi,Xətai r.,Əhmədli q.",40.3825402297982,49.9665496548108
+1549484,112500,AZN,True,7,9,89.0,3,True,"Abşeron r.,Masazır q.",40.4731569720768,49.7560640765776
+1413324,299000,AZN,True,15,17,136.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3792209676196,49.8128370376649
+1551172,35500,AZN,True,7,7,40.0,2,True,"Abşeron r.,Masazır q.",40.4727652172796,49.7565868624268
+1350019,285000,AZN,True,10,19,155.0,3,True,"Botanika bağı,Səbail r.",40.3548426500541,49.8167411052491
+1567565,109000,AZN,True,9,16,55.0,2,True,"20 Yanvar m.,Yasamal r.",40.3978101614279,49.8083639144897
+1542424,345000,AZN,True,15,17,155.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3791637570089,49.812858495337
+1554960,119000,AZN,True,6,7,90.0,3,True,"Abşeron r.,Masazır q.",40.4725812103137,49.7571408616975
+1444896,195000,AZN,True,16,19,105.0,3,True,"Botanika bağı,Səbail r.",40.3547772428419,49.8168269359376
+1556093,112500,AZN,True,7,10,89.3,3,True,"Abşeron r.,Masazır q.",40.472812702786,49.7565946654547
+1574477,86000,AZN,False,4,5,60.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3889506336504,49.8066074327825
+1574474,85000,AZN,False,8,9,60.0,2,True,"Binəqədi r.,Biləcəri q.",40.4202354797473,49.8123670429351
+1574470,225000,AZN,True,16,18,112.0,2,True,"Botanika bağı,Səbail r.,Badamdar q.",40.3550622006123,49.8157541136712
+1574464,200000,AZN,True,3,18,150.0,4,True,"Zərifə Əliyeva adına park,Nəsimi r.,4-cü mikrorayon q.",40.4217809231049,49.8180979661936
+979013,104000,AZN,True,10,12,112.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3928233444384,49.7949141693116
+1486345,71000,AZN,True,15,19,51.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3909929504752,49.7890776824951
+1574463,210000,AZN,True,9,11,144.0,3,True,"Sirk,Zabitlər parkı,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Qış parkı,Nəsimi r.",40.3820098436763,49.8386861187166
+1534727,74000,AZN,True,2,12,55.0,2,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3927579740821,49.7961157989502
+1485310,93000,AZN,True,2,4,93.0,3,True,"Səbail r.,Badamdar q.",40.3405831964637,49.8056153240271
+1574458,84000,AZN,False,4,5,60.0,2,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.",40.3836884037905,49.8032172628183
+1574456,123000,AZN,True,9,17,100.0,4,True,"Yasamal r.,Yeni Yasamal q.",40.3926458928808,49.7876151381135
+1574454,105000,AZN,False,6,9,80.0,3,True,"Suraxanı r.,Yeni Günəşli q.",40.3742530179473,49.9756876496055
+1574452,205000,AZN,True,8,16,145.0,3,True,"Xalqlar Dostluğu m.,Nizami r.",40.3944708033768,49.9543640962685
+1574448,109000,AZN,False,7,9,65.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3858832792026,49.8069405678539
+1557703,329000,AZN,True,12,19,180.0,4,True,"Park Zorge,Koala parkı,Dostluq kinoteatrı,Rusiya səfirliyi,Nəsimi r.",40.3888692298438,49.8388798770599
+1574443,244000,AZN,True,3,7,143.0,3,False,"Ağ şəhər,Xətai r.",40.3837058114263,49.8843671746826
+1574442,110000,AZN,False,2,9,90.0,3,True,Yasamal r.,40.3992102621793,49.8011429994065
+1574440,150000,AZN,False,3,9,110.0,4,True,"20 Yanvar m.,Memar Əcəmi m.,Yasamal r.",40.4089830954283,49.8091427438566
+1574438,211000,AZN,True,5,7,160.0,4,False,Xətai r.,40.3884456348179,49.8762990899658
+1574432,58000,AZN,True,14,19,80.0,1,True,"Xətai r.,Əhmədli q.",40.3875705792745,49.9666924071619
+1574429,185000,AZN,True,5,7,135.0,3,False,"Ağ şəhər,Xətai r.",40.3829539467218,49.8860837884521
+1559093,95000,AZN,True,3,16,55.0,1,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3847703039005,49.8748189367872
+1574422,222000,AZN,True,9,17,160.0,3,False,"Nəsimi bazarı,Nəsimi r.",40.396149883655,49.8397489127808
+1574425,110000,AZN,False,7,9,60.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3852359835947,49.8084704013886
+1574420,120000,AZN,True,2,14,92.0,2,True,"Xətai r.,Əhmədli q.",40.3935439287449,49.9655261902228
+1574423,40000,AZN,False,5,7,38.6,2,True,"Suraxanı r.,Massiv A q.",40.3741106760013,49.9759176137695
+1574415,93000,AZN,True,14,17,90.0,3,True,"Xətai r.,Əhmədli q.",40.3601559092091,49.9657069604489
+1574405,450000,AZN,True,6,7,144.0,3,False,"Ağ şəhər,Xətai r.",40.3794233393676,49.884624666748
+1552877,42500,AZN,True,6,11,69.0,1,False,Abşeron r.,40.4720570436011,49.7386264801025
+1574403,350000,AZN,True,10,17,204.0,4,True,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Sirk,Bakı Musiqi Akademiyası,28 May m.,Neft Akademiyası,Nəsimi r.",40.3821349752589,49.8437797191288
+1574401,89000,AZN,True,13,17,65.0,2,True,"Xətai r.,Həzi Aslanov q.",40.3799221384618,49.9256612035721
+1574398,137000,AZN,True,17,17,134.0,3,True,"Neftçi bazası,Tibb Universiteti,Nərimanov r.",40.3990357530847,49.8350358009338
+1574399,167000,AZN,True,17,17,164.0,4,True,"Neftçi bazası,Tibb Universiteti,Nərimanov r.",40.3994721833842,49.8350746579833
+1574397,100000,AZN,True,17,17,97.0,2,True,"Neftçi bazası,Tibb Universiteti,Nərimanov r.",40.3993087735117,49.8350746579833
+1479347,105000,AZN,True,4,7,45.0,1,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3817528503069,49.8736381530762
+1574393,67000,AZN,True,4,9,70.0,3,True,"Abşeron r.,Masazır q.",40.4920283458566,49.7506616845974
+1574392,43500,AZN,True,2,7,41.0,2,True,"Abşeron r.,Masazır q.",40.4924581139205,49.7491836547852
+1560677,155000,AZN,True,15,17,91.0,3,True,"İnşaatçılar m.,Yasamal r.",40.3912913198721,49.8083952995362
+1526275,150000,AZN,False,3,9,110.0,4,True,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4075574111542,49.8051374055017
+1574385,140000,AZN,False,2,9,104.0,5,True,"Xəzər r.,Buzovna q.",40.51946183901,50.1025915429649
+1574381,85000,AZN,True,2,10,90.0,3,True,"Abşeron r.,Masazır q.",40.4924581139205,49.7491836547852
+1574378,148000,AZN,True,11,11,91.0,3,True,"M.Hüseynzadə parkı,Dövlət Statistika Komitəsi,İzmir parkı,Nizami m.,Yasamal r.",40.3840992193769,49.8274610891484
+1574374,41500,AZN,True,4,10,40.0,2,True,"Abşeron r.,Masazır q.",40.4924581139205,49.7491836547852
+1574372,145000,AZN,False,6,9,90.0,3,True,"Gənclik m.,Nərimanov r.",40.4065637897002,49.8492367215819
+1574371,70000,AZN,False,4,5,50.0,2,False,"Zoopark,Şərq bazarı,Nərimanov r.",40.3903610530499,49.8495548961182
+1574370,47000,AZN,False,5,5,36.0,2,True,"Əhmədli m.,Xətai r.,Əhmədli q.",40.3904809247732,49.9557015916134
+1574369,40000,AZN,True,3,7,41.0,2,True,"Abşeron r.,Masazır q.",40.4924547962798,49.7496102586636
+1574366,265000,AZN,True,9,17,131.0,3,True,"Dövlət Statistika Komitəsi,M.Hüseynzadə parkı,Nizami m.,Yasamal r.,Yasamal q.",40.3826706056844,49.8261891995101
+1574365,230000,AZN,True,6,16,105.0,3,True,"Cavanşir körpüsü,Xətai r.",40.3802387369961,49.8614610275788
+1574362,47000,AZN,False,1,5,32.0,1,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Yasamal r.",40.3825309273779,49.820958766562
+1574359,136500,AZN,True,9,18,105.0,3,True,Binəqədi r.,40.4163330124927,49.8340144342745
+1524270,93500,AZN,True,9,12,58.5,1,False,"Memar Əcəmi m.,Nəsimi r.,3-cü mikrorayon q.",40.4126589072553,49.8132911330737
+1574351,265000,AZN,True,12,17,171.0,3,True,Nəsimi r.,40.3967381849414,49.8247714576416
+1574350,210000,AZN,True,10,18,97.0,3,True,"Dostluq kinoteatrı,Zoopark,Bakı Slavyan Universiteti,Nəsimi r.",40.3877960223242,49.845723597716
+1574349,141850,AZN,True,7,16,135.1,3,False,"Şərq bazarı,Nərimanov r.",40.3895904804502,49.8566681004316
+1574347,216000,AZN,True,20,20,87.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3809338121045,49.8698458514169
+1574346,210000,AZN,True,6,10,110.0,4,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.",40.3812094032391,49.8251628685601
+1574343,135000,AZN,False,2,5,85.0,4,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4071567766764,49.8726189136505
+1574340,245000,AZN,True,3,10,140.0,3,True,"Nizami m.,Yasamal r.",40.3788695302435,49.8269347282472
+1574338,690000,AZN,True,11,28,266.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3782806145554,49.8746588860552
+1529895,1100000,AZN,True,14,24,267.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3788801202332,49.8741984562057
+1574336,141000,AZN,True,13,17,91.0,2,False,"Nəsimi bazarı,Koala parkı,Zoopark,Dostluq kinoteatrı,Nərimanov r.",40.3940784410928,49.8437711421868
+1574331,80000,AZN,False,2,5,116.0,5,True,"Suraxanı r.,Zığ q.",40.3663293252265,49.9836730957032
+1574329,430000,AZN,True,11,21,180.0,4,True,"Neft Akademiyası,Bakı Musiqi Akademiyası,Milli Konservatoriya,28 May m.,Nizami kinoteatrı,Sahil m.,Nəsimi r.",40.3781797060491,49.8465778169327
+1574325,99000,AZN,True,11,16,59.0,2,False,"Azərbaycan turizm institutu,Nərimanov r.",40.3987989564401,49.8642371051685
+1574324,126000,AZN,True,10,16,55.0,2,False,"İdman kompleksi,İzmir parkı,M.Hüseynzadə parkı,Nəsimi r.",40.3899070366836,49.8243852195435
+1574323,130000,AZN,True,9,18,68.0,2,True,Nərimanov r.,40.4142294945322,49.8696894072386
+1574318,80000,AZN,True,15,17,63.0,2,True,"Xətai r.,Əhmədli q.",40.3936920100429,49.9666786193848
+1574317,22000,AZN,True,7,12,44.0,1,False,"Sabunçu r.,Zabrat q.",40.4880846466126,49.9592971801758
+1574314,170000,AZN,False,6,6,120.0,4,True,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3768010253722,49.9607799050457
+1515506,240000,AZN,False,4,5,90.0,3,True,"Malokan bağı,Nizami kinoteatrı,Sahil bağı,Milli Konservatoriya,Pedaqoji Universiteti,Bakı Musiqi Akademiyası,Sahil m.,Neft Akademiyası,28 May m.,Səbail r.",40.3750504397438,49.8459771835115
+1574307,160000,AZN,False,1,9,78.0,3,True,"Gənclik m.,Respublika stadionu,Nərimanov r.",40.4015358908839,49.8512363433838
+1574306,80000,AZN,False,7,9,60.0,2,True,"Xətai r.,Əhmədli q.",40.3674232936623,49.9617978968506
+1564673,174000,AZN,True,9,15,110.0,3,False,"İnşaatçılar m.,Yasamal r.",40.3904414809571,49.8029879661622
+1574300,225000,AZN,True,14,16,133.5,4,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4223335543339,49.8364387578888
+1574297,128000,AZN,True,8,18,87.0,2,True,"20 Yanvar m.,Nəsimi r.,3-cü mikrorayon q.",40.4039085042473,49.8080321374512
+1574296,125000,AZN,True,7,12,116.0,4,True,"Xətai r.,Əhmədli q.",40.3613911395415,49.9564244743321
+1574291,125000,AZN,True,4,14,98.6,3,True,Xətai r.,40.3660090937737,49.9560864914273
+1076663,78000,AZN,False,1,5,47.0,2,True,"Tibb Universiteti,Nəsimi bazarı,Nəsimi r.",40.3959353378029,49.8350457705931
+1574265,107000,AZN,True,10,14,56.0,2,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3895813898969,49.8032643272045
+1574255,70000,AZN,True,4,5,60.0,2,True,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3700411614797,49.9492679031215
+1574248,170000,AZN,False,2,4,85.0,3,True,"Nizami m.,Yasamal r.",40.3808737774436,49.8293825846658
+1574242,120000,AZN,True,16,18,63.0,2,True,"Təhsil Nazirliyi,Nərimanov r.",40.3927956477532,49.8584351198801
+1574241,126000,AZN,True,8,16,78.0,2,False,"Sevil Qazıyeva parkı,Rusiya səfirliyi,M.Hüseynzadə parkı,Park Zorge,Nəsimi r.",40.3897832968056,49.8307387990632
+1511749,130000,AZN,True,1,5,71.5,2,True,"Gənclik m.,Nərimanov r.",40.4052729768886,49.8556203790374
+1574233,71500,AZN,True,2,9,60.0,2,True,"Xətai r.,Əhmədli q.",40.3649109013337,49.9607250132446
+1574230,395000,AZN,True,14,18,125.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3790310382398,49.8755266137695
+1574228,108000,AZN,True,3,14,65.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3908664017551,49.8029021354737
+1526956,135000,AZN,False,3,10,70.0,2,True,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.4011665785123,49.8582006718235
+1574220,130000,AZN,True,11,11,113.0,3,True,"Koala parkı,Nəsimi bazarı,Dostluq kinoteatrı,Park Zorge,Yasamal r.,Yeni Yasamal q.",40.3920121049123,49.8412317637156
+1574216,450000,AZN,True,6,20,181.0,4,True,"Neftçi bazası,TQDK,Nəsimi r.",40.3995402578002,49.8380654395245
+1574215,185000,AZN,False,6,7,120.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3804542686461,49.8718632955224
+1574212,110000,AZN,True,9,16,92.0,2,True,"Ukrayna dairəsi,Həzi Aslanov m.,Əhmədli m.,Xətai r.,Həzi Aslanov q.",40.3784955728115,49.952802851001
+1561275,75000,AZN,False,2,2,40.0,2,True,"Beşmərtəbə,Mərkəzi Univermaq,Nizami m.,Nəsimi r.",40.3743919807026,49.8350872335129
+1574208,85000,AZN,False,1,5,64.0,3,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4176129896336,49.9341487884521
+1574204,80000,AZN,False,9,9,85.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4292446925444,49.9567343597412
+1574202,445230,AZN,True,10,32,97.0,2,False,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754916069175,49.8600845581182
+1574201,95000,AZN,True,12,17,60.0,2,True,"Qara Qarayev m.,Nizami r.",40.4164034171103,49.9308040255384
+1574199,85000,AZN,True,16,17,70.0,1,False,"Təhsil Nazirliyi,Nərimanov r.,Böyükşor q.",40.3926792996984,49.8580469123749
+1574198,130000,AZN,True,17,17,120.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3892641063173,49.804033968287
+1574197,840000,AZN,True,5,17,167.0,3,True,"Səməd Vurğun parkı,Port Baku,28 May m.,Səbail r.",40.3773829645513,49.8556096363224
+1574195,69000,AZN,False,6,9,65.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4182991217984,49.9618721008301
+1560006,235000,AZN,True,13,18,100.0,3,True,"Şah İsmayıl Xətai m.,Nəsimi r.",40.382960780727,49.8638673362427
+999104,370000,AZN,True,13,20,170.0,3,True,"Nizami m.,Beşmərtəbə,Yasamal r.,Yasamal q.",40.3779779619336,49.8305613897776
+1560232,115000,AZN,True,5,17,47.0,1,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3897452119528,49.8030477762222
+1574190,510000,AZN,True,7,24,85.0,2,False,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754755318935,49.860034396179
+1553115,58000,AZN,True,1,7,67.0,2,True,"Abşeron r.,Masazır q.",40.5062282657581,49.7508362062988
+1565005,91200,AZN,True,4,16,57.0,2,False,"Qara Qarayev m.,Nizami r.",40.4120275827129,49.9346573940807
+1574188,1000000,AZN,True,5,24,150.0,3,False,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754674629588,49.8601141881989
+1574187,67000,AZN,True,1,17,98.0,2,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4011568451327,49.8082804736735
+1574186,85000,AZN,True,14,17,62.0,2,True,"Xətai r.,Əhmədli q.",40.3693360695516,49.9612507262116
+1360816,828800,AZN,True,7,9,224.0,4,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Bakı Musiqi Akademiyası,Nəsimi r.",40.3772399153706,49.838681479955
+1360771,939800,AZN,True,6,9,254.0,5,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Nəsimi r.",40.3772025930775,49.8382704755237
+1574181,661980,AZN,True,13,19,236.0,5,True,"Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Sovetski,Nərimanov heykəli,Səbail r.",40.3682209041813,49.8297468391825
+1402745,353600,AZN,True,13,19,136.0,3,True,"Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Qubernator parkı,Prezident parkı,M.Ə.Sabir parkı,Nərimanov heykəli,Sovetski,Səbail r.",40.367892323358,49.8299064390954
+1574176,78000,AZN,True,6,17,55.0,2,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.406132727046,49.9523989456359
+1574174,310000,AZN,True,9,16,166.0,3,True,"Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Sirk,28 May m.,Nəsimi r.",40.3834965021499,49.8423282035952
+1571991,13000,AZN,False,1,1,16.0,1,False,"Səbail r.,Bayıl q.",40.3418785702317,49.8279065515637
+1574173,148000,AZN,True,3,17,170.0,3,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4008430983558,49.808352384192
+1574170,750000,AZN,True,7,16,230.0,4,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Nəsimi r.",40.3774835308327,49.8384312535892
+1260891,62000,AZN,False,2,9,35.4,2,True,"20 Yanvar m.,Yasamal r.",40.4089892938692,49.8041578018044
+1479952,315000,AZN,True,14,19,203.0,4,False,"28 May m.,Bakı Slavyan Universiteti,Nəsimi r.",40.383498960635,49.8492168380552
+1574198,130000,AZN,True,17,17,120.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3892641063173,49.804033968287
+1574197,840000,AZN,True,5,17,167.0,3,True,"Səməd Vurğun parkı,Port Baku,28 May m.,Səbail r.",40.3773829645513,49.8556096363224
+1574195,69000,AZN,False,6,9,65.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4182991217984,49.9618721008301
+1560006,235000,AZN,True,13,18,100.0,3,True,"Şah İsmayıl Xətai m.,Nəsimi r.",40.382960780727,49.8638673362427
+999104,370000,AZN,True,13,20,170.0,3,True,"Nizami m.,Beşmərtəbə,Yasamal r.,Yasamal q.",40.3779779619336,49.8305613897776
+1560232,115000,AZN,True,5,17,47.0,1,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3897452119528,49.8030477762222
+1574190,510000,AZN,True,7,24,85.0,2,False,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754755318935,49.860034396179
+1553115,58000,AZN,True,1,7,67.0,2,True,"Abşeron r.,Masazır q.",40.5062282657581,49.7508362062988
+1565005,91200,AZN,True,4,16,57.0,2,False,"Qara Qarayev m.,Nizami r.",40.4120275827129,49.9346573940807
+1574188,1000000,AZN,True,5,24,150.0,3,False,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754674629588,49.8601141881989
+1574187,67000,AZN,True,1,17,98.0,2,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4011568451327,49.8082804736735
+1574186,85000,AZN,True,14,17,62.0,2,True,"Xətai r.,Əhmədli q.",40.3693360695516,49.9612507262116
+1360816,828800,AZN,True,7,9,224.0,4,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Bakı Musiqi Akademiyası,Nəsimi r.",40.3772399153706,49.838681479955
+1360771,939800,AZN,True,6,9,254.0,5,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Nəsimi r.",40.3772025930775,49.8382704755237
+1574181,661980,AZN,True,13,19,236.0,5,True,"Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Sovetski,Nərimanov heykəli,Səbail r.",40.3682209041813,49.8297468391825
+1402745,353600,AZN,True,13,19,136.0,3,True,"Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Qubernator parkı,Prezident parkı,M.Ə.Sabir parkı,Nərimanov heykəli,Sovetski,Səbail r.",40.367892323358,49.8299064390954
+1574176,78000,AZN,True,6,17,55.0,2,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.406132727046,49.9523989456359
+1574174,310000,AZN,True,9,16,166.0,3,True,"Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Sirk,28 May m.,Nəsimi r.",40.3834965021499,49.8423282035952
+1571991,13000,AZN,False,1,1,16.0,1,False,"Səbail r.,Bayıl q.",40.3418785702317,49.8279065515637
+1574173,148000,AZN,True,3,17,170.0,3,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4008430983558,49.808352384192
+1574170,750000,AZN,True,7,16,230.0,4,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Nəsimi r.",40.3774835308327,49.8384312535892
+1260891,62000,AZN,False,2,9,35.4,2,True,"20 Yanvar m.,Yasamal r.",40.4089892938692,49.8041578018044
+1479952,315000,AZN,True,14,19,203.0,4,False,"28 May m.,Bakı Slavyan Universiteti,Nəsimi r.",40.383498960635,49.8492168380552
+1574141,144000,AZN,False,9,10,102.0,3,True,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.4012212842502,49.8595785623482
+1499299,550000,AZN,True,14,18,210.0,4,True,"Park Zorge,Nəsimi bazarı,Koala parkı,Nəsimi r.",40.3924973981512,49.836723381012
+1573588,88500,AZN,True,3,17,65.0,1,False,"Binəqədi r.,8-ci mikrorayon q.",40.4164188449184,49.8417976424611
+1573586,87000,AZN,True,1,9,65.0,3,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3921042670291,49.7958583068848
+1573577,110000,AZN,True,8,19,55.0,2,False,Yasamal r.,40.395344594973,49.8069013042509
+1573569,125000,AZN,True,10,16,111.2,3,True,"Neftçilər m.,Nizami r.",40.4024182692037,49.9395206853753
+1574198,130000,AZN,True,17,17,120.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3892641063173,49.804033968287
+1574197,840000,AZN,True,5,17,167.0,3,True,"Səməd Vurğun parkı,Port Baku,28 May m.,Səbail r.",40.3773829645513,49.8556096363224
+1574195,69000,AZN,False,6,9,65.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4182991217984,49.9618721008301
+1560006,235000,AZN,True,13,18,100.0,3,True,"Şah İsmayıl Xətai m.,Nəsimi r.",40.382960780727,49.8638673362427
+999104,370000,AZN,True,13,20,170.0,3,True,"Nizami m.,Beşmərtəbə,Yasamal r.,Yasamal q.",40.3779779619336,49.8305613897776
+1560232,115000,AZN,True,5,17,47.0,1,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3897452119528,49.8030477762222
+1574190,510000,AZN,True,7,24,85.0,2,False,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754755318935,49.860034396179
+1553115,58000,AZN,True,1,7,67.0,2,True,"Abşeron r.,Masazır q.",40.5062282657581,49.7508362062988
+1565005,91200,AZN,True,4,16,57.0,2,False,"Qara Qarayev m.,Nizami r.",40.4120275827129,49.9346573940807
+1574188,1000000,AZN,True,5,24,150.0,3,False,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754674629588,49.8601141881989
+1574187,67000,AZN,True,1,17,98.0,2,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4011568451327,49.8082804736735
+1574186,85000,AZN,True,14,17,62.0,2,True,"Xətai r.,Əhmədli q.",40.3693360695516,49.9612507262116
+1360816,828800,AZN,True,7,9,224.0,4,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Bakı Musiqi Akademiyası,Nəsimi r.",40.3772399153706,49.838681479955
+1360771,939800,AZN,True,6,9,254.0,5,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Nəsimi r.",40.3772025930775,49.8382704755237
+1574181,661980,AZN,True,13,19,236.0,5,True,"Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Sovetski,Nərimanov heykəli,Səbail r.",40.3682209041813,49.8297468391825
+1402745,353600,AZN,True,13,19,136.0,3,True,"Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Qubernator parkı,Prezident parkı,M.Ə.Sabir parkı,Nərimanov heykəli,Sovetski,Səbail r.",40.367892323358,49.8299064390954
+1574176,78000,AZN,True,6,17,55.0,2,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.406132727046,49.9523989456359
+1574174,310000,AZN,True,9,16,166.0,3,True,"Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Sirk,28 May m.,Nəsimi r.",40.3834965021499,49.8423282035952
+1571991,13000,AZN,False,1,1,16.0,1,False,"Səbail r.,Bayıl q.",40.3418785702317,49.8279065515637
+1574173,148000,AZN,True,3,17,170.0,3,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4008430983558,49.808352384192
+1574170,750000,AZN,True,7,16,230.0,4,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Nəsimi r.",40.3774835308327,49.8384312535892
+1260891,62000,AZN,False,2,9,35.4,2,True,"20 Yanvar m.,Yasamal r.",40.4089892938692,49.8041578018044
+1479952,315000,AZN,True,14,19,203.0,4,False,"28 May m.,Bakı Slavyan Universiteti,Nəsimi r.",40.383498960635,49.8492168380552
+1574165,94000,AZN,True,12,18,67.8,1,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4029690595912,49.86906361062
+1497330,520000,AZN,True,11,15,238.0,5,True,"Bakı Musiqi Akademiyası,Bakı Slavyan Universiteti,Neft Akademiyası,Azərbaycan Dillər Universiteti,28 May m.,Milli Konservatoriya,Nəsimi r.",40.3807742110569,49.844049624566
+1574164,115000,AZN,False,9,9,100.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3781297770489,49.8115799071638
+1533949,98000,AZN,False,4,5,50.0,2,True,"Elmlər Akademiyası m.,Bakı Dövlət Universiteti,Yasamal r.",40.3771318229934,49.8110483080929
+1537080,243500,AZN,True,18,18,166.0,3,True,"Nəsimi bazarı,Koala parkı,Park Zorge,Nəsimi r.",40.3942392697772,49.8399290596873
+1574159,360000,AZN,False,2,2,330.0,4,True,"Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,M.Ə.Sabir parkı,Sovetski,İçəri Şəhər m.,Mərkəzi Univermaq,Nərimanov heykəli,Prezident parkı,Səbail r.",40.3694409998815,49.8297422243043
+1574158,147000,AZN,True,8,15,85.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4068299938421,49.8695826530457
+1499703,520000,AZN,True,11,16,240.0,4,True,"Bakı Slavyan Universiteti,Bakı Musiqi Akademiyası,Azərbaycan Dillər Universiteti,Neft Akademiyası,Milli Konservatoriya,28 May m.,Qış parkı,Sirk,Nəsimi r.",40.3808359005378,49.8438044128113
+1574152,63000,AZN,False,7,9,50.0,2,True,Xətai r.,40.3610956119294,49.9623876203321
+1552180,105000,AZN,False,5,5,67.0,3,True,"Ayna Sultanova heykəli,Binəqədi r.",40.4141136388831,49.846307229466
+1574150,295000,AZN,False,1,2,130.0,6,True,"Sahil m.,Malokan bağı,Sahil bağı,Xalça Muzeyi,Nizami kinoteatrı,Pedaqoji Universiteti,Səbail r.",40.37172428234,49.8440265655518
+1574148,120000,AZN,False,2,5,65.0,3,True,"Space TV,Texniki Universiteti,Yasamal r.",40.3665239686056,49.8185476674639
+1574146,115000,AZN,True,4,17,95.0,3,True,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3732758898387,49.9526998438721
+1574147,56500,AZN,False,2,9,42.0,2,True,Xətai r.,40.3672647579043,49.9474912840618
+1574145,180000,AZN,True,5,17,100.0,2,False,Səbail r.,40.3447721992367,49.8414687517751
+1574143,98000,AZN,False,3,5,83.0,3,True,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3693344011512,49.9480713868989
+1574142,165000,AZN,True,8,17,82.0,3,True,"Yasamal bazarı,Yasamal r.",40.381157926772,49.8029879661622
+1574141,144000,AZN,False,9,10,102.0,3,True,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.4012212842502,49.8595785623482
+1499299,550000,AZN,True,14,18,210.0,4,True,"Park Zorge,Nəsimi bazarı,Koala parkı,Nəsimi r.",40.3924973981512,49.836723381012
+1323043,268000,AZN,True,5,16,180.0,3,True,"Tibb Universiteti,Nəsimi r.",40.395577920639,49.8334013655094
+1530216,330000,AZN,True,4,16,163.0,3,True,Nəsimi r.,40.3958573392944,49.8171937465668
+1574134,55000,AZN,False,1,5,50.0,2,True,"Qaradağ r.,Lökbatan q.",40.3304469442263,49.7439358571377
+1539394,255000,AZN,True,16,17,163.6,3,False,"Nəriman Nərimanov m.,Nərimanov r.",40.4026014059183,49.8787410207457
+1315303,250000,AZN,True,11,17,191.8,4,False,"Tibb Universiteti,Nəsimi r.",40.3925813387658,49.8290864011494
+1574130,124000,AZN,True,18,18,90.0,3,True,"Nəsimi r.,4-cü mikrorayon q.",40.4204269038351,49.8095333576203
+1280741,680000,AZN,True,4,4,260.0,5,False,Nərimanov r.,40.4057082007475,49.8423078448993
+1567050,54500,AZN,False,4,5,32.0,1,True,"İnşaatçılar m.,Yasamal r.",40.3902927112201,49.8026561737061
+1574128,75000,AZN,True,12,19,40.0,1,True,"İnşaatçılar m.,Yasamal bazarı,Yasamal r.",40.3850153335313,49.8034648034659
+1567054,95000,AZN,True,5,16,58.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3878592123021,49.8059491249146
+1508223,170000,AZN,True,11,16,126.7,3,True,"Yasamal r.,Yasamal q.",40.3897370402882,49.7881507873536
+1574126,70000,AZN,True,6,11,58.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4092318106488,49.9654340744019
+1574124,138000,AZN,True,6,17,130.0,3,True,"Təhsil Nazirliyi,Nərimanov r.",40.3919534834696,49.8572289949199
+1574123,83000,AZN,True,9,17,67.0,2,False,"Binəqədi r.,7-ci mikrorayon q.",40.4327776119824,49.8576533511002
+1574122,79000,AZN,False,2,5,54.0,3,True,"Memar Əcəmi m.,Nəsimi r.,5-ci mikrorayon q.",40.4128778125024,49.8106635469597
+1574115,117000,AZN,False,1,9,87.0,3,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4176129896336,49.9341487884521
+1574113,97000,AZN,True,15,18,68.0,2,True,"Binəqədi r.,9-cu mikrorayon q.",40.4248660327922,49.8143291473389
+1574105,200000,AZN,True,4,16,98.0,3,True,"Zabitlər parkı,Sirk,Azərbaycan Dillər Universiteti,Rusiya səfirliyi,Nəsimi r.",40.3858684075166,49.8377560971623
+1574101,122000,AZN,False,3,4,94.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4255030870593,49.9536216259003
+1509107,260000,AZN,True,12,16,116.0,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3749805745675,49.8155288204241
+1440630,115000,AZN,False,1,5,87.0,3,True,"Neftçi bazası,Nərimanov r.",40.4047041007497,49.8388190217681
+1574097,322000,AZN,True,10,20,202.0,4,False,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Milli Konservatoriya,Nəsimi r.",40.380091268766,49.8482095551368
+1574095,187000,AZN,True,13,17,85.0,2,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3751685187338,49.8156112941457
+1574094,98000,AZN,False,1,3,50.0,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4124498753423,49.9383806498947
+1574089,500000,AZN,True,18,22,223.0,4,True,"Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Park Zorge,Zoopark,Nəsimi r.",40.3915818300589,49.8416507942817
+1431878,308000,AZN,True,5,20,165.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3824309054561,49.8712350793457
+1465843,117700,AZN,True,17,17,117.7,3,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4184167312014,49.9327201438721
+1521484,375000,AZN,False,5,7,95.0,3,False,"İçəri Şəhər m.,Qubernator parkı,Dövlət İdarəçilik Akademiyası,Prezident parkı,İqsadiyyat Universiteti,Axundov bağı,İçəri Şəhər,M.Ə.Sabir parkı,Azneft meydanı,Şəlalə parkı,Səbail r.",40.3657727063589,49.831489247623
+1574086,340000,AZN,True,5,17,160.0,3,True,"Təhsil Nazirliyi,Nərimanov r.",40.3920538309697,49.8615355431118
+1330940,207000,AZN,True,12,19,115.0,3,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3946332601073,49.8065083718958
+1574082,520000,AZN,True,8,14,263.0,5,True,"Park Zorge,Rusiya səfirliyi,Koala parkı,Dostluq kinoteatrı,Sevil Qazıyeva parkı,Nəsimi r.",40.3886068249283,49.8370380926633
+1540685,147000,AZN,True,12,16,95.0,3,False,"Binəqədi r.,9-cu mikrorayon q.",40.4165926141825,49.8054224055947
+1496678,210000,AZN,True,12,25,176.0,4,False,"Yasamal r.,Yasamal q.",40.3883641865649,49.8148548603058
+1574080,325000,AZN,True,11,16,202.0,4,True,"Zabitlər parkı,Sirk,Rusiya səfirliyi,Azərbaycan Dillər Universiteti,Nəsimi r.",40.3856771796479,49.8373599435061
+1574079,122000,AZN,True,4,17,101.0,2,False,"Bakı Asiya Universiteti,Nəsimi r.",40.398823318796,49.8179984092712
+1574077,510000,AZN,True,8,18,230.0,4,True,"Rəssamlıq Akademiyası,Nərimanov r.",40.3958238470211,49.8679929940434
+1574074,520000,AZN,True,11,17,350.0,7,True,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Səməd Vurğun parkı,Milli Konservatoriya,Nəsimi r.",40.3800069436329,49.8483484576095
+1548850,73000,AZN,True,14,16,66.0,2,False,"Koala parkı,Nəsimi bazarı,Dostluq kinoteatrı,Zoopark,Nərimanov r.",40.3925480344033,49.8419666290284
+1574072,190000,AZN,True,3,16,100.0,3,True,"Yasamal bazarı,Yasamal r.",40.3804546316827,49.8084865432867
+1574071,265000,AZN,True,17,18,150.0,3,True,"Binəqədi r.,8-ci mikrorayon q.",40.4181185613779,49.8425759231916
+1574070,67500,AZN,True,5,7,90.0,3,True,"Abşeron r.,Masazır q.",40.4920338348004,49.747177362442
+1574069,150000,AZN,False,2,9,100.0,4,True,"Azərbaycan turizm institutu,Nərimanov r.",40.3974458729308,49.8642570920653
+1574068,125000,AZN,True,10,16,65.0,3,False,"Yasamal bazarı,Yasamal r.",40.3806843026707,49.8084516338051
+1574067,249000,AZN,True,11,16,150.0,3,True,"Rəssamlıq Akademiyası,Montin bazarı,Nərimanov r.",40.3945409209243,49.8716382341021
+1410426,167000,AZN,True,16,17,82.0,3,False,"Neftçi bazası,Nərimanov r.",40.4017435395392,49.8331863828368
+1574063,265600,AZN,True,17,18,166.0,3,True,"Zabitlər parkı,Sirk,Azərbaycan Dillər Universiteti,Rusiya səfirliyi,Nəsimi r.",40.3855863799969,49.8375880619017
+1574062,640000,AZN,True,13,16,220.0,4,True,"Sirk,Zabitlər parkı,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Nəsimi r.",40.3830727891599,49.8388011296928
+1574061,114999,AZN,False,2,5,58.4,2,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4049461849082,49.8667676397033
+1574060,410000,AZN,True,14,19,190.0,4,True,"TQDK,Nəsimi r.",40.3989556357534,49.8423472689013
+1574056,470000,AZN,True,8,16,172.0,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3751085055194,49.8156843492611
+1574052,210000,AZN,True,10,16,97.0,3,True,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Bakı Slavyan Universiteti,Milli Konservatoriya,Nəsimi r.",40.3808431654213,49.8465223837399
+1574050,215000,AZN,True,9,17,109.0,2,True,"Nəsimi bazarı,Koala parkı,Nəsimi r.",40.3951439493978,49.8405786085629
+1553866,112000,AZN,False,4,9,85.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3949877894939,49.7961157989502
+1574049,290000,AZN,True,14,17,141.0,3,True,"Nəsimi bazarı,Nəsimi r.",40.3955893904124,49.840221343633
+1574048,310000,AZN,True,15,17,170.0,4,True,"Tibb Universiteti,Nəsimi r.",40.3955228655636,49.8335868245724
+1574047,290000,AZN,True,8,16,135.0,3,False,"Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Park Zorge,Zoopark,Nəsimi r.",40.3915438041083,49.8416767606417
+1574044,330000,AZN,True,4,7,165.0,4,True,"Binəqədi r.,8-ci mikrorayon q.",40.4176871023228,49.8405622063413
+1564657,106000,AZN,False,6,9,85.0,3,True,"Suraxanı r.,Yeni Günəşli q.",40.3752926656253,49.9742672329029
+1574043,300000,AZN,True,13,16,145.0,3,True,"Nəsimi bazarı,Nəsimi r.",40.3956106394911,49.8402868323287
+1574042,116600,AZN,True,5,18,123.0,3,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4175739815788,49.9341823715991
+1572009,175000,AZN,True,3,10,90.0,2,True,"Neftçi bazası,Nəsimi r.",40.404285642438,49.8363193464632
+1574040,69500,AZN,False,5,5,50.0,2,True,"Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.",40.3735634164202,49.9455297344793
+1486386,139000,AZN,True,10,16,93.5,3,True,"Yasamal r.,Yasamal q.",40.4005512988023,49.7977932962497
+1574039,210000,AZN,True,9,20,78.0,2,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3792519779561,49.8755586147308
+1574038,58000,AZN,False,8,9,35.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3923003798113,49.791223449707
+1574035,50000,AZN,True,11,15,73.0,1,True,Abşeron r.,40.4591631889772,49.7525153465271
+1574032,115000,AZN,True,10,17,56.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3905794899371,49.8024658286009
+1488474,350000,AZN,True,5,16,192.0,4,False,"Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4165861725961,49.8153305990483
+1529231,98800,AZN,True,9,16,52.0,2,False,"Azərbaycan turizm institutu,Nərimanov r.",40.3987242069519,49.8626819045764
+1536461,96000,AZN,False,5,5,75.0,3,True,"Yasamal bazarı,Yasamal r.,Yasamal q.",40.3784109207649,49.8046275043886
+1574027,63000,AZN,True,3,7,58.0,2,False,"Abşeron r.,Masazır q.",40.451147367952,49.7431127753249
+1574025,290000,AZN,True,12,16,125.0,3,True,"Dostluq kinoteatrı,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Koala parkı,Nəsimi r.",40.387208257097,49.8435951969953
+1475332,370000,AZN,True,10,11,186.0,4,True,"Şah İsmayıl Xətai m.,Cavanşir körpüsü,Xətai r.",40.3817937134633,49.8662674427032
+1217546,690000,AZN,True,11,25,286.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3783935440351,49.8749615615188
+1470182,210000,AZN,True,9,14,210.0,4,False,"Bakı Asiya Universiteti,20 Yanvar m.,Nəsimi r.",40.4009149502931,49.8150157928467
+1261224,138500,AZN,True,5,6,120.0,3,True,"Səbail r.,Bayıl q.",40.3381692208777,49.8326827028982
+1275905,480000,AZN,True,7,17,244.0,5,False,"M.Hüseynzadə parkı,Nizami m.,Yasamal r.",40.3835770042949,49.8289946647706
+1468407,122000,AZN,True,10,16,84.0,2,False,"Bakı Asiya Universiteti,Nəsimi r.",40.3984376931166,49.8153300819092
+1527847,208000,AZN,True,9,17,138.0,3,True,"Port Baku,Cavanşir körpüsü,Xətai r.",40.3755331889218,49.8600554466248
+1572716,195000,AZN,True,15,17,148.0,3,False,"Nizami m.,Beşmərtəbə,Yasamal r.",40.3789698862241,49.830341111291
+1532082,34000,AZN,False,1,9,46.0,2,True,"Suraxanı r.,Yeni Günəşli q.",40.3752564771595,49.9783976684351
+1555774,420000,AZN,True,8,16,220.0,4,True,"İdman kompleksi,Yasamal r.",40.39183880657,49.8211518856111
+1431687,255000,AZN,True,8,16,145.0,3,True,"Şəhidlər xiyabanı,Səbail r.",40.3573843112225,49.8232923547762
+963806,140000,AZN,False,10,10,80.0,3,True,"Beşmərtəbə,Nizami m.,Qış parkı,Yasamal r.",40.3783622179218,49.8342108631584
+1574016,107000,AZN,True,12,17,67.0,2,False,"Dərnəgül m.,Binəqədi r.,7-ci mikrorayon q.",40.4199119547206,49.8601393311401
+1574012,100000,AZN,False,2,9,70.0,2,True,"Ayna Sultanova heykəli,Nərimanov r.",40.4125728551568,49.848294054804
+1574003,80000,AZN,False,1,9,50.0,2,True,"Xətai r.,Əhmədli q.",40.3888559119507,49.9627650861192
+1574001,86000,AZN,False,1,5,50.0,2,True,"Nərimanov r.,Böyükşor q.",40.4087181714032,49.8358199080603
+1574011,110000,AZN,True,7,17,66.5,2,False,"Binəqədi r.,7-ci mikrorayon q.",40.4314988018951,49.8560719719772
+1573991,96000,AZN,True,16,17,87.0,3,False,"Xətai r.,Həzi Aslanov q.",40.3761956895683,49.9308202479995
+1573990,32000,AZN,True,4,11,47.0,2,False,"Sabunçu r.,Zabrat q.",40.4957352869738,49.9600562584444
+1573983,115000,AZN,False,2,9,100.0,5,True,"Xətai r.,Əhmədli q.",40.3641694555272,49.9489245222533
+1573982,115000,AZN,True,3,12,86.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3932809351555,49.7939700317383
+1573981,113000,AZN,True,5,17,75.0,3,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3938227488785,49.7970935981635
+1555034,112000,AZN,True,11,14,48.0,2,True,"Bakı Asiya Universiteti,Nəsimi r.",40.3983607759948,49.8175712728309
+1452702,310000,AZN,True,15,17,142.0,3,True,"Tibb Universiteti,Neftçi bazası,Nəsimi r.",40.3995408308533,49.8327389278479
+1229428,245000,AZN,True,15,17,116.0,3,True,"Tibb Universiteti,Nəsimi r.",40.3994200361467,49.8326688301665
+1421040,500000,AZN,True,4,17,200.0,4,True,"Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.379672521092,49.8115495793022
+1573974,450000,AZN,True,14,24,178.0,4,True,Yasamal r.,40.3967227742041,49.8159250759137
+1573973,115000,AZN,False,2,5,101.0,5,True,"Binəqədi r.,Biləcəri q.",40.4382592368532,49.8050022133976
+1573968,330000,AZN,True,8,9,178.0,4,True,"Nizami m.,Beşmərtəbə,Yasamal r.",40.3786553509019,49.8278045654297
+1573958,122000,AZN,True,8,12,74.0,2,True,"Memar Əcəmi m.,Nəsimi r.,3-cü mikrorayon q.",40.4099670435562,49.8133850097657
+1443058,210000,AZN,True,10,19,140.0,3,True,"20 Yanvar m.,Nəsimi r.",40.3999143285956,49.8058262839174
+1540854,195000,AZN,True,15,21,148.0,3,False,"Nizami m.,Beşmərtəbə,Yasamal r.",40.3790172880176,49.8301250469594
+1573945,165000,AZN,True,4,14,115.0,3,True,"Binəqədi r.,8-ci mikrorayon q.",40.4160788407418,49.8408483095093
+1403522,399000,AZN,True,7,14,170.0,4,True,"Nəsimi bazarı,Tibb Universiteti,Nəsimi r.",40.3959127482307,49.8367948501606
+1573928,125000,AZN,True,17,17,85.0,3,True,"Binəqədi r.,Binəqədi q.",40.4183777593161,49.8508720864744
+1573925,200000,AZN,True,8,17,144.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3800137382242,49.8102835746827
+1573922,42000,AZN,False,5,5,42.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4302554069133,49.9630408169696
+1573917,68000,AZN,False,4,9,54.0,2,True,Yasamal r.,40.3939430240436,49.7963707280195
+1573913,320000,AZN,True,5,16,200.0,4,True,"Neftçi bazası,Nəsimi r.",40.4023308104999,49.8362654510545
+1573911,95000,AZN,False,6,9,60.0,2,True,"Binəqədi r.,9-cu mikrorayon q.",40.4197700595494,49.8124142636154
+1573910,128000,AZN,False,2,9,90.0,3,True,Yasamal r.,40.3904355576764,49.814462894909
+1573909,82000,AZN,True,3,13,77.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3890485529069,49.7877002863612
+1573908,200000,AZN,True,6,16,180.0,3,True,"20 Yanvar m.,Yasamal r.",40.4034493791322,49.8115710350099
+1573900,128000,AZN,False,2,9,90.0,4,True,Yasamal r.,40.3914874350218,49.8146367999139
+1573894,155000,AZN,True,12,12,130.0,3,True,Binəqədi r.,40.418063830227,49.8422904829378
+1331080,180000,AZN,True,16,17,126.0,4,True,"Həzi Aslanov m.,Xətai r.",40.3734280402563,49.9526170812446
+1573887,100000,AZN,False,5,8,60.0,3,True,"Şəlalə parkı,Prezident parkı,Dövlət İdarəçilik Akademiyası,Nərimanov heykəli,Qubernator parkı,Axundov bağı,İçəri Şəhər m.,Yasamal r.",40.3651848848655,49.8265171051026
+1573884,122000,AZN,False,6,9,110.0,5,True,"Yasamal r.,Yeni Yasamal q.",40.3998234154891,49.7957080866317
+1573883,88000,AZN,True,16,20,68.0,3,True,"20 Yanvar m.,Yasamal r.",40.3983598208668,49.8051265377861
+1573881,430000,AZN,True,4,17,180.0,4,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4067332770733,49.8721296491652
+1573878,150000,AZN,True,5,18,146.0,4,False,Nəsimi r.,40.3969996505299,49.8172183570557
+1573877,100000,AZN,False,3,5,50.0,2,True,"Yasamal bazarı,Yasamal r.,Yasamal q.",40.3830031179727,49.8080297866981
+1573876,285000,AZN,True,16,17,180.0,4,True,"TQDK,Nəsimi bazarı,Nəsimi r.",40.3976395277206,49.8408006668264
+1213973,124000,AZN,True,2,4,155.0,4,True,"Xətai r.,Həzi Aslanov q.",40.3755544748027,49.9289163525691
+1037259,145000,AZN,True,2,5,90.0,4,True,"Memar Əcəmi m.,Nəsimi r.,5-ci mikrorayon q.",40.4122274910214,49.8145310684972
+1573871,129000,AZN,True,2,16,80.0,2,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3873746033873,49.8055610105214
+1573868,128000,AZN,False,4,5,62.0,3,True,"Bakmil m.,Nərimanov r.",40.4102100043348,49.8723345223721
+1573864,63000,AZN,False,8,9,56.0,2,True,"Suraxanı r.,Yeni Günəşli q.",40.3775853531718,49.9605161216161
+1573853,74500,AZN,False,1,5,46.1,2,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.4000227372204,49.9495705006061
+1573838,190000,AZN,False,9,9,110.0,4,True,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Rəssamlıq Akademiyası,Nərimanov r.",40.4007467667776,49.8729259916015
+1573836,210000,AZN,True,6,12,130.0,3,False,"Nəriman Nərimanov parkı,Rəssamlıq Akademiyası,Nəriman Nərimanov m.,Nərimanov r.",40.3996682747078,49.8692567296691
+1573835,180000,AZN,True,16,17,126.0,4,True,"Həzi Aslanov m.,Ukrayna dairəsi,Xətai r.",40.3755329188561,49.9534501500702
+1552079,72000,AZN,False,2,9,65.0,2,True,"Xətai r.,Əhmədli q.",40.3645618746076,49.9619883370686
+1573831,135000,AZN,False,1,5,42.0,2,True,"Texniki Universiteti,Space TV,Hüseyn Cavid parkı,Yasamal r.,Yasamal q.",40.3684518704706,49.8180944160924
+1573828,62000,AZN,False,1,3,17.0,1,True,"Fontanlar bağı,Xalça Muzeyi,Sahil m.,Azərbaycan kinoteatrı,Səbail r.",40.3705746507255,49.8405895525685
+1573824,86000,AZN,True,5,19,52.0,2,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4003120256344,49.8093394371095
+1573823,150000,AZN,True,9,9,81.0,2,True,"Gənclik m.,Respublika stadionu,Nərimanov r.",40.4025442151664,49.8506100125975
+1573815,216000,AZN,True,16,18,137.9,3,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.",40.3842307941188,49.8033122161574
+1573808,150000,AZN,False,2,9,100.0,4,True,"Təhsil Nazirliyi,Nərimanov r.",40.3933276992647,49.86005138833
+1470458,175000,AZN,True,10,15,110.0,3,False,"Binəqədi r.,9-cu mikrorayon q.",40.4235159738796,49.8112840769995
+1481294,185000,AZN,True,12,18,90.0,2,True,"Nizami m.,Beşmərtəbə,Yasamal r.",40.3792438050184,49.8297786712646
+1573806,70000,AZN,True,14,18,55.0,2,False,"Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.",40.3730974751957,49.9534606933594
+1573804,118000,AZN,True,11,18,68.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3952281753303,49.8041152954102
+1481248,238000,AZN,True,15,15,128.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1573802,196300,AZN,True,16,16,154.0,4,True,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4027402975418,49.8752863355346
+1573800,90000,AZN,True,12,16,50.0,2,False,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4263369006179,49.8461388793987
+1573797,130000,AZN,False,4,9,100.0,4,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.",40.3837996746723,49.8024000843798
+1573795,215000,AZN,True,15,19,100.0,3,True,"Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.",40.3816070502804,49.862601764774
+1573790,122000,AZN,True,14,17,79.0,2,True,"Neftçi bazası,TQDK,Binəqədi r.,7-ci mikrorayon q.",40.3994457034389,49.8383536910615
+1573788,80000,AZN,True,17,17,62.8,2,True,"Həzi Aslanov m.,Xətai r.",40.3710674574954,49.9530295582707
+1573785,82000,AZN,False,5,5,55.0,3,True,Nizami r.,40.4050348926634,49.9323133472345
+1573781,69000,AZN,False,3,4,60.0,2,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4052700758663,49.8763269399716
+1406225,60000,AZN,True,4,5,65.0,3,True,"Dostluq kinoteatrı,Koala parkı,Park Zorge,Azərbaycan Dillər Universiteti,Abşeron r.,Masazır q.",40.3882007497338,49.8405075073243
+1573778,81000,AZN,True,12,18,65.0,1,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3832154658317,49.8749257989502
+1262377,208000,AZN,True,12,16,130.2,3,False,"28 May m.,Neft Akademiyası,Bakı Slavyan Universiteti,Bakı Musiqi Akademiyası,Nəsimi r.",40.381407990259,49.8476024207764
+1573772,235000,AZN,True,12,17,151.0,3,True,"Nizami m.,Nəsimi r.",40.3808359005378,49.8311873016052
+1573769,205000,AZN,True,5,7,115.0,3,True,"Ağ şəhər,Xətai r.",40.3840163415623,49.8809731447421
+1570233,112000,AZN,True,7,11,93.5,3,True,Yasamal r.,40.3936890179288,49.7934349120368
+1573761,58000,AZN,False,4,5,30.0,1,True,"Memar Əcəmi m.,Nəsimi r.,5-ci mikrorayon q.",40.4087906670488,49.8151016235352
+1573757,110000,AZN,True,3,3,69.0,3,False,"Bakı Dövlət Universiteti,Yasamal r.",40.3711602044873,49.8060677392641
+1573756,56000,AZN,True,14,16,54.0,2,True,Abşeron r.,40.440057280676,49.7641984102123
+1573753,414000,AZN,True,16,18,143.0,3,True,"Azadlıq meydanı,Port Baku,Nəsimi r.",40.3737511755698,49.8556926390066
+1573751,125000,AZN,True,12,14,85.0,2,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4100186257865,49.8712404798893
+1573750,85000,AZN,True,12,17,65.2,1,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3831500861494,49.874174780426
+1573742,84000,AZN,False,1,5,55.0,2,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4090684244674,49.8699474334717
+1137649,700000,AZN,True,3,14,190.0,4,True,"Fontanlar bağı,Azərbaycan kinoteatrı,Mərkəzi Univermaq,M.Ə.Sabir parkı,Xalça Muzeyi,Sahil m.,İçəri Şəhər m.,Səbail r.",40.3709308966231,49.8380271159913
+450459,650000,AZN,True,12,17,350.0,5,True,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Bakı Slavyan Universiteti,Milli Konservatoriya,Nəsimi r.",40.3805841535412,49.8470091819763
+1404735,330000,AZN,True,18,21,128.0,3,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3801098608446,49.8737241693115
+1529893,150000,AZN,False,2,5,105.0,4,True,"Xalqlar Dostluğu m.,Xətai r.",40.3959365836659,49.956819716919
+1390009,360000,AZN,True,12,18,120.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3776906588179,49.8722221322632
+713623,670000,AZN,True,12,15,360.0,5,True,"Rusiya səfirliyi,Zabitlər parkı,Sevil Qazıyeva parkı,Nəsimi r.",40.3863114171521,49.8342986640625
+1573740,133000,AZN,True,16,19,131.0,3,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.4101631043083,49.9432468414307
+1483299,360000,AZN,True,4,19,140.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3789676059748,49.8119143577638
+1483288,420000,AZN,True,14,19,153.0,4,True,Yasamal r.,40.3826616878813,49.8108414741578
+1528189,220000,AZN,False,3,10,120.0,3,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Bakı Musiqi Akademiyası,Sahil m.,Nəsimi r.",40.3757130032238,49.839563369751
+1573735,133920,AZN,True,4,13,93.0,2,True,"Ayna Sultanova heykəli,Nərimanov r.",40.4109556355292,49.8425419278808
+1573734,145000,AZN,True,8,18,92.0,2,True,"Binəqədi r.,7-ci mikrorayon q.",40.4287536033531,49.8526847362518
+1573733,115000,AZN,False,1,5,130.0,4,False,"Sabunçu r.,Bakıxanov q.",40.4249967110825,49.9502849578857
+1573731,49000,AZN,False,5,5,34.0,2,True,"Zərifə Əliyeva adına park,Nəsimi r.,4-cü mikrorayon q.",40.4191773066394,49.8179683725253
+1573728,78000,AZN,False,2,5,74.0,3,True,"Xəzər r.,Buzovna q.",40.5166908324301,50.1299090192626
+1573721,230000,AZN,True,12,17,127.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3831531508234,49.8647977777099
+1573720,220000,AZN,True,9,16,158.2,3,True,"Nəsimi bazarı,Koala parkı,Park Zorge,Nəsimi r.",40.3939324490201,49.8394137977207
+1573716,145000,AZN,True,13,16,116.0,3,False,"Təhsil Nazirliyi,Nərimanov r.",40.3941793512401,49.859286570107
+1573713,125000,AZN,False,1,5,110.0,3,True,"Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.",40.3724160357052,49.956257947826
+1540519,110000,AZN,False,5,5,75.0,3,True,"Səbail r.,Badamdar q.",40.3452757065752,49.8084985654733
+1573708,130000,AZN,False,4,9,100.0,4,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.",40.3840023626166,49.8026167777327
+1573707,82000,AZN,True,15,17,61.0,2,False,"Bakı Dövlət Universiteti,Yasamal r.,Yasamal q.",40.3719531497592,49.8059713840485
+1573705,99000,AZN,False,5,5,66.0,2,True,"Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Dostluq kinoteatrı,Nəsimi r.",40.3866709877431,49.8427744445496
+1573702,83000,AZN,True,12,16,60.0,2,True,"Nəsimi bazarı,Koala parkı,Park Zorge,Dostluq kinoteatrı,Nəsimi r.",40.393763942409,49.8400922355347
+1573701,119000,AZN,False,4,9,85.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.407431991499,49.8678367119198
+1573699,130000,AZN,True,9,16,77.0,3,True,"Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4131394862599,49.8086483425789
+1573694,128000,AZN,False,9,9,103.0,5,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.4019665225289,49.9534960228465
+1573689,112500,AZN,True,15,18,70.0,2,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4181372867506,49.9411790862754
+1573688,80000,AZN,True,12,18,66.0,1,False,"Şah İsmayıl Xətai m.,Xətai r.",40.387279427275,49.8756739147432
+1573686,80000,AZN,False,1,9,58.0,2,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.",40.3836205878202,49.8040370084923
+1573685,280000,AZN,True,10,16,115.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.406976724631,49.8720754877447
+1573682,195000,AZN,True,12,14,167.0,4,True,"Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.",40.4108862558857,49.8169524327881
+1573678,132000,AZN,True,7,17,98.0,3,True,"Həzi Aslanov m.,Xətai r.",40.3707924569661,49.94673371315
+1573677,155000,AZN,True,3,18,141.0,3,True,"Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.",40.4124866062969,49.8171696877893
+1573676,133000,AZN,True,16,19,131.0,3,True,Nizami r.,40.4099443879771,49.9560253656922
+1573673,450000,AZN,True,8,20,180.0,4,True,"Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3811630850595,49.8111274812172
+1573671,109000,AZN,True,13,16,85.0,3,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3902927112201,49.8026561737061
+1573669,320000,AZN,True,13,23,172.0,3,True,"Zoopark,Dostluq kinoteatrı,Nərimanov r.",40.390839967942,49.8479874080819
+1573667,178000,AZN,True,3,19,97.0,3,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3902927112201,49.8026561737061
+1573658,198000,AZN,True,3,16,129.0,3,False,"Həzi Aslanov m.,Ukrayna dairəsi,Xətai r.",40.3748130481151,49.9527519382239
+1566720,54000,AZN,False,3,5,32.0,1,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4175999078302,49.9343509269531
+1573656,150000,AZN,True,14,17,142.0,3,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4175345615321,49.9343509269531
+1573654,135000,AZN,True,17,18,70.0,2,True,"Qara Qarayev m.,Nizami r.",40.4194657357522,49.9326631278086
+1573650,173500,AZN,True,10,17,124.0,3,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4174038687455,49.9341792655762
+1573648,155000,AZN,True,18,19,110.0,2,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4028791888788,49.872126693315
+1573645,172000,AZN,True,9,16,181.0,4,False,"Nəriman Nərimanov m.,Nərimanov r.",40.4039204563269,49.8776601494227
+1573641,120000,AZN,False,4,9,85.0,3,True,"Ayna Sultanova heykəli,Nərimanov r.",40.4092106955043,49.8474342771239
+1104711,107000,AZN,True,5,17,76.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3932809351555,49.7950858306885
+1573638,120000,AZN,False,5,9,55.0,3,True,"İnşaatçılar m.,Yasamal r.",40.3908500586971,49.8024300666871
+1573635,238000,AZN,True,13,17,133.0,3,True,"Neftçi bazası,Tibb Universiteti,Nəsimi r.",40.3991539299759,49.8345954303143
+1573632,229000,AZN,True,14,17,119.0,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1573631,175000,AZN,True,13,17,124.0,3,True,"Bakı Asiya Universiteti,Nəsimi r.,3-cü mikrorayon q.",40.4041870793664,49.8176497220993
+1573625,260000,AZN,True,17,18,126.0,3,True,"Tibb Universiteti,Nəsimi r.",40.39548135296,49.8281208052492
+1573623,60000,AZN,True,3,12,64.0,1,True,"Yasamal r.,Yeni Yasamal q.",40.3925618626325,49.795
+1573615,103000,AZN,True,12,16,154.0,3,False,Yasamal r.,40.3893628238131,49.7879675956788
+1573614,150000,AZN,True,18,19,125.0,3,False,Yasamal r.,40.3965727331971,49.8036912766646
+1573613,200000,AZN,True,15,20,148.0,3,False,"Nizami m.,Beşmərtəbə,Nəsimi r.",40.37946198309,49.829706722229
+1573611,95000,AZN,True,2,12,132.0,3,False,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3924311213488,49.7955149841309
+1573608,200000,AZN,True,19,20,126.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3816857801922,49.8703765869141
+1573607,255000,AZN,True,17,19,137.0,3,True,"Nizami m.,Beşmərtəbə,Nəsimi r.",40.3792072746002,49.8317744617804
+1573606,205000,AZN,True,13,16,95.0,3,True,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Dostluq kinoteatrı,Nəsimi r.",40.3860025044256,49.8443220953804
+1573602,115000,AZN,False,3,5,120.0,5,True,"Sabunçu r.,Bakıxanov q.",40.4200406654115,49.9589109420777
+1573600,77500,AZN,True,2,17,53.0,2,True,Nərimanov r.,40.4179872209908,49.8558971822219
+1573599,65000,AZN,False,5,5,44.0,2,True,"Zərifə Əliyeva adına park,Nəsimi r.,4-cü mikrorayon q.",40.4186554717172,49.8196114056183
+1573593,131000,AZN,True,3,17,97.0,2,False,"Binəqədi r.,8-ci mikrorayon q.",40.4163675590706,49.8415042596204
+1573594,77000,AZN,False,1,5,35.0,2,True,"Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Yasamal r.",40.3841928033774,49.8225832615442
+1573592,87000,AZN,True,15,16,60.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3908999670429,49.808040558197
+1573591,159000,AZN,True,9,16,70.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4040474987814,49.872668499536
+1573590,760000,AZN,True,14,28,224.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3783611219163,49.8748826980591
+1573588,88500,AZN,True,3,17,65.0,1,False,"Binəqədi r.,8-ci mikrorayon q.",40.4164188449184,49.8417976424611
+1573586,87000,AZN,True,1,9,65.0,3,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3921042670291,49.7958583068848
+1573577,110000,AZN,True,8,19,55.0,2,False,Yasamal r.,40.395344594973,49.8069013042509
+1573569,125000,AZN,True,10,16,111.2,3,True,"Neftçilər m.,Nizami r.",40.4024182692037,49.9395206853753
+1573568,167000,AZN,True,11,16,95.0,2,True,"Ayna Sultanova heykəli,Nərimanov r.",40.4112048792351,49.8434994236819
+1573565,98000,AZN,True,17,17,80.1,2,True,"Yasamal r.,Yeni Yasamal q.",40.3888683236663,49.7882193756103
+1573564,125000,AZN,True,8,17,100.0,3,True,"İnşaatçılar m.,Yasamal r.",40.3904140451814,49.8070253147624
+1448526,265000,AZN,True,8,16,173.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3835750529501,49.8737241693115
+1573560,65000,AZN,False,4,5,60.0,3,True,"Qaradağ r.,Sahil q.",40.2226088565875,49.5724015440212
+1551825,112000,AZN,True,11,19,108.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3941307382377,49.7955149841309
+1573558,108000,AZN,True,13,17,82.0,3,False,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3905516873451,49.7944421005249
+1573556,205000,AZN,True,5,7,115.0,3,True,"Ağ şəhər,Xətai r.",40.3844903569533,49.8806764550781
+1573555,105000,AZN,True,19,20,50.0,2,True,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4023709303596,49.8070220085206
+1573550,199000,AZN,True,2,7,160.0,4,True,"Səbail r.,Bayıl q.",40.3359379276815,49.8315784460327
+1573551,130000,AZN,True,12,17,55.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.403622661163,49.8730118222899
+1573546,235000,AZN,True,7,14,123.0,3,True,"İnşaatçılar m.,Yasamal r.",40.3908500586971,49.8026875587525
+1506044,169000,AZN,True,17,19,100.0,3,True,"Tibb Universiteti,Nəsimi r.",40.398784126008,49.8327193786087
+1573545,117000,AZN,True,12,19,60.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3880626861958,49.8055992453534
+1573542,57000,AZN,False,3,5,38.0,1,True,"20 Yanvar m.,Memar Əcəmi m.,Nəsimi r.,5-ci mikrorayon q.",40.4087782322064,49.8080259211487
+1573538,570000,AZN,True,7,19,190.0,4,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Bakı Dövlət Universiteti,Yasamal r.",40.375240627821,49.8148540588441
+1573537,110000,AZN,True,3,16,70.0,2,True,"Cavanşir körpüsü,Xətai r.",40.381442019466,49.862287230072
+1573536,320000,AZN,True,13,23,172.0,3,True,"Zoopark,Dostluq kinoteatrı,Nərimanov r.",40.3906058517055,49.8475590944671
+1573534,110000,AZN,True,8,18,53.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3949902553604,49.8062945457346
+1541775,3400000,AZN,True,18,32,435.0,4,True,"Port Baku,Cavanşir körpüsü,Nəsimi r.",40.3755234068372,49.8602195319824
+1573527,240000,AZN,True,7,14,162.0,3,True,"Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Sirk,Zabitlər parkı,Dostluq kinoteatrı,Nəsimi r.",40.3854822784877,49.8410639702083
+1573524,130000,AZN,True,10,17,55.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4028431155118,49.8706340789795
+1573523,110000,AZN,True,8,16,63.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3900809126145,49.8034157831899
+1573522,69000,AZN,False,5,5,60.0,2,True,"Nəsimi r.,4-cü mikrorayon q.",40.4203054188235,49.8148263447357
+1573521,120000,AZN,True,17,17,76.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.388660053046,49.8076228233399
+1573517,140000,AZN,True,6,16,90.0,3,True,Yasamal r.,40.3962520522137,49.8018041457426
+1573515,26000,AZN,True,7,7,40.0,2,False,Abşeron r.,40.4852589894523,49.7624686404473
+1573511,110000,AZN,True,7,19,54.0,2,False,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3943964093414,49.8063568206849
+1573510,122000,AZN,True,12,17,120.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3906963510775,49.7895770257734
+1573501,180000,AZN,True,14,19,114.0,2,True,"İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.",40.3799869896613,49.8150978962654
+1573499,130000,AZN,False,1,5,105.0,4,True,"Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.",40.4101191522662,49.8145128009523
+1573494,51000,AZN,False,3,9,45.0,2,True,"Xətai r.,Həzi Aslanov q.",40.3712915297303,49.9306371472288
+1573493,122000,AZN,True,12,17,116.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3910272857943,49.7871722683904
+1573488,97000,AZN,True,5,7,77.0,3,True,"Səbail r.,Bayıl q.",40.3357770246535,49.8315842497171
+1573490,195000,AZN,True,7,16,145.0,3,False,"Tibb Universiteti,Neftçi bazası,Nərimanov r.",40.3981322107208,49.8357613034911
+1573487,95000,AZN,True,6,12,70.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3979874020529,49.796802444458
+1573480,190000,AZN,True,3,15,119.0,3,True,Nərimanov r.,40.4113231187374,49.8402500152588
+1552427,129000,AZN,True,13,17,75.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3880880249149,49.8033312889161
+1573475,129000,AZN,True,12,19,60.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3878629816863,49.805238247136
+1573471,95000,AZN,True,7,19,65.0,2,False,Nərimanov r.,40.3999647251353,49.88222321276
+1573472,115000,AZN,False,4,9,84.0,3,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.4106669046779,49.9429417988288
+1056021,62000,AZN,True,14,20,76.0,1,False,Yasamal r.,40.4127118421074,49.8007625341415
+1573468,108000,AZN,True,8,15,66.0,1,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3826924265966,49.8705913491821
+1573466,350000,AZN,True,16,19,145.0,3,False,"İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.",40.3802485202894,49.8150978962654
+1573465,77000,AZN,False,1,5,33.0,1,True,"İzmir parkı,Dövlət Statistika Komitəsi,M.Hüseynzadə parkı,Yasamal r.,Yasamal q.",40.3864330365858,49.8215467662747
+1573464,110000,AZN,False,2,5,70.0,3,True,"Ukrayna dairəsi,Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.",40.3770227730009,49.9551637940417
+1295564,340000,AZN,True,9,18,156.0,3,True,"Cavanşir körpüsü,Nəsimi r.",40.3802245504575,49.8617506027222
+1573462,132000,AZN,False,4,5,95.0,4,True,"Nizami r.,8-ci kilometr q.",40.4044150069568,49.9551434112366
+1573459,120000,AZN,False,5,9,52.0,3,True,"Yasamal bazarı,Yasamal r.,Yasamal q.",40.3818100587189,49.8039865493775
+1573454,138200,AZN,True,13,16,110.0,2,False,"Respublika stadionu,Gənclik m.,Nərimanov r.",40.3995266479343,49.8525555083122
+1573451,82000,AZN,True,16,17,54.0,2,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3912217524414,49.7986907196045
+1573445,89000,AZN,True,6,19,54.0,2,True,Yasamal r.,40.3923192369433,49.7949314117432
+1573443,85000,AZN,False,4,9,70.0,3,True,"Suraxanı r.,Massiv D q.",40.3719807820114,49.9826992705112
+1573436,132000,AZN,False,9,9,110.0,4,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4221888810695,49.8458316968313
+1573438,65000,AZN,True,2,19,48.0,1,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3924964920224,49.7954291534424
+1573435,120000,AZN,True,7,15,103.0,3,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3916466683162,49.795
+1427793,260000,AZN,True,3,16,163.5,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1573430,65000,AZN,False,1,9,50.0,2,True,"Xətai r.,Köhnə Günəşli q.",40.3759990477564,49.9656842563986
+1573428,115000,AZN,True,8,12,82.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3926926036624,49.795
+1573426,105000,AZN,True,1,16,88.0,3,True,Binəqədi r.,40.4191504486264,49.8107068258765
+1573425,99000,AZN,False,7,9,57.0,2,True,"Binəqədi r.,8-ci mikrorayon q.",40.4191582826898,49.8385523385925
+1573422,65000,AZN,True,3,16,54.0,1,True,"Həzi Aslanov m.,Xətai r.",40.3711173001855,49.9552364601755
+1573420,115000,AZN,True,5,19,95.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3926272331792,49.7953433227539
+1573417,137000,AZN,False,4,7,100.0,3,False,"Nizami r.,8-ci kilometr q.",40.4079427891854,49.9587242150298
+1573410,185000,AZN,True,3,10,100.0,2,True,"Elmlər Akademiyası m.,Yasamal r.",40.3802163776378,49.8110997676849
+1573413,150000,AZN,True,16,19,68.0,2,True,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Səməd Vurğun parkı,Milli Konservatoriya,Nəsimi r.",40.379364790375,49.848804050415
+1573408,265000,AZN,True,8,16,173.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3832808454505,49.8750974603271
+1572633,210000,AZN,True,10,17,97.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1573406,95000,AZN,True,12,17,60.0,2,True,"Qara Qarayev m.,Nizami r.",40.4170352856796,49.9310361056368
+1573401,93000,AZN,True,3,19,60.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3898942768899,49.8036550267823
+1573399,235000,AZN,True,15,17,130.0,3,True,Yasamal r.,40.3966352534332,49.8067001434388
+1573396,280000,AZN,True,8,16,142.0,3,True,"Şəhidlər xiyabanı,Səbail r.,Badamdar q.",40.3561884002362,49.82209323821
+1573393,90000,AZN,False,7,9,75.0,3,True,"Binəqədi r.,Biləcəri q.",40.4274030860231,49.807715701349
+1311260,190000,AZN,True,12,14,130.0,3,True,Binəqədi r.,40.4169188310765,49.8423585434999
+1573391,140000,AZN,True,12,18,102.0,3,True,"Neftçilər m.,Nizami r.",40.4081311485529,49.9533960075928
+1573381,106000,AZN,True,4,17,68.0,2,True,"Qara Qarayev m.,Nizami r.",40.4181280725671,49.9335169084252
+1573377,91500,AZN,True,3,17,62.6,2,False,"Əhmədli m.,Xətai r.",40.3848876232167,49.953917579059
+1573374,39000,AZN,True,15,17,47.0,2,True,"Qara Qarayev m.,Nizami r.",40.4174099996082,49.9284146393466
+1573366,85555,AZN,True,14,17,51.0,2,False,"Bakı Dövlət Universiteti,Yasamal r.,Yasamal q.",40.3744548379061,49.8058626233654
+1352865,229000,AZN,True,13,18,119.0,3,False,"Elmlər Akademiyası m.,Yasamal r.",40.3789239534545,49.8103081490358
+1573365,115000,AZN,True,5,17,47.0,1,False,"İnşaatçılar m.,Yasamal r.",40.3880880249149,49.8014430137696
+1573361,60000,AZN,False,1,5,61.0,3,True,"İnşaatçılar m.,Yasamal r.",40.38592278703,49.8048472448072
+1573360,65000,AZN,False,5,9,34.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.391842782431,49.7902793121338
+1573358,85000,AZN,False,4,9,75.0,3,True,"Xətai r.,Köhnə Günəşli q.",40.3608938781682,49.9682279830033
+1558995,187000,AZN,False,5,5,95.0,3,True,"Hüseyn Cavid parkı,Texniki Universiteti,Elmlər Akademiyası m.,Yasamal r.",40.372216393167,49.8187251174375
+1573353,230000,AZN,False,2,4,100.0,4,True,Səbail r.,40.3347596560008,49.8231784068849
+1493412,280000,AZN,False,5,6,100.0,4,True,"Qubernator parkı,İçəri Şəhər m.,Azneft meydanı,Prezident parkı,Dövlət İdarəçilik Akademiyası,İçəri Şəhər,İqsadiyyat Universiteti,Şəlalə parkı,Axundov bağı,Səbail r.",40.3640796194163,49.8323622905519
+1573349,310000,AZN,True,7,18,140.0,3,True,Səbail r.,40.3275613934378,49.8141488137554
+1546559,337000,AZN,True,14,20,272.0,5,False,"Elmlər Akademiyası m.,Yasamal r.",40.3801771949208,49.8101119133058
+1546566,124000,AZN,True,15,20,84.0,2,False,"Elmlər Akademiyası m.,Yasamal r.",40.3792618323118,49.8098544212403
+1550934,220000,AZN,True,18,23,175.0,3,True,"Dostluq kinoteatrı,Koala parkı,Zoopark,Nəsimi bazarı,Nəsimi r.",40.3912798589566,49.8441477355652
+1561421,680000,AZN,True,9,17,177.0,4,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3753916585081,49.815065088027
+1573336,120000,AZN,True,10,10,70.0,2,True,Yasamal r.,40.384899010091,49.8107329641955
+1573333,134200,AZN,True,16,16,136.0,4,True,"Tibb Universiteti,Nəsimi r.",40.398178582829,49.8324472256354
+1573332,84500,AZN,True,11,16,51.0,1,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4028431155118,49.8706340789795
+1573331,101000,AZN,True,15,18,68.0,2,True,"Binəqədi r.,9-cu mikrorayon q.",40.4193608405866,49.8093275766953
+1573330,118000,AZN,True,9,16,55.0,2,True,"Tibb Universiteti,Neftçi bazası,Nərimanov r.",40.3996519337859,49.8329503484435
+1573328,125000,AZN,True,8,15,92.0,2,True,"Xətai r.,Həzi Aslanov q.",40.3823167596764,49.924578666687
+1573326,87000,AZN,True,16,17,60.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3918219658565,49.8095182502798
+1573324,167000,AZN,True,16,18,112.0,3,True,"Binəqədi r.,7-ci mikrorayon q.",40.4296659037136,49.8530451984562
+1573323,190000,AZN,True,16,16,257.0,5,True,"Nəsimi bazarı,Nəsimi r.",40.3960474812354,49.8382803120016
+1573321,94000,AZN,True,10,12,60.0,2,False,"Memar Əcəmi m.,Nəsimi r.,1-ci mikrorayon q.",40.4118488054997,49.8145347308687
+1573320,187000,AZN,True,4,18,96.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3902927112201,49.8026561737061
+1573311,550000,AZN,True,15,19,200.0,4,True,"Sirk,Azərbaycan Dillər Universiteti,Zabitlər parkı,Qış parkı,Bakı Slavyan Universiteti,Nəsimi r.",40.3818018860916,49.8390913009644
+1573309,75000,AZN,True,5,19,55.0,2,True,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4011290588552,49.8100689979615
+1573307,82000,AZN,False,7,9,60.0,2,True,"Qara Qarayev m.,Nizami r.",40.4232876751274,49.9298355340515
+1573306,64000,AZN,True,6,15,53.0,1,True,"Səbail r.,Badamdar q.",40.3397678566702,49.8031675801395
+1573300,135000,AZN,True,3,16,96.0,2,False,"Qara Qarayev m.,Nizami r.",40.4116736504288,49.936167199433
+1573297,204000,AZN,True,11,20,157.0,3,False,"Ağ şəhər,Xətai r.,NZS q.",40.3810345616223,49.8885873751575
+1565747,110000,AZN,True,9,17,90.0,2,False,"Təhsil Nazirliyi,Nərimanov r.",40.3930537557631,49.8591519687202
+1327566,65000,AZN,False,1,3,40.0,2,True,"Axundov bağı,Dövlət İdarəçilik Akademiyası,Prezident parkı,Qubernator parkı,İçəri Şəhər m.,İqsadiyyat Universiteti,Nərimanov heykəli,Şəlalə parkı,Sovetski,Səbail r.",40.3668361426067,49.8282551765442
+1573295,144000,AZN,True,5,18,145.0,3,False,"Bakı Asiya Universiteti,Nəsimi r.",40.3981762331127,49.8167033729248
+1508013,132000,AZN,True,11,16,65.0,1,True,"Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.",40.380142552169,49.8675143188038
+1573293,76000,AZN,False,4,9,43.0,1,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4250197900658,49.8445828730424
+1526841,192000,AZN,True,12,17,120.0,3,True,"Binəqədi r.,9-cu mikrorayon q.",40.4277701592297,49.813771461377
+1502580,125000,AZN,False,8,14,86.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.37519161785,49.815019381349
+1573287,165000,AZN,False,5,5,110.0,4,True,"Space TV,Yasamal r.",40.365103138382,49.8185992240906
+1570526,121000,AZN,False,5,9,80.0,3,True,"Binəqədi r.,8-ci mikrorayon q.",40.4177288510377,49.8397915191574
+1563135,107000,AZN,False,6,9,90.0,3,True,"Suraxanı r.,Yeni Günəşli q.",40.377580794028,49.9606226348877
+1573278,90000,AZN,True,5,12,65.0,2,True,"Neftçilər m.,Nizami r.",40.4101631043083,49.9432897567749
+1573280,76000,AZN,False,5,5,70.0,3,True,"Binəqədi r.,7-ci mikrorayon q.",40.4291564071013,49.8525514401988
+1573276,107000,AZN,True,12,16,68.0,2,False,"Binəqədi r.,7-ci mikrorayon q.",40.4295192470203,49.8497710000359
+1258228,88000,AZN,True,12,19,48.0,1,True,"İnşaatçılar m.,Yasamal r.",40.3839692789507,49.7993830772461
+1532165,125000,AZN,True,4,16,93.0,2,True,"Zərifə Əliyeva adına park,Nəsimi r.",40.4214080975162,49.8149945621833
+1532164,125000,AZN,True,16,16,140.0,3,True,"İnşaatçılar m.,Yasamal r.",40.3906598843842,49.8075818587527
+1532163,85000,AZN,False,5,5,75.0,3,True,"Memar Əcəmi m.,Nəsimi r.",40.4104102843255,49.8141323537845
+1269956,120000,AZN,True,15,17,58.0,1,True,Nərimanov r.,40.4108578116117,49.8659180041386
+1573272,130000,AZN,False,5,9,110.0,4,True,"İnşaatçılar m.,Yasamal r.",40.3883233741202,49.8025588127198
+1559878,145000,AZN,True,7,13,101.0,3,True,"Bakı Asiya Universiteti,Nəsimi r.",40.3973218102384,49.8174513248511
+1573264,175000,AZN,False,4,5,127.0,5,True,"Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.",40.3749104392022,49.9469914106621
+1573262,185000,AZN,True,15,18,137.0,3,False,"Binəqədi r.,7-ci mikrorayon q.",40.430357282662,49.8558972651151
+1542567,79000,AZN,True,15,17,45.0,2,True,"Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.",40.4222816787583,49.8158313979004
+1573259,129000,AZN,True,13,14,83.0,2,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4076385405505,49.8744852487268
+1573256,85000,AZN,False,1,5,70.0,3,True,"Nizami r.,8-ci kilometr q.",40.4139404173967,49.9479121757324
+1573254,230000,AZN,True,11,18,130.0,3,True,"Səbail r.,Badamdar q.",40.350643729763,49.8154399963866
+1573241,135000,AZN,True,1,13,124.0,3,True,"Qara Qarayev m.,Nizami r.",40.4210508460015,49.9376460175081
+1530060,235000,AZN,True,7,14,119.0,3,True,"Nizami m.,Beşmərtəbə,Yasamal r.",40.3792274591401,49.8317742347717
+1385492,350000,AZN,True,8,14,224.0,4,False,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,M.Hüseynzadə parkı,Nizami m.,Yasamal r.",40.382914291659,49.8241530338997
+1572041,60000,AZN,True,10,17,65.0,1,True,"Ukrayna dairəsi,Həzi Aslanov m.,Əhmədli m.,Xətai r.",40.3787599465741,49.9530088892979
+1573233,127000,AZN,True,5,19,126.0,3,False,"Ukrayna dairəsi,Həzi Aslanov m.,Əhmədli m.,Xətai r.",40.3787507709823,49.9541486543677
+1573233,127000,AZN,True,5,19,126.0,3,False,"Ukrayna dairəsi,Həzi Aslanov m.,Əhmədli m.,Xətai r.",40.3787507709823,49.9541486543677
+1573231,230000,AZN,True,11,17,148.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3905874415087,49.8069764498397
+1509013,115000,AZN,True,15,17,70.0,2,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4176783358557,49.9341487884522
+1573229,54000,AZN,False,3,5,31.0,1,True,"Qara Qarayev m.,Koroğlu m.,Nizami r.",40.419364925522,49.9265181092412
+1573226,120000,AZN,True,4,17,70.0,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4154434464819,49.9340934348877
+1573222,99000,AZN,True,17,17,49.5,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4155485597324,49.9270483488276
+1573221,87000,AZN,False,5,9,66.1,3,True,"Suraxanı r.,Qaraçuxur q.",40.402207734797,49.9788487234179
+1573220,64000,AZN,True,1,1,65.0,2,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3839617369759,49.7997025949685
+1573219,175000,AZN,True,8,16,100.0,3,False,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,28 May m.,Nəsimi r.",40.3835956499029,49.8470942214032
+1562535,147200,AZN,True,2,8,92.0,2,False,Xətai r.,40.3858238452532,49.8949990218479
+1505881,299000,AZN,True,6,18,87.0,2,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3792630517049,49.8751296468353
+1536965,189000,AZN,True,10,12,112.0,3,True,Nəsimi r.,40.4139218619541,49.8051951416865
+1573206,33000,AZN,False,1,4,27.0,1,True,"Suraxanı r.,Əmircan q.",40.4273559414738,49.9870822079346
+1573198,62000,AZN,True,3,18,48.0,2,True,"Xətai r.,Əhmədli q.",40.3873331220422,49.965660277832
+1573204,75000,AZN,False,5,5,55.0,2,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.3965891137847,49.9572580155143
+1572870,76000,AZN,True,1,6,45.0,2,True,"Suraxanı r.,Yeni Günəşli q.",40.376432255633,49.9801754951477
+1567805,102600,AZN,True,21,24,76.0,2,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3825272694551,49.8732760425277
+1573191,122000,AZN,True,12,17,116.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3907314615619,49.7887343597412
+1471849,145000,AZN,True,14,19,90.0,2,True,"Tibb Universiteti,Nəsimi r.,Kubinka q.",40.3923012859427,49.828747564187
+1573189,81000,AZN,False,2,4,65.0,3,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4157048394174,49.9335784507568
+1573187,105000,AZN,True,11,16,58.0,1,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4068150981161,49.8719614354316
+1573183,50000,AZN,True,7,11,65.0,2,False,"Abşeron r.,Masazır q.",40.4687258556441,49.7419098146973
+1423306,155000,AZN,True,12,16,140.0,3,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4137901251937,49.929428100586
+1470242,225000,AZN,True,5,16,121.0,3,True,"Nəsimi bazarı,Koala parkı,Dostluq kinoteatrı,Nəsimi r.",40.3931592726382,49.8417788083668
+1573182,95000,AZN,False,1,2,50.0,3,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Nəsimi r.",40.3809051507918,49.8242433274181
+1573180,55000,AZN,False,5,5,30.0,1,True,"Neftçilər m.,Nizami r.",40.4095759657483,49.943083839527
+1573172,77000,AZN,True,12,18,65.0,1,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3863321004117,49.876141007272
+1470151,193000,AZN,True,15,18,110.7,2,True,"İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3797195151709,49.8145407760453
+1573167,185000,AZN,True,8,8,117.0,3,True,"Gənclik m.,Respublika stadionu,Azərbaycan turizm institutu,Nəsimi r.",40.4027123941913,49.8556995391846
+1532040,104000,AZN,True,16,17,120.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3917120397512,49.7909659576416
+1573163,67000,AZN,False,5,5,51.0,3,True,"Nizami r.,8-ci kilometr q.",40.4008756542191,49.9411497766266
+1555153,138000,AZN,False,4,5,70.0,3,True,"Nərimanov heykəli,Space TV,Texniki Universiteti,Sovetski,Yasamal r.,Yasamal q.",40.368083953686,49.8202408105694
+1573156,220000,AZN,True,17,19,136.0,3,True,"Zabitlər parkı,Sirk,Azərbaycan Dillər Universiteti,Rusiya səfirliyi,Nəsimi r.",40.3857386666772,49.837690959329
+1508245,240000,AZN,True,14,16,128.0,3,True,"Təhsil Nazirliyi,Nərimanov r.",40.3923471446015,49.8575622983642
+1558479,600000,AZN,True,2,11,222.0,4,True,"Sevil Qazıyeva parkı,Rusiya səfirliyi,Park Zorge,Nəsimi r.",40.3910183711574,49.8311229285889
+1573148,115000,AZN,True,15,17,70.0,2,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4156394912787,49.9340076041992
+1573146,91000,AZN,True,8,17,58.0,2,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4155087948109,49.9338359428223
+1573143,160000,AZN,True,4,16,86.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.384854997698,49.8747725542121
+1573142,80000,AZN,False,10,16,71.0,2,False,"Qara Qarayev m.,Nizami r.",40.4176129896336,49.9341487884521
+1437628,154800,AZN,True,3,18,86.0,2,False,Yasamal r.,40.3825538808108,49.8114884920029
+1573138,240000,AZN,True,11,16,135.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3874424444742,49.8077320198954
+1540550,110000,AZN,True,9,16,96.0,3,False,"Xətai r.,Əhmədli q.",40.3885086890156,49.9637528494645
+1573134,42000,AZN,True,4,14,52.5,1,True,"Abşeron r.,Masazır q.",40.4842877195894,49.7574408352375
+1538256,88000,AZN,True,5,16,88.0,2,False,"Sabunçu r.,Bakıxanov q.",40.4241654653537,49.9593132386701
+1540534,90000,AZN,True,4,16,119.0,2,False,"Nizami r.,8-ci kilometr q.",40.4012543359726,49.9600637464638
+1573132,92000,AZN,False,3,5,70.0,3,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.3964897531625,49.9593276572998
+1573131,250000,AZN,True,7,14,150.0,4,True,"Montin bazarı,Rəssamlıq Akademiyası,Nərimanov r.",40.3933775105655,49.874042652616
+1396858,178000,AZN,True,8,24,154.0,3,False,"Şah İsmayıl Xətai m.,Xətai r.",40.382576897701,49.873485763973
+1573125,27000,AZN,True,17,17,61.0,2,True,"Abşeron r.,Masazır q.",40.4874129156509,49.7526776645871
+1573122,215000,AZN,True,4,18,120.0,3,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4028383385153,49.8707802243895
+1573113,110000,AZN,False,2,5,63.0,2,True,Yasamal r.,40.3900077779928,49.8151230778187
+1573112,230000,AZN,True,3,16,166.0,3,True,"Təhsil Nazirliyi,Nərimanov r.",40.3930321542185,49.8604215289422
+1573106,67500,AZN,True,6,7,87.0,3,True,"Abşeron r.,Masazır q.",40.4830895677628,49.7617367037354
+1573103,150000,AZN,False,3,5,67.0,3,True,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.402090942606,49.8731200561903
+1573102,89000,AZN,False,3,5,53.0,2,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Yasamal r.",40.3835761757075,49.8203513466174
+1573085,155000,AZN,True,2,12,112.0,3,True,"Neftçilər m.,Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.4041769808223,49.9519433348398
+1573074,108000,AZN,False,4,5,52.0,2,True,"Şəlalə parkı,Yasamal r.",40.3622837056531,49.8224658752144
+1573066,40000,AZN,True,6,7,57.4,2,True,"Abşeron r.,Masazır q.",40.5038176772104,49.7546127565918
+1573071,41000,AZN,False,5,5,36.4,2,True,"Suraxanı r.,Hövsan q.",40.3565075018337,50.080088441819
+1573070,115000,AZN,True,15,18,69.5,2,False,"Qara Qarayev m.,Nizami r.",40.4180348701888,49.940955550362
+1573068,105000,AZN,True,1,9,84.0,3,True,"Yasamal r.,Yasamal q.",40.3788212005716,49.797109224245
+1573065,270300,AZN,True,7,20,159.0,3,False,"Səməd Vurğun parkı,Nəsimi r.",40.3801454240326,49.8576952607682
+1573051,90000,AZN,False,3,5,55.0,3,True,"Binəqədi r.,7-ci mikrorayon q.",40.4276456249836,49.8562714778015
+1573047,152000,AZN,True,10,16,80.0,3,False,"Azərbaycan Dillər Universiteti,Dostluq kinoteatrı,Bakı Slavyan Universiteti,Koala parkı,Nəsimi r.",40.386760880091,49.842667156189
+1573056,74000,AZN,False,3,5,100.0,5,True,"Xəzər r.,Mərdəkan q.",40.48555657198,50.1578625754701
+1573045,82000,AZN,True,3,9,58.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3941248803244,49.7985361290417
+1573040,112000,AZN,False,4,9,77.0,3,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4264356608818,49.8423503465576
+1573043,80000,AZN,False,2,5,46.0,2,True,"Gənclik m.,Nərimanov r.",40.4033448812704,49.8495585866637
+1534469,292500,AZN,True,12,23,156.0,4,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1573041,143000,AZN,False,3,9,100.0,4,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4269583603215,49.8444102830811
+1510364,116000,AZN,True,13,13,125.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3866195469587,49.7897966826854
+1525403,87000,AZN,True,8,16,67.0,2,False,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3699918095977,49.9531671454513
+1570245,545000,AZN,True,11,16,238.0,4,True,"Nəsimi bazarı,Koala parkı,Zoopark,Nəsimi r.",40.3944429024396,49.8433495072769
+1573032,84000,AZN,False,6,9,70.0,2,True,"Azadlıq Prospekti m.,Binəqədi r.,7-ci mikrorayon q.",40.425048448629,49.8383328639099
+1565463,250000,AZN,True,6,18,174.0,3,True,"Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Nizami m.,Yasamal r.",40.3839365894833,49.8236302467408
+1539743,330000,AZN,True,10,17,165.0,4,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.",40.382187220121,49.8229336618489
+1565458,145000,AZN,True,12,13,112.0,3,True,Nəsimi r.,40.3974179673857,49.8151016235352
+1307386,130000,AZN,False,3,5,80.0,3,True,"İzmir parkı,M.Hüseynzadə parkı,İdman kompleksi,Yasamal r.",40.3871400818868,49.8243383499207
+1573027,103000,AZN,False,3,5,70.0,3,True,Nərimanov r.,40.4102481888249,49.8691601701445
+1560030,300000,AZN,True,5,19,173.0,4,True,"Səməd Vurğun parkı,28 May m.,Nəsimi r.",40.3798567725909,49.8558926582337
+1560035,270000,AZN,True,10,17,156.0,4,True,"Azadlıq Prospekti m.,Nəsimi r.",40.4226117923228,49.8423099517822
+1573024,135000,AZN,True,17,18,70.0,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4120207390366,49.9304992748077
+1573022,185000,AZN,True,8,17,143.0,3,True,"Yasamal r.,Yasamal q.",40.3871406809139,49.8123664733935
+1573020,380000,AZN,True,3,17,196.0,4,True,"Sovetski,Nərimanov heykəli,Texniki Universiteti,Hüseyn Cavid parkı,Yasamal r.",40.3699384767468,49.8208373555425
+1570406,71000,AZN,True,19,19,66.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.393477044511,49.7962016296387
+678966,520000,AZN,True,15,16,270.0,5,True,"İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,Yasamal q.",40.3763341762111,49.8239421844482
+1573017,85000,AZN,False,6,9,60.0,2,True,"Azadlıq Prospekti m.,Binəqədi r.,7-ci mikrorayon q.",40.4271847444807,49.8481086407134
+1484706,63000,AZN,False,2,9,41.0,1,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3933687490174,49.8010074692371
+1573016,480000,AZN,True,7,18,200.0,4,False,"Beşmərtəbə,Nizami m.,Yasamal r.",40.3777579953116,49.8313120933595
+1573014,275000,AZN,True,17,20,70.0,2,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3796194890749,49.87634200531
+1521832,550000,AZN,True,7,22,130.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Texniki Universiteti,Yasamal r.,Yasamal q.",40.3743719844287,49.8155966954651
+1542407,350000,AZN,True,17,23,214.0,4,True,"İzmir parkı,M.Hüseynzadə parkı,Dövlət Statistika Komitəsi,Yasamal r.,Yasamal q.",40.3860021189561,49.82432872585
+1573007,270000,AZN,True,14,14,136.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3775601587232,49.8087286949158
+1573005,98000,AZN,False,8,9,67.0,2,True,"Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.",40.4213782850193,49.8148606268465
+1572859,115000,AZN,True,5,5,60.0,2,True,"Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3782401035719,49.8096827598634
+1572993,90000,AZN,False,4,5,85.0,3,True,"Memar Əcəmi m.,20 Yanvar m.,Nəsimi r.,5-ci mikrorayon q.",40.4092175619281,49.8092048960747
+1572981,72900,AZN,False,8,9,55.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4191409577812,49.9719459763653
+1572971,49000,AZN,False,5,5,38.0,2,True,"Zərifə Əliyeva adına park,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4179150769649,49.8196780645262
+1572964,67000,AZN,False,9,9,60.0,2,True,Suraxanı r.,40.3821863086427,50.0302461634457
+1539246,115000,AZN,True,7,16,80.0,3,True,"Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.",40.3708351717289,49.9479665581119
+1532255,86870,AZN,True,3,12,124.1,3,False,"Yasamal r.,Yeni Yasamal q.",40.3861403687605,49.7891149787641
+1516236,170000,AZN,True,5,16,107.0,3,True,Səbail r.,40.34656613431,49.8108024312616
+1572954,100000,AZN,False,9,9,70.0,3,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4288081936802,49.8450996107979
+1572953,229000,AZN,True,13,19,136.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3780049408346,49.8113034312772
+1572951,170000,AZN,True,4,16,106.0,3,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.402903699085,49.870866055078
+1572948,141000,AZN,True,4,17,146.0,3,True,"Qara Qarayev m.,Nizami r.",40.4135681986674,49.9321131909116
+1560029,255000,AZN,True,4,11,161.0,3,True,"Neftçi bazası,Tibb Universiteti,Nəsimi r.",40.4003043203648,49.8325084820669
+1546809,240000,AZN,True,5,16,126.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3835142031588,49.8722938985685
+1572939,100000,AZN,True,5,6,120.0,3,True,"Abşeron r.,Masazır q.",40.4923808403667,49.7540685368301
+1572936,390000,AZN,True,6,16,190.0,4,True,"Tibb Universiteti,Park Zorge,Rusiya səfirliyi,Nəsimi r.",40.3924238561399,49.8315520820312
+1572928,150000,AZN,True,13,17,142.0,3,True,"Qara Qarayev m.,Nizami r.",40.4149080085868,49.9273690681646
+1572925,130000,AZN,False,7,9,100.0,4,True,"Sabunçu r.,Bakıxanov q.",40.4168696718921,49.9591362476349
+1572924,150000,AZN,True,5,18,145.0,4,True,Nəsimi r.,40.3966564767368,49.8165102538757
+1572923,310000,AZN,True,8,16,140.0,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,Yasamal q.",40.3759851016813,49.8157951690474
+1572922,75000,AZN,True,14,17,56.0,2,False,"Xətai r.,Əhmədli q.",40.3952727100872,49.9661308195704
+1572920,210000,AZN,True,7,16,104.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4047948259583,49.8729343811425
+1572919,95000,AZN,True,2,17,67.0,2,False,"Həzi Aslanov m.,Xətai r.",40.3712175017173,49.9531495571137
+1427575,102000,AZN,True,15,18,68.0,2,True,"Binəqədi r.,9-cu mikrorayon q.",40.4197251354254,49.8087825526093
+1572916,109000,AZN,False,5,9,70.0,3,True,"Xətai r.,Əhmədli q.",40.3661812230865,49.9415299934528
+1572915,120000,AZN,True,11,16,73.0,3,True,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Səməd Vurğun parkı,Milli Konservatoriya,Nəsimi r.",40.3798061267968,49.8485465583496
+1572910,72000,AZN,False,4,9,65.0,3,True,"Suraxanı r.,Hövsan q.",40.3816070286566,50.0931025686306
+1572909,110000,AZN,True,11,27,178.0,4,False,Yasamal r.,40.3955208162945,49.815689973043
+1572907,205800,AZN,True,2,8,147.0,3,True,"Ağ şəhər,Xətai r.",40.38344429422,49.8835946984863
+1572906,177000,AZN,True,16,18,178.0,4,False,"Bakı Dövlət Universiteti,Yasamal r.",40.373312992074,49.8057774635377
+1477023,79000,AZN,True,5,17,71.6,2,True,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3714449646605,49.9553605952149
+1512085,155000,AZN,True,5,17,100.0,2,False,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4016763623087,49.8719341701669
+1557279,130000,AZN,False,8,9,80.0,3,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4044530258259,49.8739729979209
+1537034,125000,AZN,False,3,5,70.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.408144316596,49.8681444230236
+1258978,195000,AZN,True,14,19,137.7,3,True,"20 Yanvar m.,Memar Əcəmi m.,Nəsimi r.",40.4070750811166,49.8129773139954
+1572898,235000,AZN,True,12,16,143.0,3,False,"Azərbaycan turizm institutu,Gənclik m.,Nərimanov r.",40.3999624026431,49.8620254935101
+1572883,125550,AZN,True,2,8,93.5,2,True,Xətai r.,40.3869190278201,49.8850242506915
+1556526,219000,AZN,True,10,19,138.0,3,True,Nəsimi r.,40.3957812794543,49.8205221557874
+1571019,280000,AZN,True,4,5,150.0,4,True,"Nizami m.,Dövlət Statistika Komitəsi,Yasamal r.",40.3803192973698,49.8270879756306
+1572878,160000,AZN,True,14,17,126.0,3,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3871715666283,49.8032606203328
+1572877,52000,AZN,False,5,5,35.0,2,True,"Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.",40.4177794642997,49.8102986115637
+1572876,340000,AZN,True,5,19,156.0,3,True,"Neftçi bazası,TQDK,Nəsimi r.",40.4041568766582,49.8403068122559
+1572872,95000,AZN,False,2,5,55.0,2,True,"Rəssamlıq Akademiyası,Nərimanov r.",40.3955175531267,49.8700721212096
+1572871,80000,AZN,False,4,9,60.0,2,True,"Xətai r.,Köhnə Günəşli q.",40.3609904893962,49.9697792687866
+1439086,86000,AZN,False,5,9,60.0,2,True,"Xətai r.,Əhmədli q.",40.3650036361397,49.9536225237732
+1572868,68000,AZN,False,5,9,58.0,2,True,"Xətai r.,Köhnə Günəşli q.",40.3630428989382,49.9648486037353
+1572865,450000,AZN,True,8,17,180.0,4,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4068299938421,49.8695611953735
+1572860,115000,AZN,True,14,17,84.0,3,True,"Xətai r.,Əhmədli q.",40.3934740675508,49.9657943882828
+1572857,124000,AZN,True,14,19,70.0,2,True,Nəsimi r.,40.3962448741378,49.8227199743985
+1572856,127000,AZN,True,2,13,100.0,2,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4235280711068,49.8399470872803
+1572849,108000,AZN,False,1,9,100.0,4,True,"Yasamal r.,Yeni Yasamal q.",40.3558727484521,49.8016275972933
+1572846,108000,AZN,False,7,9,115.0,5,True,"Yasamal r.,Yeni Yasamal q.",40.3535027964025,49.8016784129999
+1572844,480000,AZN,False,4,6,120.0,3,False,"Sahil m.,Sahil bağı,Malokan bağı,Xalça Muzeyi,Pedaqoji Universiteti,Səbail r.",40.3708887626236,49.8463547583567
+1572842,135000,AZN,True,3,16,85.0,2,False,"Binəqədi r.,9-cu mikrorayon q.",40.4191976176234,49.8100805282593
+1572841,145000,AZN,True,5,17,137.0,4,False,"Yasamal r.,Yeni Yasamal q.",40.3579286231798,49.8011141489744
+1572837,98000,AZN,True,5,15,148.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3570808059746,49.803879217994
+1489791,78000,AZN,False,2,5,54.0,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4174692151705,49.9343509269531
+1572830,270000,AZN,True,13,17,130.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3828558767938,49.8717500634765
+1572826,130000,AZN,False,4,9,92.0,3,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4168810950603,49.9351234031494
+1572825,110000,AZN,True,13,18,65.0,2,True,"Binəqədi r.,8-ci mikrorayon q.",40.4174838025622,49.8437236375733
+1495529,300000,AZN,True,6,16,200.0,4,True,"Neftçi bazası,Nəsimi r.",40.4024787442126,49.8364918511171
+1572822,143000,AZN,True,10,11,73.0,2,True,"Neftçi bazası,Nərimanov r.",40.4012492401374,49.8319418378539
+1572819,106000,AZN,True,16,18,86.0,2,True,"Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.",40.3709362765917,49.9550828636371
+1572818,150000,AZN,True,13,16,142.0,3,True,"Koroğlu m.,Nizami r.",40.4154342251564,49.9236985893799
+1572817,650000,AZN,True,16,16,300.0,4,True,"20 Yanvar m.,Nəsimi r.",40.4068092871431,49.8055970516184
+1569853,135000,AZN,False,2,5,80.0,3,True,Nərimanov r.,40.4114889271449,49.840103767038
+1572813,33500,AZN,False,1,2,40.0,1,True,Xətai r.,40.3632821529235,49.9440786009848
+1572812,130000,AZN,True,10,16,55.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4022500905325,49.8709518857665
+1572810,130000,AZN,True,12,16,55.0,2,False,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Rəssamlıq Akademiyası,Nərimanov r.",40.4014657518923,49.8712952085204
+1572808,49500,AZN,True,5,10,74.0,2,True,"Abşeron r.,Masazır q.",40.4923976288995,49.7479257659186
+1572805,95000,AZN,True,3,16,55.0,2,True,"Binəqədi r.,8-ci mikrorayon q.",40.4183051225825,49.8489595714867
+1572804,159000,AZN,True,9,16,70.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4023808127507,49.8714668698974
+1572800,80000,AZN,False,2,5,50.0,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4158889991567,49.9368692782739
+1572799,240000,AZN,True,10,16,110.0,3,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4021847293281,49.8709518857665
+1572797,28000,AZN,False,2,2,42.0,2,True,"Sabunçu r.,Maştağa q.",40.518726206592,50.0972080519915
+1572796,94000,AZN,False,2,9,75.0,3,True,"Koroğlu m.,Nizami r.",40.4192616208051,49.9253973880308
+1572795,140000,AZN,False,3,9,100.0,4,True,"Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.",40.4239294460354,49.8408421776233
+1572792,79000,AZN,True,10,16,70.0,2,False,"Bakı Dövlət Universiteti,Yasamal r.,Yasamal q.",40.3735865663454,49.8056922834105
+1572791,28000,AZN,True,13,13,36.0,1,True,Xətai r.,40.3626586026075,49.9526608976387
+1572787,550000,AZN,True,15,16,320.0,6,True,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,28 May m.,Nəsimi r.",40.3860923790549,49.8471593856812
+1572784,67900,AZN,False,9,9,65.0,3,True,"Zoopark,Suraxanı r.,Qaraçuxur q.",40.393169052162,49.8477172851563
+1572782,134000,AZN,True,10,17,110.0,3,True,"Əhmədli m.,Xətai r.",40.3851197259324,49.9539644207425
+1572774,259000,AZN,True,12,20,185.0,4,False,Xətai r.,40.3831827759985,49.8950101800537
+1572770,210000,AZN,True,5,17,120.0,2,True,"Bakı Musiqi Akademiyası,Milli Konservatoriya,Neft Akademiyası,28 May m.,Qış parkı,Nizami kinoteatrı,Nərimanov r.",40.3789433128643,49.8444506431028
+1572769,53000,AZN,False,5,5,38.0,2,True,"Memar Əcəmi m.,20 Yanvar m.,Nəsimi r.,5-ci mikrorayon q.",40.409506920227,49.8120456784538
+1572767,140000,AZN,True,10,12,74.0,2,True,"Neftçi bazası,Nərimanov r.",40.4014261426851,49.8322754501841
+1572766,117000,AZN,True,17,18,92.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3943922139515,49.7959441375732
+1572765,250000,AZN,True,9,21,125.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4066173431643,49.8757232255193
+1572763,310000,AZN,True,11,16,168.0,3,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4027729778822,49.8706943937011
+1572762,70000,AZN,False,1,9,40.0,2,False,Suraxanı r.,40.386795972829,50.0237968012611
+1572760,87000,AZN,True,16,17,60.0,2,True,"Elmlər Akademiyası m.,Bakı Dövlət Universiteti,Hüseyn Cavid parkı,Yasamal r.",40.374425238325,49.8139756721965
+1572759,78000,AZN,False,7,9,60.0,2,True,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3713392992791,49.9602379403935
+1572758,139000,AZN,True,12,16,130.0,3,False,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4021520487022,49.8725826688475
+1572757,212000,AZN,True,9,16,205.0,4,False,Nərimanov r.,40.416112088029,49.868981989085
+1572756,105000,AZN,True,14,17,70.0,1,True,"Neftçi bazası,Nəsimi r.",40.4014571065532,49.8316502989962
+1572753,231250,AZN,True,5,7,125.0,3,False,"Ağ şəhər,Xətai r.",40.3849806932675,49.8848392434692
+1572752,90000,AZN,False,4,5,45.0,2,True,Yasamal r.,40.3821713346859,49.813030156714
+1572751,600000,AZN,True,18,21,245.0,4,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3750117715672,49.8151759239259
+859792,55000,AZN,False,9,9,50.0,2,True,"Neapol dairəsi,Suraxanı r.,Günəşli q.",40.378544728411,49.9623055726661
+1572743,98000,AZN,True,16,19,53.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3856609372358,49.8048011394563
+290958,139000,AZN,True,6,7,133.0,3,True,"Abşeron r.,Masazır q.",40.492,49.745
+1572739,545000,AZN,True,15,15,320.0,6,True,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,28 May m.,Nəsimi r.",40.3862299253145,49.8469436281876
+1572738,345000,AZN,True,6,21,153.0,3,True,"Qış parkı,Nizami kinoteatrı,Milli Konservatoriya,Sahil m.,Nəsimi r.",40.3758193718003,49.8384648176361
+1572737,264000,AZN,True,12,17,150.0,3,True,"İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.",40.3780741228725,49.8195747467103
+1572736,235000,AZN,True,6,18,118.0,3,True,"Botanika bağı,Səbail r.,Badamdar q.",40.3510893424523,49.8104886385451
+1572735,78000,AZN,False,7,9,60.0,2,True,"Həzi Aslanov m.,Xətai r.",40.3697638725497,49.9609071830372
+1572733,450000,AZN,True,11,23,170.0,3,True,Yasamal r.,40.383199390952,49.8154449462891
+1572732,117000,AZN,False,2,10,60.0,2,True,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.3996210671462,49.8588020761396
+1572731,418000,AZN,True,12,21,209.0,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3750117715672,49.8151759239259
+1572729,55000,AZN,True,17,20,53.0,1,True,Xətai r.,40.3563529346719,49.9616681485194
+1572727,150000,AZN,False,8,9,89.0,3,True,"Azərbaycan turizm institutu,Gənclik m.,Nərimanov r.",40.4001456984147,49.8608660940966
+1572726,82000,AZN,True,3,12,77.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3931828802636,49.7934121322632
+1572725,39000,AZN,True,6,7,63.0,2,True,"Suraxanı r.,Massiv D q.",40.3855911812122,50.017718707386
+1572723,150000,AZN,True,12,12,111.0,3,False,"Bakı Asiya Universiteti,Yasamal r.",40.3972882427001,49.8163388430089
+1572720,190000,AZN,True,13,13,125.0,3,True,Nizami r.,40.4085886352323,49.9559709282471
+1572718,125000,AZN,False,3,9,78.0,3,True,"Qara Qarayev m.,Nizami r.",40.4204987324415,49.9279607903473
+1559642,229000,AZN,True,6,17,160.0,3,True,Nərimanov r.,40.4035246213318,49.8618109174437
+1572712,64000,AZN,False,2,5,35.0,2,True,Nərimanov r.,40.4106974919927,49.8398382611937
+1568150,190000,AZN,True,5,16,122.0,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1571877,100000,AZN,True,10,18,92.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4371650141541,49.9588251113892
+1572707,145000,AZN,False,7,9,120.0,5,True,"Yasamal r.,Yeni Yasamal q.",40.3915812978151,49.793121256649
+1572706,180000,AZN,True,12,18,144.0,4,False,Nəsimi r.,40.3959241716507,49.8161628840022
+1572703,133000,AZN,True,16,18,132.0,3,True,Nizami r.,40.4084902274045,49.955262332279
+1572702,98000,AZN,False,2,9,30.0,2,True,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.3994231604641,49.8592574544616
+1486984,139000,AZN,True,18,19,142.0,4,True,"Yasamal r.,Yeni Yasamal q.",40.3938038921676,49.7947425079346
+1572700,150000,AZN,True,13,16,142.0,3,True,"Qara Qarayev m.,Nizami r.",40.4144957270973,49.9269905582094
+1551015,159000,AZN,True,9,16,70.0,2,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.404251746682,49.873741383142
+1572698,135000,AZN,True,2,10,117.0,3,True,"Nizami r.,8-ci kilometr q.",40.4060326237663,49.9606886865079
+1572696,120000,AZN,True,3,16,100.0,3,True,"Nəsimi r.,5-ci mikrorayon q.",40.410195538488,49.8048081016974
+1572695,185000,AZN,True,15,17,113.0,3,True,"Binəqədi r.,8-ci mikrorayon q.",40.4159027462107,49.8338143371656
+1572693,139000,AZN,False,8,9,100.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3821268996332,49.869741101845
+1572691,135000,AZN,True,15,17,110.0,3,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.4085874622831,49.9456649704664
+1572689,156000,AZN,True,14,18,95.0,2,True,"20 Yanvar m.,Yasamal r.",40.4003828268069,49.8058203788819
+1572685,60000,AZN,True,1,22,77.0,2,True,"Xətai r.,Həzi Aslanov q.",40.3658715514138,49.9586963653564
+1572684,165000,AZN,True,14,17,110.0,2,True,"Neftçi bazası,Nəsimi r.",40.4015034199928,49.8316189450115
+1572683,63500,AZN,True,8,10,74.0,2,True,"Abşeron r.,Masazır q.",40.4918101642587,49.7476682738532
+1572676,230000,AZN,True,13,17,156.0,4,True,"Memar Əcəmi m.,20 Yanvar m.,Nəsimi r.",40.4100975858684,49.8074992730766
+1572678,280000,AZN,True,3,6,151.0,4,True,"Ağ şəhər,Xətai r.",40.3837385010057,49.8856546350097
+1561471,165000,AZN,False,4,5,54.0,2,True,"Səməd Vurğun parkı,Azadlıq meydanı,Port Baku,28 May m.,Nəsimi r.",40.375997461758,49.8557348785095
+1572674,110000,AZN,False,1,6,51.0,2,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.",40.3820181252973,49.8222924882764
+1572671,170000,AZN,True,7,14,85.0,3,True,"Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.",40.3774637624072,49.8077086540284
+1572669,90000,AZN,False,2,5,55.0,2,True,"İdman kompleksi,Yasamal r.",40.3927312837513,49.8233345576619
+1572668,118000,AZN,False,4,5,60.0,3,True,"Gənclik m.,Respublika stadionu,Nərimanov r.",40.4010735791453,49.852669949121
+1572666,135000,AZN,True,15,18,79.0,2,True,"Dostluq kinoteatrı,Zoopark,Koala parkı,Bakı Slavyan Universiteti,Nəsimi r.",40.3880629342065,49.8451274754759
+1572659,765000,AZN,True,17,18,208.0,4,True,"Nəsimi bazarı,Nəsimi r.",40.3964522057914,49.8399527606659
+1572657,220000,AZN,True,6,22,191.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3845312184492,49.8675705241041
+1572654,218000,AZN,True,7,17,156.0,3,False,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3761946807166,49.8163112317557
+1572652,84000,AZN,False,4,5,50.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.388349524092,49.8029021354737
+1572649,490000,AZN,True,7,27,195.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3782649274871,49.8749235162192
+1572647,210000,AZN,False,5,5,130.0,3,True,"Nizami m.,Dövlət Statistika Komitəsi,Yasamal r.",40.3801560940569,49.8263686298255
+1572643,69500,AZN,True,2,9,66.0,2,True,"Abşeron r.,Masazır q.",40.4910921449356,49.7462091521491
+1572644,82000,AZN,True,16,18,57.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3941307382377,49.7951716613769
+1572640,130000,AZN,True,11,17,75.0,2,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3847422413076,49.803627720726
+1572639,380000,AZN,False,4,5,155.0,5,True,"Sahil m.,Malokan bağı,Sahil bağı,Xalça Muzeyi,Nizami kinoteatrı,Pedaqoji Universiteti,Səbail r.",40.37172428234,49.8440265655518
+1572638,1290000,AZN,True,9,14,256.0,4,True,"Mərkəzi Univermaq,Fontanlar bağı,Azərbaycan kinoteatrı,M.Ə.Sabir parkı,Sahil m.,Səbail r.",40.3729216071485,49.8371399776817
+1572636,95000,AZN,False,9,9,65.0,3,True,Nərimanov r.,40.4085898257102,49.847262615747
+1572632,49000,AZN,False,2,5,67.0,3,True,"Suraxanı r.,Hövsan q.",40.3585965522592,50.0682779346405
+1572631,65500,AZN,True,11,17,57.0,1,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.417991984286,49.9423546386536
+1572628,285000,AZN,True,11,14,110.0,3,True,"Nizami m.,Zabitlər parkı,Yasamal r.",40.3815175248736,49.8313979240479
+1572627,87000,AZN,True,16,17,60.0,2,False,"Qış parkı,Beşmərtəbə,Nizami m.,Yasamal r.",40.3766741314409,49.8363571022741
+1572625,129000,AZN,True,4,4,100.0,3,True,"Həzi Aslanov m.,Xətai r.",40.3727097365022,49.9520804791814
+1572619,95000,AZN,False,2,9,70.0,3,True,"Koroğlu m.,Nizami r.",40.4191407798142,49.9242594936521
+1572618,170000,AZN,True,4,16,106.0,3,False,"Nəriman Nərimanov m.,Nərimanov r.",40.402100364136,49.8794705815978
+1572621,180000,AZN,True,14,16,89.0,2,True,"Koala parkı,Nəsimi bazarı,Dostluq kinoteatrı,Park Zorge,Xətai r.",40.3927441458932,49.8414516448975
+1572604,40500,AZN,True,3,9,43.0,2,True,"Abşeron r.,Masazır q.",40.4930503613574,49.7433767394294
+1564846,35000,AZN,True,12,17,55.0,2,True,"Qara Qarayev m.,Nizami r.",40.4164136425058,49.9277535680152
+1572616,80000,AZN,False,4,9,80.0,3,True,"Xətai r.,Köhnə Günəşli q.",40.3549253585685,49.9687116521714
+1572601,250000,AZN,True,5,7,140.0,3,True,"Ağ şəhər,Xətai r.",40.3809311619185,49.8812450887315
+1572612,150000,AZN,False,2,9,85.0,3,True,Yasamal r.,40.3963217663633,49.8216951855892
+1572600,270000,AZN,True,10,17,163.0,4,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.405285231557,49.8736877389617
+1572608,195000,AZN,True,10,17,90.0,3,True,"Dostluq kinoteatrı,Koala parkı,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Nəsimi r.",40.3876516250537,49.8428817329102
+1572605,99000,AZN,True,2,6,70.0,3,True,Xətai r.,40.3722645801261,49.9382782226564
+1572596,135000,AZN,True,8,19,139.0,4,False,"Ukrayna dairəsi,Həzi Aslanov m.,Əhmədli m.,Xətai r.",40.378793682028,49.9540621848203
+1572589,142000,AZN,False,6,9,80.0,3,True,Yasamal r.,40.3921411480627,49.8147467704835
+1572587,155000,AZN,True,6,21,152.0,4,False,"Xətai r.,Həzi Aslanov q.",40.3623890988435,49.9603164196014
+1565996,112000,AZN,True,4,16,71.6,2,True,"Neftçilər m.,Nizami r.",40.4055740675266,49.9375602455689
+1572583,140000,AZN,True,9,20,136.0,4,False,"Xətai r.,Həzi Aslanov q.",40.3658715514138,49.9586963653564
+1572567,350000,AZN,True,3,8,75.0,2,False,"Sabunçu r.,Nardaran q.",40.5735776165273,49.9872519795281
+1572579,75000,AZN,False,3,5,65.0,3,True,Xətai r.,40.353909383032,49.954035856597
+1572577,135000,AZN,False,3,9,90.0,3,True,Yasamal r.,40.3876303989119,49.816463384253
+1572573,98000,AZN,True,16,19,52.0,2,False,"Yasamal r.,İnşaatçılar m.",40.3796541320957,49.8097685905518
+1572572,260000,AZN,False,9,9,180.0,4,True,"Nizami m.,Beşmərtəbə,Yasamal r.",40.3792111132579,49.8297786712646
+1572571,190000,AZN,True,9,16,90.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3841634640942,49.8705484338379
+1572570,260000,AZN,True,9,16,170.0,4,True,"Park Zorge,Rusiya səfirliyi,Nəsimi bazarı,Sevil Qazıyeva parkı,Koala parkı,Nəsimi r.",40.3908661041348,49.8355561291258
+1572565,130000,AZN,False,6,9,75.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3780404176438,49.8129830773227
+1572566,70000,AZN,True,4,10,50.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.393836576846,49.7959441375732
+1572560,117000,AZN,False,4,4,60.0,2,True,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Səməd Vurğun parkı,Milli Konservatoriya,Nəsimi r.",40.3798649454542,49.8485326766968
+1572559,53000,AZN,True,4,19,50.9,3,False,"Ukrayna dairəsi,Həzi Aslanov m.,Əhmədli m.,Xətai r.",40.3784506296701,49.9539559990709
+1572561,108000,AZN,True,3,14,64.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3911941690923,49.8008421989503
+1572558,105000,AZN,False,6,9,100.0,4,True,"Xətai r.,Əhmədli q.",40.3776461083198,49.9610836530004
+1572556,365000,AZN,True,15,16,215.0,5,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1572555,72000,AZN,False,5,5,45.0,2,True,"İncəsənət və Mədəniyyət Un.,Dövlət Statistika Komitəsi,Yasamal r.",40.3813213806925,49.8189524742188
+1572552,78000,AZN,False,2,9,60.0,2,True,"Xətai r.,Həzi Aslanov q.",40.3639693913099,49.9550700332014
+1572550,95000,AZN,False,7,9,80.0,3,True,"Əhmədli m.,Xətai r.",40.3875064506335,49.9562163699698
+1572548,170000,AZN,True,13,14,136.0,3,False,"İnşaatçılar m.,Yasamal r.",40.3906273841361,49.8027519317689
+1572544,71000,AZN,True,8,9,66.0,2,True,"Abşeron r.,Masazır q.",40.4921365341386,49.7468957976569
+1572543,200000,AZN,True,11,27,174.0,4,False,Yasamal r.,40.3960693446123,49.8151606187004
+1572535,79000,AZN,True,5,12,56.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.393754805511,49.7944977461824
+1572532,130000,AZN,True,9,13,92.0,2,True,"Ukrayna dairəsi,Əhmədli m.,Xətai r.,Əhmədli q.",40.3816452,49.954673949707
+1572530,245000,AZN,True,3,9,140.0,3,True,"M.Hüseynzadə parkı,Dövlət Statistika Komitəsi,Sevil Qazıyeva parkı,İzmir parkı,Nizami m.,Yasamal r.",40.3842762443822,49.8278768717427
+1572527,80000,AZN,False,9,9,53.0,3,True,Yasamal r.,40.3815883870409,49.8110622985616
+1572524,77000,AZN,True,16,18,101.0,2,False,"Xətai r.,Əhmədli q.",40.3717719192337,49.9648878016358
+1572525,450000,AZN,True,3,14,220.0,4,True,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.3977447959129,49.8580169677734
+1572523,560000,AZN,True,12,17,205.0,4,True,"Sirk,Zabitlər parkı,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Nəsimi r.",40.3839541073402,49.8387635165695
+1572522,112000,AZN,True,7,11,94.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.393607783764,49.7943133544922
+1572517,106000,AZN,True,9,18,126.0,3,False,"Xətai r.,Əhmədli q.",40.3722950432513,49.9650594630127
+1572514,78000,AZN,True,4,18,98.0,2,True,"Xətai r.,Əhmədli q.",40.3712487911552,49.9648878016358
+1572511,68000,AZN,False,2,5,50.0,2,True,"Xalqlar Dostluğu m.,Nizami r.",40.399852545057,49.9480944069011
+1572509,190000,AZN,True,12,16,131.0,4,True,"İnşaatçılar m.,Yasamal r.",40.392851822959,49.808974854898
+1572508,210000,AZN,True,7,10,127.0,3,True,"Azərbaycan turizm institutu,Nərimanov r.",40.3972170921126,49.8630554624267
+1572505,85000,AZN,False,5,9,80.0,3,True,"Binəqədi r.,Biləcəri q.",40.4376033935943,49.809438250293
+1504006,110000,AZN,True,8,14,96.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.4000136962081,49.796974105835
+1531081,95000,AZN,True,9,13,100.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3923003798113,49.7952574920654
+1528033,104000,AZN,True,7,16,78.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3912544383731,49.7902793121338
+1530178,83000,AZN,True,4,19,88.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3920388959747,49.7907084655762
+1572503,80000,AZN,True,10,19,58.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3938420686757,49.7955532169932
+1530975,76000,AZN,True,8,13,93.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3924964920224,49.7946566772461
+1572502,237500,AZN,True,12,17,95.0,2,True,"Sirk,Zabitlər parkı,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Nəsimi r.",40.3840422977937,49.8387573139104
+1572500,87500,AZN,True,2,7,87.0,3,True,"Abşeron r.,Masazır q.",40.4923323553045,49.7474966124762
+1530869,260000,AZN,True,15,17,157.0,3,True,"Zoopark,Nərimanov r.",40.3904186787779,49.8494083829589
+1552682,168000,AZN,True,12,20,90.0,3,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4020848309914,49.8095234425128
+1572496,89000,AZN,False,4,5,50.0,2,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Yasamal r.",40.3820569184268,49.8204805855434
+1572495,87000,AZN,True,3,11,61.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3970395983687,49.7968882751465
+1572491,78500,AZN,True,3,9,90.0,3,True,"Abşeron r.,Masazır q.",40.4917448900923,49.7441492156256
+1572494,146500,AZN,True,5,8,140.0,4,True,"Abşeron r.,Masazır q.",40.4880241576497,49.7456941680182
+1572485,180000,AZN,True,5,12,140.0,3,False,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,28 May m.,Nəsimi r.",40.3855080158558,49.8464037797203
+1572487,70000,AZN,True,6,7,70.0,2,True,"Abşeron r.,Masazır q.",40.4917448900923,49.744578369068
+1572480,118000,AZN,True,7,12,110.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.393836576846,49.7957510185242
+1559658,459000,AZN,True,8,30,84.0,2,True,"Port Baku,Cavanşir körpüsü,Nəsimi r.",40.3754282613097,49.8603015097503
+1572477,95000,AZN,True,3,13,130.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3886918131429,49.7882708732376
+1572475,130000,AZN,True,9,13,90.0,2,True,"Ukrayna dairəsi,Əhmədli m.,Xətai r.,Əhmədli q.",40.3808606213362,49.9551889338379
+1572474,115000,AZN,True,5,19,95.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3938618453275,49.7955671177561
+1572465,299000,AZN,True,14,16,180.0,4,False,"Nəriman Nərimanov m.,Nərimanov r.",40.4070866435415,49.8716814466185
+1572463,415000,AZN,True,10,21,168.0,4,True,"Elmlər Akademiyası m.,İncəsənət və Mədəniyyət Un.,Yasamal r.",40.3779709816944,49.8156742534294
+1572469,290000,AZN,True,17,20,109.0,3,False,"Nizami m.,Beşmərtəbə,Yasamal r.",40.3791947673717,49.8298001289368
+1572470,97000,AZN,True,20,20,78.2,2,True,"Yasamal r.,Yeni Yasamal q.",40.3939020733685,49.7956448437144
+1572461,140000,AZN,True,6,13,110.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3876458156588,49.7879275504837
+1572455,215000,AZN,True,10,15,102.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.379401609748,49.8099604826572
+1572453,75000,AZN,True,12,16,33.0,1,False,"Qış parkı,Bakı Musiqi Akademiyası,Milli Konservatoriya,Sirk,Nizami kinoteatrı,Nəsimi r.",40.3788907591461,49.8398776588135
+1572452,118000,AZN,True,10,14,92.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3939182884725,49.7960943412781
+1572450,76000,AZN,False,2,9,60.0,2,True,"Neftçilər m.,Nizami r.",40.4107779927163,49.9441262932373
+1572448,185000,AZN,True,7,16,120.0,3,False,"Nəsimi m.,Azadlıq Prospekti m.,Binəqədi r.",40.4258999954995,49.8322205864659
+1572447,217000,AZN,True,3,16,128.0,4,True,Nərimanov r.,40.4304801949823,49.9191029020018
+1572446,79000,AZN,True,4,12,57.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3889533099757,49.7880133811722
+1572444,79999,AZN,False,2,5,56.0,2,True,"Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.",40.3783400340426,49.8072307410982
+1534470,180000,AZN,False,3,5,55.0,2,True,"Axundov bağı,İqsadiyyat Universiteti,Sovetski,Dövlət İdarəçilik Akademiyası,M.Ə.Sabir parkı,Mərkəzi Univermaq,İçəri Şəhər m.,Nərimanov heykəli,Səbail r.",40.3699045415585,49.8296246476921
+1534408,123000,AZN,True,10,16,50.0,2,True,"Bakı Asiya Universiteti,Nəsimi r.",40.4037320397301,49.8202653464966
+1572441,85000,AZN,True,3,16,52.0,2,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3831870119127,49.8770298842095
+1572440,130000,AZN,True,4,15,86.0,2,True,"Zərifə Əliyeva adına park,Nəsimi m.,Binəqədi r.,6-cı mikrorayon q.",40.4233451665383,49.8211888335841
+1572439,170000,AZN,True,4,16,106.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4039167797998,49.8781616635985
+1572437,70000,AZN,False,4,5,50.5,2,True,"Sabunçu r.,Bakıxanov q.",40.4195705278493,49.9597222029621
+1562281,60000,AZN,True,2,15,68.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3932002607493,49.7928649616241
+1572434,184000,AZN,True,19,20,160.0,3,True,"TQDK,Nərimanov r.",40.4000277739841,49.8436577268309
+1572433,80000,AZN,True,2,17,70.0,2,True,"Xətai r.,Əhmədli q.",40.3610359076295,49.9558973604887
+1572432,61000,AZN,False,1,5,40.0,2,True,"20 Yanvar m.,Memar Əcəmi m.,Nəsimi r.",40.4073614637944,49.8106600695211
+1572431,69000,AZN,False,5,5,42.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4156328992817,49.9699096518224
+1572428,56000,AZN,True,3,13,63.0,1,False,"Yasamal r.,Yeni Yasamal q.",40.39216963802,49.7907942962646
+1533262,460000,AZN,True,2,10,180.0,3,True,"Sevil Qazıyeva parkı,Rusiya səfirliyi,M.Hüseynzadə parkı,Zabitlər parkı,Park Zorge,Nəsimi r.",40.3876557110126,49.8320885238342
+1322224,375000,AZN,True,5,12,146.0,4,True,Səbail r.,40.3449327341502,49.8377052509095
+736263,715000,AZN,True,8,33,136.0,3,True,"Cavanşir körpüsü,Səbail r.",40.3756859626164,49.862249886158
+1278043,445000,AZN,True,14,33,85.0,2,True,"Port Baku,Cavanşir körpüsü,Nəsimi r.",40.3765532460384,49.8602624473267
+812965,1870000,AZN,True,12,16,280.0,5,True,"Sevil Qazıyeva parkı,Rusiya səfirliyi,M.Hüseynzadə parkı,Park Zorge,Nəsimi r.",40.3878309674139,49.8321081926535
+992624,620000,AZN,True,9,16,249.0,5,True,"Sirk,Zabitlər parkı,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Nəsimi r.",40.3845836123826,49.8383494697055
+1572420,173000,AZN,True,18,20,64.0,2,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3821366929595,49.8715784020996
+717511,1350000,AZN,True,19,33,223.0,4,True,"Cavanşir körpüsü,Səbail r.",40.3756288700271,49.8617446654147
+1572419,78000,AZN,True,15,17,56.5,2,False,"Yasamal r.,Yeni Yasamal q.",40.3886264387761,49.7878417197952
+1572414,132000,AZN,True,12,16,74.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3859180134772,49.8037273693726
+1097520,1050000,AZN,True,12,14,330.0,5,True,"Azərbaycan Dillər Universiteti,Sirk,Bakı Slavyan Universiteti,Qış parkı,Bakı Musiqi Akademiyası,28 May m.,Nəsimi r.",40.3812951037953,49.8414632734045
+1560924,379000,AZN,True,5,27,220.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3782976674617,49.8748707843075
+1572413,78000,AZN,False,2,9,60.0,2,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3843596,49.8722650476074
+1234255,2300000,AZN,True,29,33,268.0,5,True,"Port Baku,Cavanşir körpüsü,Nəsimi r.",40.3755495356963,49.8600339889526
+1572412,189000,AZN,True,11,16,112.0,3,True,"Təhsil Nazirliyi,Azərbaycan turizm institutu,Nərimanov r.",40.3951253457302,49.8617680020995
+1572417,120000,AZN,False,2,5,65.0,3,True,"Texniki Universiteti,Hüseyn Cavid parkı,Memarlıq və İnşaat Universiteti,Elmlər Akademiyası m.,Yasamal r.",40.37066335506,49.8172358604493
+1572409,87000,AZN,True,17,17,87.0,2,True,"Həzi Aslanov m.,Xətai r.,Əhmədli q.",40.3710853127979,49.9541589655762
+1572406,65500,AZN,False,2,5,32.0,1,True,"Neftçilər m.,Nizami r.,8-ci kilometr q.",40.4051546486438,49.9445563262564
+554248,4250000,AZN,True,16,33,1000.0,8,True,"Cavanşir körpüsü,Səbail r.",40.3756394428854,49.8619329929352
+1572415,120000,AZN,True,5,10,93.0,3,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3867959307412,49.7991713706742
+1572404,146000,AZN,True,6,16,80.0,2,True,"Hüseyn Cavid parkı,Elmlər Akademiyası m.,Yasamal r.",40.3741587539575,49.8197405564711
+1340249,220000,AZN,True,14,16,105.0,2,True,"İncəsənət və Mədəniyyət Un.,Dövlət Statistika Komitəsi,Elmlər Akademiyası m.,Nizami m.,Yasamal r.",40.3785518654117,49.8214555586467
+1384438,1020000,AZN,True,12,33,196.0,4,True,"Port Baku,Cavanşir körpüsü,Nəsimi r.",40.3762027586086,49.8601854579054
+1550712,170000,AZN,True,12,20,90.0,3,False,"Yasamal r.,Yasamal q.",40.3907029709962,49.7884825798097
+1366384,88000,AZN,True,16,17,62.0,2,False,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.3924311213488,49.7956008148193
+1541019,68000,AZN,True,12,16,68.0,1,False,"Yasamal r.,Yeni Yasamal q.",40.3915812968176,49.7901934814453
+1542490,120000,AZN,True,12,17,90.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3906007167246,49.7881335449219
+1572401,98000,AZN,False,2,6,50.0,2,True,"Hüseyn Cavid parkı,Texniki Universiteti,Elmlər Akademiyası m.,Yasamal r.",40.3726392975753,49.8173981918012
+1572400,230000,AZN,True,12,16,92.0,3,True,"Qış parkı,Milli Konservatoriya,Nizami kinoteatrı,Bakı Musiqi Akademiyası,Nəsimi r.",40.3774858702098,49.8391402601749
+1572399,167000,AZN,True,11,19,107.0,3,True,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.3978956842068,49.8076607457418
+1531322,65000,AZN,False,6,9,45.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3933463050041,49.7951716613769
+1502164,115000,AZN,True,7,16,92.0,2,True,Yasamal r.,40.3904414809571,49.7885684104981
+1572398,122000,AZN,True,12,16,112.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3935424141692,49.7952574920654
+1475920,75000,AZN,True,5,14,52.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3913198101889,49.7910517883301
+1572396,41500,AZN,True,2,9,41.0,2,True,"Abşeron r.,Masazır q.",40.4915431342403,49.7516086824951
+1572395,280000,AZN,True,17,18,141.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3795281118808,49.8753471821302
+1572392,275000,AZN,True,7,14,164.0,4,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3873852408455,49.8081270786347
+1572394,125000,AZN,True,15,17,60.0,2,True,Nəsimi r.,40.3959864657187,49.8257155952148
+1572393,130000,AZN,True,16,16,101.0,2,True,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4031324605791,49.8754579969115
+1572389,150000,AZN,True,10,18,90.0,3,True,"20 Yanvar m.,Nəsimi r.,2-ci mikrorayon q.",40.401023325827,49.8053954892108
+1572390,100000,AZN,True,8,16,58.0,2,False,"Tibb Universiteti,Nəsimi r.",40.4000408442222,49.831958711754
+1450417,190000,AZN,True,1,16,107.6,2,False,"Park Zorge,Koala parkı,Dostluq kinoteatrı,Rusiya səfirliyi,Nəsimi bazarı,Nəsimi r.",40.3896782302506,49.8384185371094
+1572383,75000,AZN,True,13,18,56.0,2,True,Xətai r.,40.3941196156128,49.9647666797669
+1572380,300000,AZN,True,8,14,165.0,3,True,"Tibb Universiteti,Nəsimi r.",40.3965094017186,49.8330970344238
+1572379,88000,AZN,True,15,17,70.0,1,False,"Təhsil Nazirliyi,Nərimanov r.",40.3914251944271,49.8570422636796
+1572378,143775,AZN,True,16,27,106.5,2,False,Yasamal r.,40.3956710888269,49.8155407043519
+1571389,160000,AZN,True,15,19,95.0,3,True,"Memar Əcəmi m.,Nəsimi r.",40.4143358211685,49.8123045501404
+1572369,400000,AZN,True,4,16,190.0,4,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4050429784346,49.8737491874796
+1572372,290000,AZN,True,7,13,106.3,2,True,"Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.",40.3810544301948,49.8669447590798
+1572368,75000,AZN,False,5,5,80.0,4,True,"Suraxanı r.,Hövsan q.",40.3732074903199,50.0894982677525
+1572371,280000,AZN,True,17,18,141.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3795867974967,49.8748399682617
+1572367,935000,AZN,True,9,18,114.0,2,True,"Pedaqoji Universiteti,Sahil bağı,Azadlıq meydanı,Malokan bağı,Sahil m.,Nəsimi r.",40.3720741482073,49.849705272644
+1572355,178000,AZN,True,5,18,129.0,3,True,"Ukrayna dairəsi,Həzi Aslanov m.,Əhmədli m.,Xətai r.",40.3785587724793,49.9523792762482
+1572354,82000,AZN,True,7,13,56.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3875689996281,49.7886699867248
+1572352,89000,AZN,False,4,5,85.0,4,True,"Xətai r.,Əhmədli q.",40.3664260129086,49.9499961771851
+1572348,120000,AZN,True,2,16,94.0,2,True,"Azadlıq Prospekti m.,Binəqədi r.,7-ci mikrorayon q.",40.4265928571887,49.8497238684272
+1572347,95000,AZN,True,14,17,82.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3929213998538,49.7923392486572
+1572344,155000,AZN,True,16,18,100.0,2,True,"İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.",40.3779950623503,49.8186652525378
+1572335,250000,AZN,True,9,18,125.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4064739237872,49.8764289565749
+1515239,230000,AZN,False,2,4,100.0,4,True,"Mərkəzi Univermaq,M.Ə.Sabir parkı,İqsadiyyat Universiteti,Fontanlar bağı,Azərbaycan kinoteatrı,Axundov bağı,İçəri Şəhər m.,Yasamal r.",40.3711563721254,49.8333017188303
+1537914,157000,AZN,True,10,17,82.0,3,False,Nəsimi r.,40.4008659284236,49.8315596580505
+1490082,350000,AZN,True,11,17,218.0,5,True,"Elmlər Akademiyası m.,İncəsənət və Mədəniyyət Un.,Yasamal r.,Yasamal q.",40.3778692124742,49.8155481106616
+1572330,125000,AZN,True,6,17,116.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3938454891235,49.7960923924856
+1572329,200000,AZN,True,5,16,133.0,3,False,"Nəsimi bazarı,Nəsimi r.",40.3961335418792,49.843396717041
+1572327,87000,AZN,True,16,17,60.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3925388024156,49.8090959368166
+1572315,63000,AZN,False,9,9,55.0,3,True,"Suraxanı r.,Günəşli q.",40.3905342049936,49.9679707775626
+1560850,259000,AZN,False,12,19,153.0,4,False,"Nəriman Nərimanov m.,Nərimanov r.",40.4027402975419,49.8783333249755
+1572324,108000,AZN,True,3,12,65.0,2,True,"İnşaatçılar m.,Yasamal r.",40.390370627925,49.803019190959
+1572321,184500,AZN,True,10,17,101.0,3,True,Yasamal r.,40.3935481969806,49.8154106132279
+1572318,170000,AZN,True,2,13,75.0,2,True,"Milli Konservatoriya,Bakı Musiqi Akademiyası,Neft Akademiyası,Nizami kinoteatrı,Malokan bağı,28 May m.,Pedaqoji Universiteti,Sahil bağı,Sahil m.,Nəsimi r.",40.3770481549537,49.8458344181725
+1572316,29500,AZN,True,2,13,64.0,2,False,"Abşeron r.,Masazır q.",40.4921306012188,49.7547844179688
+1572310,120000,AZN,True,16,17,60.0,2,False,"Azərbaycan turizm institutu,Təhsil Nazirliyi,Nərimanov r.",40.3961712270443,49.8617250867553
+1526359,118000,AZN,True,3,16,132.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3869724463579,49.7878772443309
+1572309,71000,AZN,False,5,5,55.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3857324435946,49.8021993967118
+1572306,87000,AZN,True,16,18,63.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3923845355817,49.8093352903649
+1572302,67000,AZN,False,2,5,80.0,3,True,"Binəqədi r.,Biləcəri q.",40.4359727810902,49.801025390625
+1572303,200000,AZN,True,14,17,143.0,3,False,"Şah İsmayıl Xətai m.,Xətai r.",40.3827904967625,49.8719217248535
+1572298,168000,AZN,True,10,21,97.0,2,False,"Şah İsmayıl Xətai m.,Xətai r.",40.38481058899,49.8753884375401
+1434195,210000,AZN,True,11,18,138.0,3,True,Nəsimi r.,40.3958141323777,49.8207686273951
+1572294,160000,AZN,True,12,21,95.0,3,True,"Tibb Universiteti,Neftçi bazası,Nəsimi r.",40.3984255623483,49.8358884745221
+1572292,210000,AZN,True,16,19,117.0,3,True,"Tibb Universiteti,İdman kompleksi,Nəsimi r.",40.3942289547537,49.8269640417117
+1572291,177000,AZN,True,12,16,128.0,3,True,"Həzi Aslanov m.,Xətai r.",40.3728070525688,49.9549396174478
+1572290,76000,AZN,True,18,20,60.0,1,True,"Xətai r.,Həzi Aslanov q.",40.3730647804529,49.9534606933594
+1572289,40000,AZN,False,2,4,70.0,3,True,"Abşeron r.,Mehdiabad q.",40.5035311013491,49.8560468101596
+1572288,55000,AZN,True,17,19,53.0,1,True,"Xətai r.,Həzi Aslanov q.",40.35561987354,49.9605846405029
+1572286,96000,AZN,True,9,12,72.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3938454891235,49.7939466252737
+1572285,125000,AZN,True,15,18,65.0,2,False,Nəsimi r.,40.39804550273,49.8260589179687
+1572284,199000,AZN,True,12,16,181.0,4,False,"Nəriman Nərimanov m.,Nərimanov r.",40.4057631618844,49.8758227773375
+1572283,90000,AZN,True,10,16,62.0,1,False,"İnşaatçılar m.,Yasamal r.",40.3902927112201,49.8026561737061
+1572282,162000,AZN,True,4,16,86.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3842766570573,49.8739389867859
+1572278,135000,AZN,False,3,5,54.0,2,True,"Beşmərtəbə,Nizami m.,Yasamal r.",40.3762034034265,49.8324823379517
+1544152,500000,AZN,True,14,17,210.0,4,True,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Sirk,28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Nəsimi r.",40.3822905391319,49.844050820603
+1572271,195000,AZN,True,8,14,130.0,4,True,"Gənclik m.,Respublika stadionu,Nərimanov r.",40.4007691075174,49.8516282461948
+1572263,155000,AZN,True,7,16,155.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3937385227632,49.7961157989502
+1572262,270000,AZN,True,7,15,120.0,3,True,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Sirk,28 May m.,Nəsimi r.",40.3824531141195,49.8432131517499
+1572260,154000,AZN,True,4,14,123.0,3,False,"İnşaatçılar m.,Yasamal r.",40.3901799899026,49.8029021354737
+1572259,215000,AZN,True,10,16,165.0,4,False,Yasamal r.,40.3962407072039,49.8018478573343
+1572258,54500,AZN,False,5,5,39.0,1,True,"Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3812536794244,49.8126478317615
+1531052,105000,AZN,True,2,11,70.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.393836576846,49.7958583068848
+1572253,105000,AZN,True,4,16,50.0,2,True,Nəsimi r.,40.3960850302861,49.8159270198905
+1572243,330000,AZN,True,11,18,178.0,4,True,"Tibb Universiteti,Nəsimi r.",40.3975213682636,49.8363156852417
+1572241,63500,AZN,False,3,5,34.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3891169760138,49.8064976663183
+1572233,185000,AZN,True,10,18,113.0,3,True,"Neftçilər m.,Nizami r.",40.4099283997613,49.9452420921875
+1572232,59000,AZN,False,3,5,33.0,1,True,"İnşaatçılar m.,Yasamal r.",40.388895353527,49.8033213615417
+1547523,380000,AZN,True,9,16,170.0,4,True,"Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Dostluq kinoteatrı,Sirk,Nəsimi r.",40.3856939683349,49.8428340490488
+1369060,102000,AZN,True,9,22,123.0,3,False,Yasamal r.,40.4127118421074,49.8007464408875
+1465557,458000,AZN,True,18,18,205.0,4,True,"Elmlər Akademiyası m.,Yasamal r.",40.3813671477067,49.8146781056708
+1572237,97000,AZN,True,5,18,92.0,2,False,"Koroğlu m.,Sabunçu r.,Bakıxanov q.",40.4206841934553,49.9180126190186
+1572223,79000,AZN,False,3,5,55.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3890204636553,49.8031600724955
+1378502,64000,AZN,True,10,22,80.0,1,False,Yasamal r.,40.4127118421074,49.8007464408875
+1572216,170000,AZN,True,12,17,130.0,3,True,"Həzi Aslanov m.,Xətai r.",40.3726418129806,49.9544512605268
+1572214,175000,AZN,True,8,14,88.0,4,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4069232521524,49.8700077481933
+1433871,599000,AZN,True,13,14,201.0,4,True,Nəsimi r.,40.3977320597901,49.8139307255847
+1564856,42000,AZN,True,13,17,80.0,2,True,"Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.",40.4116131259691,49.8194960208337
+1572213,117000,AZN,True,17,17,118.0,3,False,"Qara Qarayev m.,Nizami r.",40.4176826317405,49.9338321127883
+1572211,125000,AZN,False,4,5,68.0,3,True,"Memarlıq və İnşaat Universiteti,Bakı Dövlət Universiteti,Yasamal r.",40.3691425428558,49.8105463964774
+1536263,260000,AZN,True,17,24,105.0,2,True,Nəsimi r.,40.3963263746305,49.8150725898437
+1535096,699000,AZN,True,10,11,330.0,6,True,"Ukrayna dairəsi,Əhmədli m.,Xətai r.",40.3816626812344,49.9540187783813
+1505263,275000,AZN,True,15,16,157.0,3,False,"Nəsimi bazarı,Koala parkı,Nəsimi r.",40.3944176333505,49.8404784736328
+836983,375000,AZN,True,7,18,250.0,5,False,"Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.",40.4199391374469,49.8185951458074
+1572203,120000,AZN,True,10,14,84.0,2,True,"Bakmil m.,Nəriman Nərimanov m.,Nərimanov r.",40.4098200374968,49.8725672337718
+1572206,245000,AZN,True,3,10,145.0,3,True,"Dövlət Statistika Komitəsi,M.Hüseynzadə parkı,İzmir parkı,Nizami m.,Yasamal r.",40.3840442249726,49.8251829380246
+1572199,72000,AZN,False,2,9,70.0,2,True,Xətai r.,40.3637622117929,49.9600984504022
+1572196,345000,AZN,True,4,14,192.0,4,True,"Tibb Universiteti,Nəsimi r.",40.3972120905728,49.8273785648041
+1572195,77000,AZN,False,2,2,50.0,2,True,"Neft Akademiyası,28 May m.,Pedaqoji Universiteti,Səməd Vurğun parkı,Bakı Musiqi Akademiyası,Milli Konservatoriya,Malokan bağı,Sahil m.,Nəsimi r.",40.3769619080264,49.8491902885132
+1572192,108000,AZN,True,10,15,56.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3903979018452,49.8026732532012
+1572186,340000,AZN,True,9,16,129.0,4,True,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4022877894049,49.8744182851641
+1572184,165000,AZN,True,8,20,87.0,2,True,"Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.",40.3991126811411,49.8582060285277
+1572182,185000,AZN,True,15,17,92.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.385783523509,49.8074021278294
+1572181,335000,AZN,True,2,10,220.0,9,True,"Qara Qarayev m.,Nizami r.",40.4163654329814,49.9301358910156
+1572178,168000,AZN,True,13,20,84.1,2,True,"Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.",40.3799810468373,49.8094681831422
+1572177,58000,AZN,True,6,16,103.0,3,True,"Qara Qarayev m.,Nizami r.",40.4171439726675,49.9283420288407
+1572176,126000,AZN,True,6,19,76.0,2,True,"İnşaatçılar m.,Yasamal r.,Yasamal q.",40.3902927112201,49.8026561737061
+1572175,54500,AZN,False,2,5,35.0,1,True,"Binəqədi r.,7-ci mikrorayon q.",40.4294916431354,49.8527456105873
+1572172,215000,AZN,True,10,16,164.0,3,False,"Nəriman Nərimanov m.,Nərimanov r.",40.402597976838,49.8640854431601
+1572171,145000,AZN,False,5,5,100.0,3,True,"Elmlər Akademiyası m.,Yasamal r.",40.3796868236412,49.8117426963868
+1572170,135000,AZN,False,5,5,75.0,3,True,"Səməd Vurğun parkı,28 May m.,Neft Akademiyası,Nəsimi r.",40.3793633055243,49.8533205573914
+1572169,135000,AZN,True,6,16,111.0,2,False,"Şərq bazarı,Nərimanov r.",40.3897322623618,49.856274838037
+1572167,29300,AZN,True,8,8,41.0,2,False,"Abşeron r.,Masazır q.",40.4908903871211,49.7633674868164
+1572166,300000,AZN,True,10,16,138.0,3,True,"Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Sirk,28 May m.,Nəsimi r.",40.3837527320951,49.8423093859767
+837009,215000,AZN,True,10,16,165.0,4,False,Yasamal r.,40.3977760939873,49.8015889256781
+1572164,84000,AZN,True,4,16,64.3,1,False,"Təhsil Nazirliyi,Azərbaycan turizm institutu,Nərimanov r.",40.3951253457302,49.8610813565917
+1572162,159000,AZN,False,2,2,55.0,3,True,"Mərkəzi Univermaq,Beşmərtəbə,Fontanlar bağı,Sahil m.,Nəsimi r.",40.3739974744048,49.8363640385095
+1572161,55000,AZN,True,2,16,80.0,3,True,"Qara Qarayev m.,Nizami r.",40.4165351472338,49.9282051959439
+1572159,60000,AZN,False,3,5,32.0,1,True,"İnşaatçılar m.,Yasamal r.",40.3897421249029,49.802773389441
+1516372,117000,AZN,False,2,6,62.0,3,True,"İnşaatçılar m.,Yasamal r.",40.3857198261897,49.8021685517912
+1572149,170000,AZN,True,16,17,107.0,3,True,"Yasamal bazarı,Yasamal r.",40.3813213806925,49.8070220085206
+1572141,145000,AZN,True,18,19,84.0,2,True,"20 Yanvar m.,Yasamal r.",40.3975013556301,49.805477056128
+1572140,220000,AZN,True,7,17,128.0,3,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4045140268141,49.876095057913
+1572139,67000,AZN,False,1,2,30.0,1,True,"Beşmərtəbə,Mərkəzi Univermaq,Qış parkı,Nizami m.,Nəsimi r.",40.3748977609805,49.8355772863018
+1572136,230000,AZN,True,4,16,123.0,3,True,"Dostluq kinoteatrı,Koala parkı,Zoopark,Nəsimi bazarı,Nəsimi r.",40.3913451674451,49.8438736931184
+1572130,325600,AZN,True,5,18,176.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3795354827896,49.8753355334031
+1572127,175000,AZN,True,10,11,170.0,4,True,"Memar Əcəmi m.,20 Yanvar m.,Nəsimi r.,5-ci mikrorayon q.",40.409869012966,49.8077630996704
+1572125,75000,AZN,False,2,9,60.0,2,True,"Neapol dairəsi,Xətai r.,Köhnə Günəşli q.",40.3804192813126,49.9692981257691
+1517555,175000,AZN,True,8,25,145.0,3,False,Yasamal r.,40.3958818520571,49.8155093193054
+1572123,176000,AZN,True,16,16,160.0,4,True,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4027729778822,49.8751575895018
+1480064,420000,AZN,True,17,18,140.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3795383439857,49.8753494093927
+1572118,77000,AZN,False,4,9,60.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3899633320075,49.788155002594
+1572115,149000,AZN,True,16,16,136.0,3,True,"Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.4030017398206,49.8757154889769
+1572109,459000,AZN,True,18,18,210.0,4,True,"Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,Yasamal q.",40.3820914861341,49.8224182650154
+1572111,60000,AZN,True,10,17,65.3,1,True,"Ukrayna dairəsi,Həzi Aslanov m.,Xətai r.",40.3779195731222,49.9537393066863
+1572102,310000,AZN,True,6,17,156.0,3,True,"Nəsimi bazarı,Koala parkı,Nəsimi r.",40.3950531642336,49.8403268737249
+1572101,59000,AZN,True,5,7,64.0,2,True,"Abşeron r.,Masazır q.",40.4935725427521,49.744578369068
+1572106,138000,AZN,True,5,16,154.0,3,False,"Yasamal r.,Yasamal q.",40.4037120121764,49.7983683216858
+1572056,335000,AZN,True,12,17,171.3,3,True,Nəsimi r.,40.3970747957248,49.8256587982178
+1572108,435000,AZN,True,6,14,190.0,4,True,"Park Zorge,Rusiya səfirliyi,Koala parkı,Sevil Qazıyeva parkı,Nəsimi r.",40.3887054448535,49.8367965205817
+1572099,260000,AZN,True,5,8,110.0,4,True,"Axundov bağı,Dövlət İdarəçilik Akademiyası,Prezident parkı,Qubernator parkı,Nərimanov heykəli,İçəri Şəhər m.,İqsadiyyat Universiteti,Şəlalə parkı,Sovetski,Səbail r.",40.3669597211555,49.8280522299853
+1572098,165000,AZN,True,18,18,125.0,3,False,"İnşaatçılar m.,Yasamal r.",40.393891426314,49.8023406754178
+1572097,210000,AZN,True,10,18,140.0,3,True,"20 Yanvar m.,Yasamal r.",40.4036454588711,49.8082236381593
+1572095,126000,AZN,True,17,24,109.0,2,False,Nəsimi r.,40.3953743865177,49.8163678531989
+1529204,185000,AZN,True,9,16,93.5,3,False,"Təhsil Nazirliyi,Nərimanov r.",40.3939884851689,49.8608707279405
+1564548,123000,AZN,True,11,17,68.0,2,True,"Səbail r.,Badamdar q.",40.3384753288496,49.8057187033443
+1564558,82000,AZN,False,2,5,45.8,3,True,"Səbail r.,Badamdar q.",40.3385957025661,49.8067760467529
+1564632,57000,AZN,False,2,5,34.0,2,True,"Səbail r.,Badamdar q.",40.3361750104645,49.80553150177
+1564649,85000,AZN,True,4,16,57.0,2,True,"Səbail r.,Badamdar q.",40.3412125693038,49.810209274292
+1572091,540000,AZN,True,17,19,217.0,4,True,"İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.",40.380456060124,49.8156226367467
+1572089,85000,AZN,False,9,9,60.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4094369924871,49.9693345710918
+1495099,374000,AZN,True,8,19,220.0,4,True,"İdman kompleksi,Yasamal r.,Yasamal q.",40.3927215719965,49.8203514063009
+1572087,120000,AZN,False,2,10,60.0,2,True,"Azərbaycan turizm institutu,Nəriman Nərimanov m.,Nərimanov r.",40.4017605038546,49.8626880187947
+1572081,70000,AZN,True,4,6,73.0,2,True,Binəqədi r.,40.4921643825077,49.7532606124878
+1572080,350000,AZN,True,4,19,195.0,4,True,"Təhsil Nazirliyi,Nərimanov r.",40.390368159019,49.8585476018737
+1572078,70000,AZN,False,4,5,33.0,2,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4078687135559,49.8666772995717
+1572075,190000,AZN,False,1,4,78.0,3,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4186141820191,49.932092373879
+1572070,200000,AZN,True,11,17,142.0,3,True,"Binəqədi r.,9-cu mikrorayon q.",40.4248660327922,49.8143291473389
+1572069,330000,AZN,True,10,14,120.0,3,True,"Qış parkı,Sirk,Bakı Musiqi Akademiyası,Milli Konservatoriya,Nəsimi r.",40.3795976601945,49.8398794127543
+1556298,175000,AZN,True,3,10,88.0,2,True,"Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Park Zorge,Nəsimi r.",40.3911164292011,49.8415513572388
+1572071,155000,AZN,True,6,16,90.0,2,True,"İnşaatçılar m.,Yasamal r.",40.3873905313038,49.8046086478768
+1572066,176000,AZN,True,9,17,110.0,3,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4040801784871,49.8720676847167
+1572061,299000,AZN,True,9,19,97.0,2,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3746848327134,49.8167208763184
+1572058,525000,AZN,True,14,17,210.0,4,True,"Bakı Musiqi Akademiyası,Milli Konservatoriya,Neft Akademiyası,28 May m.,Qış parkı,Nizami kinoteatrı,Nəsimi r.",40.3789513006697,49.8444279140563
+1572057,320000,AZN,True,5,21,156.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.3765156698631,49.8159054847779
+1572052,250000,AZN,True,8,19,136.0,3,True,"Sirk,Azərbaycan Dillər Universiteti,Zabitlər parkı,Bakı Slavyan Universiteti,Qış parkı,Nəsimi r.",40.3820454559398,49.8387833175354
+1572051,125000,AZN,False,4,9,80.0,3,True,"Yasamal bazarı,Yasamal r.",40.3806675626311,49.8044470878663
+1572048,73000,AZN,False,9,9,50.0,2,True,Nizami r.,40.4229966833579,49.9270964119106
+1421981,165000,AZN,False,4,4,75.0,3,True,"Koala parkı,Dostluq kinoteatrı,Park Zorge,Nəsimi bazarı,Nəsimi r.",40.3908341399973,49.8397098989505
+1401819,145000,AZN,True,8,19,67.0,1,True,"Neftçi bazası,TQDK,Nəsimi r.",40.3996409611156,49.8382025232984
+1421980,56000,AZN,False,4,5,33.0,1,True,"20 Yanvar m.,Nəsimi r.",40.4047688737723,49.8081281071051
+1076633,63500,AZN,False,9,9,50.0,1,True,"Gənclik m.,Nərimanov r.",40.4029573188688,49.8495242808316
+1448090,108000,AZN,True,17,19,56.0,1,True,"İnşaatçılar m.,Yasamal r.",40.3894192818598,49.8033390919441
+1443314,165000,AZN,True,7,16,91.0,2,True,"Zabitlər parkı,Sirk,Azərbaycan Dillər Universiteti,Nəsimi r.",40.3848258057839,49.8379423823949
+1251705,370000,AZN,True,10,20,154.0,3,True,"Yasamal bazarı,Yasamal r.",40.3821946069447,49.8086051553375
+1572046,280000,AZN,True,12,16,125.0,3,True,"Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Sirk,28 May m.,Nəsimi r.",40.3836468595464,49.8439671699633
+1572044,200000,AZN,True,12,17,146.0,3,False,"Azərbaycan turizm institutu,Təhsil Nazirliyi,Nərimanov r.",40.3961473103316,49.8621354007593
+1510013,185000,AZN,True,9,17,105.0,2,True,Binəqədi r.,40.4166257870986,49.8414048990853
+1356155,240000,AZN,True,8,16,120.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3824219889245,49.8717578665045
+1356015,255000,AZN,True,15,17,135.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3791083093446,49.8754875999393
+1572040,172000,AZN,False,4,5,80.0,3,True,"Dostluq kinoteatrı,Koala parkı,Zoopark,Nəsimi r.",40.3889591192578,49.8440833625488
+1572036,164000,AZN,True,8,14,122.0,3,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4027729778822,49.870866055078
+1572034,110000,AZN,True,16,17,86.0,2,True,"Xətai r.,Əhmədli q.",40.3622323676088,49.9647912421112
+1572032,97000,AZN,True,2,17,82.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3895547488878,49.7872752380371
+1572031,600000,AZN,False,3,4,220.0,7,True,"Malokan bağı,Sahil m.,Sahil bağı,Nizami kinoteatrı,Pedaqoji Universiteti,Milli Konservatoriya,Xalça Muzeyi,Səbail r.",40.3730599088107,49.8440975549816
+1572030,170000,AZN,False,3,9,108.0,3,True,"Neftçi bazası,TQDK,Nəsimi r.",40.4000428802837,49.8393197593384
+1572029,101000,AZN,True,14,18,82.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3895547488878,49.7872323226929
+1521980,136000,AZN,True,8,16,66.0,2,True,"Elmlər Akademiyası m.,İncəsənət və Mədəniyyət Un.,Yasamal r.,Yasamal q.",40.3778649875521,49.8154412190193
+1572027,70000,AZN,False,2,5,64.0,3,True,"Xəzər r.,Mərdəkan q.",40.4858521266988,50.1593537279413
+1572025,116000,AZN,False,8,9,70.0,3,True,"20 Yanvar m.,Yasamal r.",40.4034738891308,49.8079017730775
+1572024,110000,AZN,False,1,4,74.0,3,True,"Qara Qarayev m.,Nizami r.",40.4177458840251,49.928397819574
+1572023,105000,AZN,False,14,18,96.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3893401462312,49.7865715331191
+1403501,83000,AZN,False,2,2,80.0,3,True,"Binəqədi r.,M.Ə.Rəsulzadə q.",40.4371040923099,49.8446892025078
+1572020,95000,AZN,True,14,17,82.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.389325941258,49.7863311004639
+1572017,95000,AZN,True,15,17,82.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3887891204697,49.7863054275513
+1572013,80000,AZN,True,8,16,55.0,2,True,"Xətai r.,Əhmədli q.",40.3625321608847,49.9607294797897
+1572011,95000,AZN,True,3,12,134.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3903392262883,49.7882193756103
+1572010,72000,AZN,False,5,5,46.0,2,True,"Yasamal bazarı,Yasamal r.",40.3792506034691,49.8065540665149
+1572006,140000,AZN,True,3,14,60.0,2,True,"Səbail r.,Bayıl q.",40.3432051388351,49.8397760465852
+1355049,220000,AZN,True,4,16,121.0,3,False,"Koala parkı,Dostluq kinoteatrı,Zoopark,Nəsimi bazarı,Nəsimi r.",40.3919106681169,49.8436403274536
+1572004,134500,AZN,True,10,18,142.0,3,False,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4175814324427,49.9341825507571
+1571246,103000,AZN,True,7,15,77.7,1,False,"Yasamal r.,Yeni Yasamal q.",40.3950504326957,49.7887582935572
+1572001,63000,AZN,False,3,5,35.0,1,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.",40.3832235465287,49.8041788669648
+1571998,62000,AZN,False,2,5,32.0,3,True,"Yasamal bazarı,İnşaatçılar m.,Yasamal r.",40.3847179983999,49.8048597271255
+1571993,100000,AZN,True,18,19,66.0,2,False,"20 Yanvar m.,Yasamal r.",40.3984426921807,49.8079136643753
+1571990,192000,AZN,True,10,17,102.0,2,True,"Bakı Dövlət Universiteti,Elmlər Akademiyası m.,Yasamal r.",40.3753695876025,49.8085121196923
+1494346,170000,AZN,False,3,5,70.0,3,True,"Beşmərtəbə,Nizami m.,Yasamal r.",40.3756101230121,49.8321776926162
+1571987,167000,AZN,True,11,19,107.0,3,False,"20 Yanvar m.,Yasamal r.,Yasamal q.",40.4023382498241,49.8077944847169
+1571986,169000,AZN,True,16,18,112.0,3,True,"Binəqədi r.,7-ci mikrorayon q.",40.4279396386289,49.8526451312134
+1571983,135000,AZN,True,5,7,64.0,1,True,"Ağ şəhər,Xətai r.",40.3811559753572,49.8815347619629
+1571982,178000,AZN,True,21,27,143.0,3,False,Yasamal r.,40.3953033952975,49.8150947788637
+1571976,259000,AZN,True,3,17,127.0,3,True,Yasamal r.,40.382976329301,49.8093394371095
+1563717,243000,AZN,True,11,12,155.0,3,True,"28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Milli Konservatoriya,Nəsimi r.",40.3800128892439,49.8474763312229
+1571967,86000,AZN,True,7,10,50.0,2,True,"Nəsimi m.,Zərifə Əliyeva adına park,Binəqədi r.,6-cı mikrorayon q.",40.4244329897246,49.8251176925903
+1571964,52000,AZN,False,5,5,33.0,1,True,"Binəqədi r.,7-ci mikrorayon q.",40.4270167581498,49.8521086894104
+1571960,126000,AZN,True,8,10,95.0,2,True,"Sevil Qazıyeva parkı,Rusiya səfirliyi,Zabitlər parkı,M.Hüseynzadə parkı,Nəsimi r.",40.386713018057,49.832704667059
+1571957,96000,AZN,True,4,12,134.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3936920100429,49.7944164276123
+1471138,310000,AZN,True,8,18,140.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1523603,238000,AZN,True,16,16,135.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.",40.375124518269,49.8150157928467
+1571947,70000,AZN,False,2,9,60.0,2,True,"Ukrayna dairəsi,Əhmədli m.,Xətai r.,Əhmədli q.",40.3807952393684,49.9563905634766
+1377162,68000,AZN,False,5,5,39.0,2,True,"Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Yasamal r.",40.3843271807524,49.8233413696289
+1571935,100000,AZN,True,14,19,88.0,2,False,"Xətai r.,Həzi Aslanov q.",40.3550839519411,49.961986734668
+1571922,86000,AZN,False,9,9,78.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4199246361187,49.9625518888131
+1571917,330000,AZN,True,6,16,161.0,3,True,"Səməd Vurğun parkı,Port Baku,Səbail r.",40.3795199420352,49.8588072062558
+1571916,45000,AZN,False,5,5,46.1,2,True,"Xəzər r.,Binə q.",40.4477159956681,50.0795233729858
+1571913,77000,AZN,False,3,5,44.0,2,True,"Yasamal bazarı,Yasamal r.,Yasamal q.",40.3831379562269,49.8081068628768
+1571912,157000,AZN,True,15,19,88.5,2,True,"20 Yanvar m.,Yasamal r.",40.4037023390912,49.8075583211652
+1571911,110000,AZN,False,5,9,100.0,5,True,"Suraxanı r.,Yeni Günəşli q.",40.3876519355301,49.9830875856357
+1536832,157000,AZN,True,2,8,74.0,2,True,"Rəssamlıq Akademiyası,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.",40.3973478241039,49.8718960233397
+1437015,365000,AZN,True,8,17,174.0,4,False,Yasamal r.,40.3820773499159,49.8118607135835
+1555216,260000,AZN,True,11,17,127.0,3,False,"Neftçi bazası,Nərimanov r.",40.402650426524,49.8366449510141
+1437020,296000,AZN,True,8,17,141.0,3,False,Yasamal r.,40.3823102684535,49.8117212387147
+1569312,194000,AZN,True,16,18,95.0,2,False,Yasamal r.,40.3831397788094,49.8116722130156
+1563834,130000,AZN,False,2,5,64.0,3,True,"İdman kompleksi,Yasamal r.",40.393748661921,49.8198013756952
+1457270,103000,AZN,False,6,9,36.0,2,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4047613867024,49.8747156358531
+1571900,75000,AZN,True,19,20,82.0,2,True,Sabunçu r.,40.4345626945247,49.9569660620427
+1571894,72000,AZN,False,5,9,70.0,1,True,"Yasamal r.,Yasamal q.",40.3848277335811,49.8104748129845
+1571890,110000,AZN,True,11,13,55.0,2,True,"Azadlıq Prospekti m.,Binəqədi r.",40.4276755600837,49.8369884490967
+1571889,142000,AZN,False,5,9,100.0,3,True,"Yasamal r.,Yasamal q.",40.3852322592719,49.8104131221771
+1571888,60000,AZN,False,5,5,35.0,1,True,"Tibb Universiteti,Nəsimi r.",40.3975016232726,49.8265929902699
+1571883,270000,AZN,True,11,17,174.0,3,True,"Elmlər Akademiyası m.,Hüseyn Cavid parkı,Bakı Dövlət Universiteti,Texniki Universiteti,Yasamal r.,Yasamal q.",40.3731628646337,49.8143291473389
+1571875,155000,AZN,True,18,20,110.0,2,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4025492057955,49.8720136594217
+1571868,250000,AZN,True,9,21,123.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.4067284197134,49.8762759223393
+1571867,115000,AZN,True,11,13,96.0,2,True,"Azadlıq Prospekti m.,Binəqədi r.",40.4296380024146,49.8362892570108
+1571862,150000,AZN,True,13,16,101.0,3,True,"Yasamal r.,Yasamal q.",40.3931815215554,49.815402415808
+1571857,78500,AZN,False,2,5,35.0,1,True,"Gənclik m.,Respublika stadionu,Nərimanov r.",40.4028783672674,49.8510869564696
+1571854,97000,AZN,False,9,9,80.0,3,True,"Həzi Aslanov m.,Ukrayna dairəsi,Xətai r.,Əhmədli q.",40.3750155200574,49.9561220425395
+1571849,127000,AZN,True,2,13,100.0,2,True,"Nəsimi m.,Binəqədi r.,8-ci mikrorayon q.",40.4205312498184,49.8319297209357
+1571848,48000,AZN,False,1,2,23.5,1,True,"İncəsənət və Mədəniyyət Un.,Nizami m.,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3777968243002,49.8226768667227
+1571844,139000,AZN,False,4,9,100.0,4,True,"Yasamal r.,Yasamal q.",40.3918407995512,49.814738968656
+1571838,130000,AZN,True,6,15,100.0,2,True,"Əhmədli m.,Xətai r.,Əhmədli q.",40.3852588189544,49.9538469314575
+1571836,92000,AZN,True,8,14,58.0,2,True,"Bakı Asiya Universiteti,Nəsimi r.",40.397620627233,49.8204799232178
+1571835,118000,AZN,False,2,5,75.0,3,True,"Sabunçu r.,Bakıxanov q.",40.4219597179366,49.9608810548782
+1571834,107000,AZN,True,3,17,60.0,2,False,"Park Zorge,Rusiya səfirliyi,Sevil Qazıyeva parkı,Koala parkı,Nəsimi r.",40.3898688546077,49.8361392514186
+1571833,135000,AZN,True,9,17,98.0,3,True,"Əhmədli m.,Xətai r.",40.3850979324461,49.9538545919402
+1571832,158000,AZN,True,11,17,85.0,3,False,Nərimanov r.,40.4014362770632,49.8312504199
+1571831,150000,AZN,True,5,19,145.5,4,True,"Bakı Asiya Universiteti,Nəsimi r.",40.3976859928686,49.8180552062683
+1571830,140000,AZN,True,5,14,78.0,3,True,"Bakı Asiya Universiteti,Nəsimi r.",40.3976794303344,49.8214101791382
+1571829,75600,AZN,False,7,9,52.0,2,True,Nizami r.,40.4195306947901,49.943008085397
+1571824,128000,AZN,True,12,13,85.0,2,True,"Neftçilər m.,Nizami r.",40.4109740511058,49.9436113091065
+1571822,280000,AZN,True,7,18,140.0,3,True,"Botanika bağı,Səbail r.",40.3533529404504,49.8160960761064
+1571817,44500,AZN,True,2,6,51.0,2,False,"Abşeron r.,Masazır q.",40.4931097014208,49.7540119417725
+1571815,120000,AZN,False,5,5,48.0,2,True,Nərimanov r.,40.4112087520061,49.8657417297364
+1571806,57000,AZN,True,4,6,64.0,3,False,"Abşeron r.,Masazır q.",40.4921970193948,49.7532176971436
+1495741,67000,AZN,False,1,5,60.0,3,True,"Suraxanı r.,Əmircan q.",40.4353020590799,49.9937770016358
+1571800,15000,AZN,False,2,5,12.5,1,False,"Qaradağ r.,Sahil q.",40.2272177610066,49.5832930191796
+1571795,69000,AZN,True,5,16,62.0,2,False,"Ukrayna dairəsi,Əhmədli m.,Xətai r.,Əhmədli q.",40.3807298573372,49.9565622248535
+1571793,280000,AZN,True,6,17,156.0,3,True,"Neftçi bazası,Nərimanov r.",40.4022442115603,49.8352926370891
+1571792,290000,AZN,True,11,17,160.0,4,True,"Gənclik m.,Respublika stadionu,Nərimanov r.",40.4004199528234,49.8514683194823
+1571791,570000,AZN,True,6,17,230.0,4,True,"Sirk,Azərbaycan Dillər Universiteti,Zabitlər parkı,Bakı Slavyan Universiteti,Nəsimi r.",40.3833530589714,49.8397059974365
+1571790,100000,AZN,True,17,17,97.0,2,True,"Tibb Universiteti,Neftçi bazası,Nərimanov r.",40.3984590357808,49.8349888272948
+1571789,235000,AZN,True,4,16,137.0,3,False,"Neftçi bazası,TQDK,Nərimanov r.",40.4026422564256,49.837907070703
+1571788,167000,AZN,True,17,17,164.0,4,True,"Tibb Universiteti,Neftçi bazası,Nərimanov r.",40.3986714712189,49.8352248616881
+1571787,320000,AZN,True,8,17,140.0,4,True,"Tibb Universiteti,Neftçi bazası,Nəsimi r.",40.3984050106717,49.8345561561279
+1571786,450000,AZN,True,10,17,220.0,4,True,"Səməd Vurğun parkı,28 May m.,Nəsimi r.",40.3784330706569,49.8541738328628
+1571781,88000,AZN,False,8,9,96.0,5,False,"Suraxanı r.,Qaraçuxur q.",40.3982610954391,49.976640627631
+1571780,120000,AZN,True,4,14,91.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3897887742349,49.7872400851177
+1571777,128000,AZN,False,1,5,100.0,4,True,"Nərimanov heykəli,Sovetski,Space TV,Yasamal r.,Yasamal q.",40.3678899488613,49.8217923075834
+1571776,125000,AZN,True,4,17,90.0,3,True,"İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.",40.394153703583,49.7993359991105
+1477220,420000,AZN,True,3,7,146.0,4,True,"Ağ şəhər,Xətai r.",40.3818751696615,49.8898603387451
+1571771,73500,AZN,False,8,9,60.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4242219186806,49.967829174994
+1571770,78000,AZN,True,3,16,58.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.3902451289259,49.7942286217053
+1093828,185000,AZN,True,10,17,101.0,3,True,"Yasamal r.,Yasamal q.",40.3937728753229,49.8153781692943
+1490105,125000,AZN,True,14,17,68.6,2,True,"20 Yanvar m.,Yasamal r.",40.3977938200551,49.8083853721619
+1571760,85000,AZN,True,5,16,65.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3897892949494,49.7872352452067
+1571756,145000,AZN,True,2,7,87.0,3,True,"Xəzər r.,Binə q.",40.4548353897955,50.0704868852149
+1571754,65000,AZN,False,5,5,70.0,3,True,"Xəzər r.,Mərdəkan q.",40.4819756609977,50.1572341190199
+1571750,580000,AZN,True,9,14,225.0,4,True,"Nizami m.,Zabitlər parkı,Sirk,Nəsimi r.",40.3806695262495,49.8339557368559
+1571749,127000,AZN,True,5,14,100.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3898061110571,49.7871933126403
+1571749,127000,AZN,True,5,14,100.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3898061110571,49.7871933126403
+1571745,95000,AZN,True,14,17,82.0,2,True,"Yasamal r.,Yeni Yasamal q.",40.389634359669,49.7865933174625
+1571744,103000,AZN,True,8,15,56.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3902290195526,49.8027304740968
+1571742,48000,AZN,False,2,2,42.0,2,True,Suraxanı r.,40.3898407336969,50.0339735564067
+1571740,98000,AZN,True,10,14,155.0,3,False,"Yasamal r.,Yeni Yasamal q.",40.3900953012816,49.7876732760108
+1571739,110000,AZN,True,5,15,64.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3902290195526,49.8027304740968
+1571731,110000,AZN,True,8,19,56.0,2,False,"İnşaatçılar m.,Yasamal r.",40.3948036654421,49.806587363393
+1571730,112000,AZN,False,3,5,70.0,3,True,"İncəsənət və Mədəniyyət Un.,Dövlət Statistika Komitəsi,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3789641862762,49.8209507929518
+1571729,82000,AZN,True,6,16,93.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.389787191286,49.7872125103733
+1571727,125000,AZN,True,7,12,116.0,4,True,"Xətai r.,Əhmədli q.",40.361252678072,49.9564524920365
+1571725,173000,AZN,True,15,19,86.0,2,False,Yasamal r.,40.3837077627673,49.8114375217697
+1571724,67000,AZN,True,5,16,44.0,1,False,"Təhsil Nazirliyi,Nərimanov r.",40.3940549694386,49.8584874862517
+1571722,75000,AZN,True,5,15,68.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3897943265383,49.7872217865786
+1571721,240000,AZN,True,10,16,110.0,3,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4039133867755,49.8725652694703
+1571719,49000,AZN,False,9,9,46.0,1,True,"Neftçilər m.,Nizami r.",40.4080007492576,49.9465913861517
+1517568,170000,AZN,True,11,14,178.0,4,False,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4043089359831,49.8766167112059
+1571718,307900,AZN,True,5,18,180.0,4,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3851673761358,49.866888936297
+1571717,125000,AZN,True,8,16,100.0,3,True,"Yasamal r.,Yeni Yasamal q.",40.3898102941865,49.7872341762246
+1571711,76500,AZN,False,5,6,35.0,1,True,"Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.",40.3771185375294,49.8689868890053
+1571707,85000,AZN,True,2,16,71.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3898122846175,49.7872429801
+1571706,78000,AZN,False,2,9,60.0,2,True,"Nəsimi m.,Xətai r.,Əhmədli q.",40.4230568032552,49.8292590968886
+1571705,97000,AZN,True,16,17,97.0,2,True,"Tibb Universiteti,Nəsimi r.",40.3989932922536,49.8329253730469
+1571702,350000,AZN,True,5,17,140.0,4,True,"Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.",40.4041818486921,49.8722774929208
+1571698,85000,AZN,False,4,5,45.0,2,True,"Azərbaycan turizm institutu,Gənclik m.,Nərimanov r.",40.4025435529202,49.8614334177854
+1571695,112000,AZN,True,14,17,111.0,2,True,"Qara Qarayev m.,Nizami r.",40.4181990007573,49.9345132561279
+1571694,149000,AZN,True,6,16,115.0,2,False,"Neftçi bazası,TQDK,Nəsimi r.",40.4011246211446,49.8397695693449
+1518291,152000,AZN,True,15,17,74.0,2,True,"Elmlər Akademiyası m.,Yasamal r.,Yasamal q.",40.3783869353018,49.8131582604375
+1557249,225000,AZN,True,12,17,105.0,3,True,"Bakı Dövlət Universiteti,Elmlər Akademiyası m.,Yasamal r.",40.3759688004148,49.807287303614
+1571678,95000,AZN,False,2,5,70.0,3,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.3970126852536,49.9467105460937
+1332185,260000,AZN,True,14,18,153.0,3,True,"Zabitlər parkı,Sirk,Rusiya səfirliyi,Sevil Qazıyeva parkı,Nəsimi r.,Kubinka q.",40.3848034097654,49.8350896520934
+1515488,273000,AZN,True,5,7,140.0,3,True,"Ağ şəhər,Xətai r.",40.3804224041265,49.8831800710239
+1571672,77000,AZN,True,15,17,58.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3897905856539,49.7872190014616
+1543408,205000,AZN,False,2,3,115.0,3,True,"Sevil Qazıyeva parkı,Rusiya səfirliyi,Park Zorge,Nəsimi r.",40.3911164292011,49.8308654365234
+1571670,280000,AZN,True,14,18,145.0,3,True,"Nəsimi bazarı,Nəsimi r.",40.3956360077806,49.8419731081127
+1531488,239000,AZN,True,8,16,127.0,3,True,"İncəsənət və Mədəniyyət Un.,Dövlət Statistika Komitəsi,Nizami m.,Yasamal r.",40.3799155141174,49.8217512573157
+1571669,82000,AZN,True,4,14,67.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3897986382915,49.7872301965456
+1566979,133000,AZN,True,11,16,147.0,3,False,"Nəriman Nərimanov m.,Nərimanov r.",40.4025033645997,49.8785730143635
+1571665,310000,AZN,True,11,16,170.0,3,True,"Nəriman Nərimanov m.,Nərimanov r.",40.3993827903682,49.8665924429414
+1571663,140000,AZN,True,13,14,80.0,2,True,"Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.",40.3778543912068,49.8077630996704
+1571659,270000,AZN,True,8,16,100.0,2,True,"Neft Akademiyası,28 May m.,Səməd Vurğun parkı,Bakı Musiqi Akademiyası,Nəsimi r.",40.3782944027055,49.8499398265419
+1571658,95000,AZN,False,2,9,70.0,3,True,"Koroğlu m.,Nizami r.",40.4192952686416,49.9254903895717
+1570084,150000,AZN,False,1,2,90.0,3,True,"Nizami kinoteatrı,Qış parkı,Milli Konservatoriya,Malokan bağı,Sahil m.,Səbail r.",40.3745563984938,49.8402110300304
+1523828,425000,AZN,True,7,33,84.0,2,True,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3758423514933,49.8617068489767
+1530787,654500,AZN,True,9,33,137.0,3,True,"Port Baku,Cavanşir körpüsü,Səbail r.",40.3754790903692,49.860681649232
+1571654,115000,AZN,True,13,13,76.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4165197594395,49.9650515157014
+1571652,127000,AZN,True,5,12,76.0,2,True,"Sabunçu r.,Bakıxanov q.",40.4240084502124,49.9590289592743
+1571649,130000,AZN,False,1,5,72.0,3,True,"Rəssamlıq Akademiyası,Nərimanov r.",40.3938201935768,49.871022257819
+1409636,280000,AZN,True,12,22,94.0,3,True,Yasamal r.,40.3836197269509,49.8093879667712
+1140967,510000,AZN,True,12,20,155.0,4,True,Yasamal r.,40.3824001676187,49.8095206302819
+1385941,690000,AZN,True,14,20,205.0,5,True,Yasamal r.,40.3833236590322,49.8098497091639
+1559213,990000,AZN,True,9,20,242.0,4,True,"Yasamal r.,Yasamal q.",40.3831789598032,49.8098605871201
+1243637,1200000,AZN,True,19,21,300.0,4,True,Yasamal r.,40.3827125406709,49.8096922916588
+1334094,495000,AZN,True,7,22,198.0,3,True,"Şah İsmayıl Xətai m.,Xətai r.",40.3783611219163,49.8748934268951
+1571638,133000,AZN,True,16,19,132.0,3,True,"Nizami r.,8-ci kilometr q.",40.4115384572083,49.9526957074408
+1571637,320000,AZN,True,6,16,170.0,4,True,"Nəsimi bazarı,Nəsimi r.",40.3961825671946,49.8400064048462
+1571636,50000,AZN,True,7,20,50.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3923192369433,49.7949314117432
+1571630,121000,AZN,True,5,18,95.0,2,False,"Yasamal r.,Yeni Yasamal q.",40.3979874020529,49.7965449523926
+1571628,105000,AZN,True,11,17,60.0,2,True,"Binəqədi r.,7-ci mikrorayon q.",40.4317099666733,49.8488116264343
+1571627,67500,AZN,False,2,2,48.0,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4220548118879,49.9360611743674
+1571626,295000,AZN,True,9,16,150.0,3,True,"Nərimanov heykəli,Space TV,Texniki Universiteti,Sovetski,Yasamal r.",40.3681349823908,49.8204610655174
+1571623,152000,AZN,True,11,16,117.0,2,False,"Tibb Universiteti,Neftçi bazası,Nəsimi r.",40.3988886832639,49.8343276977539
+1571622,65000,AZN,True,2,24,48.0,1,True,"Yasamal r.,Yeni Yasamal q.",40.3893145615055,49.7900340812211
+1571621,472000,AZN,True,22,25,163.0,3,True,"Zabitlər parkı,Rusiya səfirliyi,Sirk,Park Zorge,Sevil Qazıyeva parkı,Nəsimi r.",40.3864281076028,49.8369054413711
+1571616,107000,AZN,False,8,9,100.0,4,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.404137230334,49.9553794456299
+1571615,95000,AZN,False,3,9,85.0,3,True,"Koroğlu m.,Nizami r.",40.4173129645568,49.917776271875
+1571614,80000,AZN,False,5,5,55.0,2,True,"Qara Qarayev m.,Nizami r.,8-ci kilometr q.",40.4176181029978,49.9342689873013
+1571611,1400000,AZN,True,5,9,275.0,4,True,"Zoopark,Nəsimi r.",40.3911164292011,49.8506923255615
+1571609,110000,AZN,False,3,9,70.0,3,True,Binəqədi r.,40.4740058356667,49.8276638230131
+1571607,107000,AZN,True,4,17,60.0,2,False,"Tibb Universiteti,Neftçi bazası,Nəsimi r.",40.3983559869745,49.8356934127502
+1571603,80000,AZN,False,1,9,80.0,3,True,"Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.",40.398908280037,49.955036122876
+1571598,81000,AZN,True,16,17,53.0,2,True,Yasamal r.,40.393928568114,49.79437203951
+1571597,1100000,AZN,True,4,14,278.0,5,True,"Sevil Qazıyeva parkı,Rusiya səfirliyi,M.Hüseynzadə parkı,Park Zorge,Nəsimi r.",40.3878752456668,49.8320856086125
